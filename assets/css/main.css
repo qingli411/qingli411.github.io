@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+cite {
+  font-style: italic;
+}
+
+dd {
+    padding-bottom: 1em;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -2260,7 +2268,6 @@ input, select, textarea {
 /* Icons */
 
 	.icon {
-		text-decoration: none;
 		position: relative;
 		text-decoration: none;
 	}
@@ -2325,7 +2332,7 @@ input, select, textarea {
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
-				top: -0.65em;
+				top: -1em;
 			}
 
 			#header .logo h1 {
@@ -2334,6 +2341,20 @@ input, select, textarea {
 
 			#header .logo p {
 				display: inline;
+				color: #C1CAC5;
+				padding-left: 0.5em;
+			}
+
+			#header .logo img {
+				display: inline-block;
+			  vertical-align: middle;
+			  width: 2em;
+			  height: 2em;
+			  border-radius: 50%;
+			}
+
+			#header .logo a {
+				text-decoration: none;
 				color: #C1CAC5;
 			}
 
@@ -2546,6 +2567,7 @@ input, select, textarea {
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
 	}
+
 
 /* Sidebar + Content */
 
