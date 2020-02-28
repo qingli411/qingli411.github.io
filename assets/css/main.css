@@ -161,6 +161,13 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+		a.anchor {
+			display: block;
+			position: relative;
+			top: -60px;
+			visibility: hidden;
+		}
+
 	b, strong {
 		font-weight: 700;
 		color: #6b7770;
@@ -2499,7 +2506,7 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/banner.png");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
@@ -2509,7 +2516,7 @@ input, select, textarea {
 
 		#banner .content {
 			position: relative;
-			background-color: rgba(21, 28, 23, 0.85);
+			background-color: rgba(21, 28, 23, 0.75);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
 			background-size: auto, 100% 250%;
@@ -2530,7 +2537,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #575d59;
+				color: #89908b;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
@@ -2540,21 +2547,21 @@ input, select, textarea {
 				-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				transition: border-color .2s ease-in-out, color .2s ease-in-out;
-				color: #b4b7b5;
+				color: #a4a8a5;
 				background: transparent !important;
 				border: solid 4px #575d59;
-				border-color: rgba(87, 93, 89, 0.35);
-				font-size: 1.5em;
+				border-color: rgba(242, 243, 242, 0.15);
+				font-size: 1em;
 			}
 
 				#banner .content .button:hover {
 					color: #e4e7e5;
-					border-color: rgba(87, 93, 89, 0.75);
+					border-color: rgba(242, 243, 242, 0.55);
 				}
 
 				#banner .content .button:active {
 					color: #fff;
-					border-color: #616763;
+					border-color: #d8dad8;
 				}
 
 /* Main */

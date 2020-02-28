@@ -1,182 +1,234 @@
 <!DOCTYPE HTML>
 <!--
-	TXT by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  TXT by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>Research - Qing Li</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="is-preload">
-		<div id="page-wrapper">
+  <head>
+    <title>Research - Qing Li</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
 
-			<!-- Header -->
-				<header id="header">
-					<div class="logo container">
-						<div>
-							<img src="images/me.jpg" alt=""/>
-							<p><a href="index.html" id="logo">Qing Li</a></p>
-						</div>
-					</div>
-				</header>
+      <!-- Header -->
+        <header id="header">
+          <div class="logo container">
+            <div>
+              <img src="images/me.jpg" alt=""/>
+              <p><a href="index.html" id="logo">Qing Li</a></p>
+            </div>
+          </div>
+        </header>
 
-			<!-- Nav -->
-				<nav id="nav">
-					<ul>
-						<li><a href="index.html">About</a></li>
-						<li class="current"><a href="research.html">Research</a>
-							<ul>
-								<li><a href="#">Langmuir turbulence</a></li>
-								<li><a href="#">Meridional heat transport</a></li>
-							</ul>
-						</li>
-						<li><a href="models.html">Models</a></li>
-						<li><a href="publications.html">Publications</a></li>
-						<li><a href="pdf/CV_Qing.pdf">CV</a></li>
-					</ul>
-				</nav>
+      <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">About</a></li>
+            <li class="current"><a href="research.html">Research</a>
+              <ul>
+                <li><a href="#langmuir-turbulence">Langmuir turbulence</a></li>
+                <li><a href="#anisotropy">Turbulence structure & anisotropy</a></li>
+                <li><a href="#parameterization">Modeling the OSBL turbulence</a></li>
+                <li><a href="#climate-impact">OSBL turbulence affects global climate</a></li>
+                <li><a href="#heat-budget">Heat budget in the climate system</a></li>
+                <li><a href="#gpu-computing">GPU accelerated computing</a></li>
+                <li><a href="#multiscale">Multiscale modeling</a></li>
+              </ul>
+            </li>
+            <li><a href="models.html">Models</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="pdf/CV_Qing.pdf">CV</a></li>
+          </ul>
+        </nav>
 
-			<!-- Main -->
-				<section id="main">
-					<div class="container">
-						<div class="row">
-							<div class="col-12">
-								<div class="content">
+      <!-- Main -->
+        <section id="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="content">
 
-									<!-- Content -->
+                  <!-- Content -->
 
-										<article class="box page-content">
+                    <article class="box page-content">
 
-											<header>
-												<h2>Research</h2>
-											</header>
+                      <header>
+                        <h2>Research</h2>
+                      </header>
 
-										</article>
+                    </article>
 
-								</div>
-								<div>
-									<div class="row">
-										<div class="col-4 col-6-medium col-12-small">
+                </div>
+                <div>
+                  <div class="row">
+                    <div class="col-4 col-6-medium col-12-small">
 
-											<!-- Feature -->
-												<section class="box feature">
-													<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-													<h3><a href="#">A Subheading</a></h3>
-													<p>
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-													</p>
-												</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="langmuir-turbulence"></a>
+                          <a href="publications.html#li2017jpo" class="image featured"><img src="images/langmuir.gif" alt=""/></a>
+                          <h3>Langmuir turbulence</h3>
+                          <p>
+                            Ocean surface waves affect the air-sea fluxes of heat, momentum and gases,
+                            thereby the regional and global climate.
+                            One important wave-related physical process is Langmuir turbulence, which
+                            results from the interaction between the ocean surface
+                            waves and the Eulerian currents and turbulence.
+                            It strongly affects the vertical mixing in the ocean surface boundary layer (OSBL).
+                            I study the physics of Langmuir turbulence using large eddy simulations (LES)
+                            of the wave phase averaged equations.
+                            The above figure is a snapshot of the vertical velocity in an LES of Langmuir turbulence.
+                            Note the streaks of downwelling regions (blue), which are associated with the more
+                            well-known Langmuir circulation.
+                            See more in my publication <a href="publications.html#li2017jpo">[6]</a> and
+                            <a href="publications.html#li2020prfluid">[11]</a>.
+                          </p>
+                        </section>
 
-										</div>
-										<div class="col-4 col-6-medium col-12-small">
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-											<!-- Feature -->
-												<section class="box feature">
-													<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-													<h3><a href="#">Another Subheading</a></h3>
-													<p>
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-													</p>
-												</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="anisotropy"></a>
+                          <a href="publications.html#li2020prfluid" class="image featured"><img src="images/anisotropy.gif" alt=""/></a>
+                          <h3>Turbulence structure & anisotropy</h3>
+                          <p>
+                            Turbulent flows driven by different forces have distinctive structures and anisotropy.
+                            I develop diagnostics to descripe these distinctive features of various turbulent flows.
+                            These diagnostics describe the complex structure of turbulent flows in a compact way
+                            and provide useful insights into the physics of turbulent flows, including their evolution
+                            and interaction with background fluid properties such as the stratification.
+                            One example is given by the anisotropic barycentric map and directional map shown above,
+                            which help explain the effect of Langmuir turbulence on the entrainment at the base
+                            of the ocean mixed layer.
+                            See more in my publication <a href="publications.html#li2020prfluid">[11]</a>.
+                            MATLAB tools to generate such plots can be found on
+                            <a href="https://github.com/qingli411/anisotropic_barycentric_map">Github</a>.
+                          </p>
+                        </section>
 
-										</div>
-										<div class="col-4 col-6-medium col-12-small">
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-											<!-- Feature -->
-												<section class="box feature">
-													<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-													<h3><a href="#">And Another</a></h3>
-													<p>
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-													</p>
-												</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="parameterization"></a>
+                          <a href="publications.html#li2019james" class="image featured"><img src="images/ltcomparison.gif" alt="" /></a>
+                          <h3>Modeling the OSBL turbulence</h3>
+                          <p>
+                            See more in my publication <a href="publications.html#li2019james">[9]</a>.
+                          </p>
+                        </section>
 
-										</div>
-										<div class="col-4 col-6-medium col-12-small">
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-											<!-- Feature -->
-												<section class="box feature">
-													<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-													<h3><a href="#">And One More</a></h3>
-													<p>
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-													</p>
-												</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="climate-impact"></a>
+                          <a href="publications.html#li2016ocemod" class="image featured"><img src="images/mldpchange.gif" alt="" /></a>
+                          <h3>OSBL turbulence affects global climate</h3>
+                          <p>
+                            See more in my publication <a href="publications.html#li2016ocemod">[4]</a> and
+                            <a href="publications.html#li2017ocemod">[5]</a>.
+                          </p>
+                        </section>
 
-										</div>
-										<div class="col-4 col-6-medium col-12-small">
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-											<!-- Feature -->
-												<section class="box feature">
-													<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-													<h3><a href="#">And One More</a></h3>
-													<p>
-														Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-														lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-													</p>
-												</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="heat-budget"></a>
+                          <a href="publications.html#yang2015clidyn" class="image featured"><img src="images/mht.gif" alt="" /></a>
+                          <h3>Heat budget in the climate system</h3>
+                            See more in my publication <a href="publications.html#yang2015clidyn">[1]</a>,
+                            <a href="publications.html#yang2015scirep">[2]</a> and
+                            <a href="publications.html#yang2016clidyn">[3]</a>.
+                          <p>
+                          </p>
+                        </section>
 
-										</div>
-									</div>
-								</div>
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-							</div>
-						</div>
-					</div>
-				</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="gpu-computing"></a>
+                          <a href="publications.html#li2020gmd" class="image featured"><img src="images/speedup.gif" alt="" /></a>
+                          <h3>GPU accelerated computing</h3>
+                          <p>
+                            See more in my publication <a href="publications.html#li2020gmd">[12]</a>,
+                          </p>
+                        </section>
 
-			<!-- Footer -->
-				<footer id="footer">
-					<div class="container">
-						<div class="row gtr-200">
-							<div class="col-12">
+                    </div>
+                    <div class="col-4 col-6-medium col-12-small">
 
-								<!-- Contact -->
-									<section>
-										<h2 class="major"><span>Get in touch</span></h2>
-										<ul class="contact">
-											<li><a class="icon solid fa-envelope" href="mailto:lqingpku@gmail.com?Subject=Hello"><span class="label">Email</span></a></li>
-											<li><a class="icon brands fa-google" href="https://scholar.google.com/citations?hl=en&user=nGz1OOwAAAAJ&view_op=list_works&gmla=AJsN-F795TuJ91n3Tw47xJLKgLuvZ8ajMkpuKJTGp7EiFprK-U836YxUsfjcJJKcZeKWdfaD5dgq01RWReWUHdxadsaeSLVZb__QCJIr5Z4rXuS7ebnA0fE"><span class="label">Google Scholar</span></a></li>
-											<li><a class="icon brands fa-github" href="https://github.com/qingli411"><span class="label">GitHub</span></a></li>
-											<li><a class="icon brands fa-researchgate" href="https://www.researchgate.net/profile/Qing_Li75"><span class="label">ResearchGate</span></a></li>
-										</ul>
-									</section>
+                      <!-- Feature -->
+                        <section class="box feature">
+                          <a class="anchor" id="multiscale"></a>
+                          <a href="publications.html#li2020gmd" class="image featured"><img src="images/mpascell.gif" alt="" /></a>
+                          <h3>Multiscale modeling</h3>
+                          <p>
+                            See more in my publication <a href="publications.html#li2020gmd">[12]</a>,
+                          </p>
+                        </section>
 
-							</div>
-						</div>
+                    </div>
+                  </div>
+                </div>
 
-						<!-- Copyright -->
-							<div id="copyright">
-								<ul class="menu">
-									<li>&copy; 2020 Qing Li. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-								</ul>
-							</div>
+              </div>
+            </div>
+          </div>
+        </section>
 
-					</div>
-				</footer>
+      <!-- Footer -->
+        <footer id="footer">
+          <div class="container">
+            <div class="row gtr-200">
+              <div class="col-12">
 
-		</div>
+                <!-- Contact -->
+                  <section>
+                    <h2 class="major"><span>Get in touch</span></h2>
+                    <ul class="contact">
+                      <li><a class="icon solid fa-envelope" href="mailto:lqingpku@gmail.com?Subject=Hello"><span class="label">Email</span></a></li>
+                      <li><a class="icon brands fa-github" href="https://github.com/qingli411"><span class="label">GitHub</span></a></li>
+                      <li><a class="icon brands fa-google" href="https://scholar.google.com/citations?hl=en&user=nGz1OOwAAAAJ&view_op=list_works&gmla=AJsN-F795TuJ91n3Tw47xJLKgLuvZ8ajMkpuKJTGp7EiFprK-U836YxUsfjcJJKcZeKWdfaD5dgq01RWReWUHdxadsaeSLVZb__QCJIr5Z4rXuS7ebnA0fE"><span class="label">Google Scholar</span></a></li>
+                      <li><a class="icon brands fa-researchgate" href="https://www.researchgate.net/profile/Qing_Li75"><span class="label">ResearchGate</span></a></li>
+                    </ul>
+                  </section>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+              </div>
+            </div>
 
-	</body>
+            <!-- Copyright -->
+              <div id="copyright">
+                <ul class="menu">
+                  <li>&copy; 2020 Qing Li. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                </ul>
+              </div>
+
+          </div>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.dropotron.min.js"></script>
+      <script src="assets/js/jquery.scrolly.min.js"></script>
+      <script src="assets/js/browser.min.js"></script>
+      <script src="assets/js/breakpoints.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script>
+
+  </body>
 </html>
