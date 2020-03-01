@@ -2549,9 +2549,10 @@ input, select, textarea {
 				transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				color: #a4a8a5;
 				background: transparent !important;
-				border: solid 4px #575d59;
+				border: solid 2px #575d59;
 				border-color: rgba(242, 243, 242, 0.15);
 				font-size: 1em;
+				margin: 0.1em 0 0.1em 0;
 			}
 
 				#banner .content .button:hover {
