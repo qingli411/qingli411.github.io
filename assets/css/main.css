@@ -2528,7 +2528,7 @@ input, select, textarea {
 
 			#banner .content h2 {
 				color: #fff;
-				font-size: 2.75em;
+				font-size: 2em;
 				margin: 0 0 0.5em 0;
 			}
 
@@ -2540,6 +2540,14 @@ input, select, textarea {
 				color: #89908b;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
+			}
+
+			#banner .content img {
+				display: inline-block;
+			  vertical-align: middle;
+			  width: 7em;
+			  height: 7em;
+			  border-radius: 50%;
 			}
 
 			#banner .content .button {
@@ -2812,7 +2820,7 @@ input, select, textarea {
 			}
 
 				#titleBar .title {
-					display: block;
+					display: none;
 					position: relative;
 					font-family: 'Open Sans Condensed', sans-serif;
 					font-weight: 700;
