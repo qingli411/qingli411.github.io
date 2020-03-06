@@ -2308,6 +2308,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.ai:before {
+			font-family: 'Academicons';
+		}
+
 /* Page Wrapper */
 
 	#page-wrapper > section {
