@@ -2000,6 +2000,30 @@ input, select, textarea {
 					background-color: #DA2713;
 				}
 
+				ul.contact li:hover a.fa-envelope {
+					background-color: #b1ddab
+				}
+
+				ul.contact li:hover a.fa-github {
+					background-color: #24292d
+				}
+
+				ul.contact li:hover a.ai-orcid {
+					background-color: #98c742
+				}
+
+				ul.contact li:hover a.ai-researchgate {
+					background-color: #39ccbb
+				}
+
+				ul.contact li:hover a.ai-publons {
+					background-color: #336699
+				}
+
+				ul.contact li:hover a.ai-google-scholar {
+					background-color: #4d91fe
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
