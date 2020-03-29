@@ -40,7 +40,7 @@
                 <li><a href="#multiscale">Multiscale modeling</a></li>
               </ul> -->
             </li>
-            <li><a href="models.html">Models</a></li>
+            <!-- <li><a href="models.html">Models</a></li> -->
             <li><a href="publications.html">Publications</a></li>
             <li><a href="presentations.html">Presentations</a></li>
             <li><a href="pdf/CV_Qing.pdf">CV</a></li>
@@ -67,57 +67,33 @@
                 </div>
                 <div>
                   <div class="row">
-                    <div class="col-4 col-6-medium col-12-small">
 
-                      <!-- Feature -->
+                    <!-- Feature -->
+                    <div class="col-4 col-6-medium col-12-small">
                         <section class="box feature">
                           <a class="anchor" id="langmuir-turbulence"></a>
-                          <a href="publications.html#li2017jpo" class="image featured"><img src="images/langmuir.gif" alt=""/></a>
+                          <a href="publications.html#li2020prfluid" class="image featured"><img src="images/anisotropy.gif" alt=""/></a>
                           <h3>Langmuir turbulence</h3>
                           <p>
-                            Ocean surface waves affect the air-sea fluxes of heat, momentum and gases,
-                            thereby the regional and global climate.
-                            One important wave-related physical process is Langmuir turbulence, which
-                            results from the interaction between the ocean surface
+                            Langmuir turbulence results from the interaction between the ocean surface
                             waves and the Eulerian currents and turbulence.
-                            It strongly affects the vertical mixing in the ocean surface boundary layer (OSBL).
+                            See <a href="https://youtu.be/OAOESUrh2FI">this video</a> for an example of its evidence at the sea surface.
+                            It strongly affects the turbulent mixing in the ocean surface boundary layer (OSBL),
+                            and therefore the transport and dispersion of pollutants, nutrients and other tracers.
                             I study the physics of Langmuir turbulence using large eddy simulations (LES)
-                            of the wave phase averaged equations.
-                            The above figure is a snapshot of the vertical velocity in an LES of Langmuir turbulence.
-                            Note the streaks of downwelling regions (blue), which are associated with Langmuir circulation
-                            with pairs of counter-rotating vortices aligned with the wind and waves.
-                            See more in my publications <a href="publications.html#li2017jpo">[6]</a> and
+                            of the wave phase averaged Boussinesq equations.
+                            <a href="https://youtu.be/0QcNs5Y8GmM">Here</a> is a movie of the simulated Langmuir turbulence in LES.
+                            My research on Langmuir turbulence has been focusing on its distinctive structure
+                            from shear and convective turbulence and its effect on the entrainment at the base of the OSBL.
+                            See more in papers <a href="publications.html#li2017jpo">[6]</a> and
                             <a href="publications.html#li2020prfluid">[11]</a>.
+                            I'm also interested in its interactions with other processes such as the submesoscale fronts and eddies.
                           </p>
                         </section>
-
                     </div>
+
+                    <!-- Feature -->
                     <div class="col-4 col-6-medium col-12-small">
-
-                      <!-- Feature -->
-                        <section class="box feature">
-                          <a class="anchor" id="anisotropy"></a>
-                          <a href="publications.html#li2020prfluid" class="image featured"><img src="images/anisotropy.gif" alt=""/></a>
-                          <h3>Diagnosing the turbulence structure</h3>
-                          <p>
-                            Turbulent flows driven by different forces have distinctive structures and anisotropy.
-                            I develop diagnostics to describe these distinctive features of various turbulent flows.
-                            These diagnostics describe the complex structure of turbulent flows in a compact way
-                            and provide useful insights into the physics of turbulent flows, including their evolution
-                            and interactions with background fluid properties such as the stratification.
-                            One example is given by the anisotropic barycentric map and directional map shown above,
-                            which help explain the effect of Langmuir turbulence on the entrainment at the base
-                            of the ocean mixed layer.
-                            See more in my publication <a href="publications.html#li2020prfluid">[11]</a>.
-                            MATLAB tools to generate such plots can be found on
-                            <a href="https://github.com/qingli411/anisotropic_barycentric_map">Github</a>.
-                          </p>
-                        </section>
-
-                    </div>
-                    <div class="col-4 col-6-medium col-12-small">
-
-                      <!-- Feature -->
                         <section class="box feature">
                           <a class="anchor" id="parameterization"></a>
                           <a href="publications.html#li2019james" class="image featured"><img src="images/ltcomparison.gif" alt="" /></a>
@@ -126,84 +102,91 @@
                             Small scale physical processes such as ocean surface boundary layer (OSBL) turbulence are
                             not resolved in climate models, at least not until the end of this century (see Figure&nbsp;1 of
                             <a href="https://www.semanticscholar.org/paper/Principles-and-advances-in-subgrid-modelling-for-Fox-Kemper-Bachman/947c0647d365b6b752e3e7b2a7cf055c32fc51e7">this paper</a>
-                            for how this was estimated). However, their effects on the global climate are nontrivial.
+                            for how this is estimated). However, their effects on the global climate are nontrivial.
                             I develop parameterizations to represent the effects of such small
                             scale physical processes in climate models. The above figure shows
-                            a comparison between 11 OSBL turbulence parameterizations with and without Langmuir turbulence.
-                            See more in my publication <a href="publications.html#li2019james">[9]</a>.
+                            a comparison between 11 OSBL turbulence parameterizations with and without Langmuir turbulence,
+                            of which I have contributed three (<a href="publications.html#li2016ocemod">KPPLT-VR12</a>,
+                            <a href="publications.html#li2017jpo">KPPLT-LF17</a> and <a href="publications.html#Reichl2019jpo">ePBL-LT</a>).
+                            See more in paper <a href="publications.html#li2019james">[9]</a>.
                             Many of these parameterizations have been implemented in the Community Ocean Vertical Mixing Project
                             (<a href="http://cvmix.github.io">CVMix</a>) and the General Ocean Turbulence Model
                             (<a href="https://gotm.net">GOTM</a>), which are libraries that can be easily used in many ocean models.
                           </p>
                         </section>
-
                     </div>
-                    <div class="col-4 col-6-medium col-12-small">
 
-                      <!-- Feature -->
+
+                    <!-- Feature -->
+                    <div class="col-4 col-6-medium col-12-small">
                         <section class="box feature">
                           <a class="anchor" id="climate-impact"></a>
                           <a href="publications.html#li2016ocemod" class="image featured"><img src="images/mldpchange.gif" alt="" /></a>
-                          <h3>Impact of ocean surface waves on global climate</h3>
+                          <h3>Impact of ocean surface waves on regional and global climate</h3>
                           <p>
+                            Ocean surface waves affect the air-sea fluxes of heat, momentum and gases,
+                            thereby the regional and global climate, but are missing in all the
+                            <a href="https://pcmdi.llnl.gov/mips/cmip5/">CMIP5</a> climate models.
                             A major part of my PhD work focused on assessing the impact of ocean surface waves on
                             global climate, in particular the effect of Langmuir turbulence.
                             I coupled a global climate model (<a href="http://www.cesm.ucar.edu">NCAR's CESM</a>) with an
                             ocean surface wave model (<a href="https://polar.ncep.noaa.gov/waves/">NOAA's WAVEWATCH&nbsp;III</a>) for this purpose.
                             I also developed a computationally efficient <i>statistical wave model</i> for Langmuir turbulence parameterizations
                             to avoid the significant computational cost of WAVEWATCH&nbsp;III.
-                            See more in my publications <a href="publications.html#li2016ocemod">[4]</a> and
+                            See more in papers <a href="publications.html#li2016ocemod">[4]</a> and
                             <a href="publications.html#li2017ocemod">[5]</a>.
-                            In addition to Langmuir turbulence, ocean surface waves also affect the global climate through
+                            In addition to Langmuir turbulence, ocean surface waves also affect the regional and global climate through
                             wave breaking, wave-current interactions and wave-sea ice interactions etc.
-                            Assessing these ocean surface wave effects on global climate is a future direction of my research .
+                            A coupled ocean surface wave component in climate models will also allow similar assessment of
+                            such effects.
                           </p>
                         </section>
-
                     </div>
-                    <div class="col-4 col-6-medium col-12-small">
 
-                      <!-- Feature -->
+                    <!-- Feature -->
+                    <div class="col-4 col-6-medium col-12-small">
                         <section class="box feature">
                           <a class="anchor" id="heat-budget"></a>
                           <a href="publications.html#yang2015clidyn" class="image featured"><img src="images/mht.gif" alt="" /></a>
                           <h3>The energy budget in the climate system and climate variability</h3>
                           <p>
-                            The poleward transport of the excessive solar energy absorbed at the low latitudes in the atmosphere
+                            The poleward transport of the excessive solar energy absorbed at low latitudes in the atmosphere
                             and the ocean largely determines the regional and global climate variability, which strongly shapes our
                             social and economical activities.
-                            For my master's degree, I worked on decomposing the meridional heat transport in the climate system
-                            and understanding the climate variability over the past 22,000 years from the energy perspective.
-                            See more in my publications <a href="publications.html#yang2015clidyn">[1]</a>,
+                            For my master's degree, I worked on decomposing the meridional heat transport in the climate system,
+                            and using climate models to understand the climate variability over the past 22,000 years from the energy perspective.
+                            See more in papers <a href="publications.html#yang2015clidyn">[1]</a>,
                             <a href="publications.html#yang2015scirep">[2]</a> and
                             <a href="publications.html#yang2016clidyn">[3]</a>.
                           </p>
                         </section>
-
                     </div>
-                    <div class="col-4 col-6-medium col-12-small">
 
-                      <!-- Feature -->
+                    <!-- Feature -->
+                    <div class="col-4 col-6-medium col-12-small">
                         <section class="box feature">
                           <a class="anchor" id="multiscale"></a>
-                          <a href="publications.html#li2020gmd" class="image featured"><img src="images/mpascell.gif" alt="" /></a>
+                          <a href="publications.html#li2020gmd" class="image featured"><img src="images/multiscale.gif" alt="" /></a>
                           <h3>Multiscale modeling</h3>
                           <p>
-                            Conventional parameterizations of vertical turbulent mixing in the ocean surface boundary layer (OSBL)
-                            assume a scale separation from the larger scale lateral processes. However, we know that the interactions
-                            between the OSBL turbulence and larger scale processes, such as submesoscale fronts and currents,
-                            can be important. Simulations that resolve all the important processes across multiple scales are desirable
-                            for studying such interactions, but they can be computationally overwhelming.
-                            One promissing solution is the multiscale modeling approach, which solves distinct sets of equations for the
-                            dynamics at different scales.
-                            See more in my publication <a href="publications.html#li2020gmd">[12]</a>,
+                            Ocean circulations are governed by processes ranging from planetary-scale forcing to
+                            microscale dissipation and mixing.
+                            Simulations that resolve all the important processes across multiple scales are desirable
+                            but computationally overwhelming.
+                            The multiscale modeling approach indends to solve distict sets of equations for the dynamics at different scale.
+                            At <a href="https://www.lanl.gov">LANL</a>,
+                            I've been working on coupling a large eddy simulation model (<a href="https://palm.muk.uni-hannover.de/trac">PALM</a>)
+                            with an ocean general circulation model (<a href="https://mpas-dev.github.io/ocean/ocean.html">MPAS-Ocean</a>).
+                            The goal is to extend the multiscale modeling capability of MPAS-Ocean to include the boundary layer turbulence,
+                            thus to better understand the interactions between the boundary layer turbulent mixing and
+                            larger scale processes with a loose but flexible coupling strategy.
+                            See more in paper <a href="publications.html#li2020gmd">[12]</a>.
                           </p>
                         </section>
-
                     </div>
-                    <div class="col-4 col-6-medium col-12-small">
 
-                      <!-- Feature -->
+                    <!-- Feature -->
+                    <div class="col-4 col-6-medium col-12-small">
                         <section class="box feature">
                           <a class="anchor" id="gpu-computing"></a>
                           <a href="publications.html#li2020gmd" class="image featured"><img src="images/speedup.gif" alt="" /></a>
@@ -212,16 +195,18 @@
                             General-purpose graphics processing units (GPUs) have rapidly evolved to become high performance accelerators
                             for modern supercomputers.
                             I have been working on accelerating the large eddy simulations (LES) using GPUs.
-                            I have successfully ported a lightweight version of <a href="https://palm.muk.uni-hannover.de/trac">PALM</a>
+                            I have ported a lightweight version of <a href="https://palm.muk.uni-hannover.de/trac">PALM</a>
                             on GPU using <a href="https://www.openacc.org">OpenACC</a>,
-                            a directive-based and performance-portable parallel programming model.
+                            a directive-based and performance-portable parallel programming model,
+                            and <a href="https://developer.nvidia.com/cufft">cuFFT</a>,
+                            the NVIDIA CUDA Fast Fourier Transform library.
                             Preliminary results with a single GPU show about 10 times speedup versus using a single CPU,
                             though additional speedup is still possible by further optimizing the loops and data locality.
-                            See more in my publication <a href="publications.html#li2020gmd">[12]</a>,
+                            See more in paper <a href="publications.html#li2020gmd">[12]</a>.
                           </p>
                         </section>
-
                     </div>
+
                   </div>
                 </div>
 

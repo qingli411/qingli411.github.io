@@ -206,13 +206,13 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 3em;
+		margin-bottom: 2em;
 	}
 
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 6em;
+		margin-bottom: 4em;
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
@@ -2558,6 +2558,12 @@ input, select, textarea {
 				color: #fff;
 				font-size: 2em;
 				margin: 0 0 0.5em 0;
+			}
+
+			#banner .content h3 {
+				color: #89908b;
+				font-size: 1.1em;
+				margin: 0 0 1em 0;
 			}
 
 			#banner .content p {
