@@ -154,10 +154,11 @@ input, select, textarea {
 
 	a {
 		color: #006376;
-		text-decoration: underline;
+    text-decoration: none;
 	}
 
 		a:hover {
+      color: #00aacc;
 			text-decoration: none;
 		}
 
