@@ -2577,6 +2577,10 @@ input, select, textarea {
 				margin: 0 0 1.25em 0;
 			}
 
+      #banner .content a:hover {
+        color: #e4e7e5
+      }
+
 			#banner .content img {
 				display: inline-block;
 			  vertical-align: middle;
