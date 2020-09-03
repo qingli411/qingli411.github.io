@@ -2251,6 +2251,35 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.box.feature {
+		border-top: solid 3px #f4f4f4;
+		margin-bottom: 0em;
+		padding-top: 3em;
+	}
+
+	.box.feature .image {
+		display: inline-block;
+		vertical-align: middle;
+		width: 300px;
+	}
+
+		.box.feature .image img {
+			display: block;
+			width: 100%;
+		}
+
+	.box.feature .inner {
+		text-align: left;
+		display: inline-block;
+		vertical-align: top;
+		margin-left: 2em;
+		width: calc(100% - 350px);
+	}
+
+		.box.feature .inner > :last-child {
+			margin-bottom: 0;
+		}
+
 	.box.post header {
 		margin: 0 0 2.5em 0;
 	}
@@ -2785,6 +2814,10 @@ input, select, textarea {
 				display: none;
 			}
 
+			.box.feature .inner {
+				margin-left: 1.5em;
+			}
+
 		/* Header */
 
 			#header {
@@ -3104,6 +3137,22 @@ input, select, textarea {
 
 			.box.highlight header > p {
 				font-size: 1.25em;
+			}
+
+			.box.feature {
+				margin-bottom: 1em;
+				padding-top: 2em;
+			}
+
+			.box.feature .image {
+				width: 350px;
+			}
+
+			.box.feature .inner {
+				text-align: center;
+				margin-left: 1em;
+				margin-right: 1em;
+				width: 85%;
 			}
 
 			.box.post h3 {
