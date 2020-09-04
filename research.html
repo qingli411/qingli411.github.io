@@ -65,7 +65,7 @@
                             waves and the Eulerian currents and turbulence.
                             See <a href="https://youtu.be/OAOESUrh2FI" target="_blank">this video</a> for an example of Langmuir turbulence seen at the sea surface.
                             It strongly affects the turbulent mixing in the ocean surface boundary layer (OSBL),
-                            and therefore the transport and dispersion of pollutants, nutrients and other tracers.
+                            and therefore the air-sea fluxes of heat, momentum and trace gases, as well as the transport and dispersion of pollutants, nutrients and other tracers.
                             I study the physics of Langmuir turbulence using large eddy simulations (LES)
                             of the wave phase averaged Boussinesq equations.
                             <a href="https://youtu.be/0QcNs5Y8GmM" target="_blank">Here</a> is a movie of the simulated Langmuir turbulence in LES.
@@ -73,7 +73,7 @@
                             from shear and convective turbulence and its effect on the entrainment at the base of the OSBL.
                             See more in papers <a href="publications.html#li2017jpo">[6]</a> and
                             <a href="publications.html#li2020prfluid">[11]</a>.
-                            I'm also interested in its interactions with other processes such as the submesoscale fronts and eddies.
+                            I'm also interested in its interactions with other processes such as submesoscale fronts and eddies.
                           </p>
                         </div>
                       </section>
@@ -89,9 +89,9 @@
                             Small scale physical processes such as ocean surface boundary layer (OSBL) turbulence are
                             not resolved in climate models, at least not until the end of this century (see Figure&nbsp;1 of
                             <a href="https://www.semanticscholar.org/paper/Principles-and-advances-in-subgrid-modelling-for-Fox-Kemper-Bachman/947c0647d365b6b752e3e7b2a7cf055c32fc51e7" target="_blank">this paper</a>
-                            for how this is estimated). However, their effects on the global climate are nontrivial.
+                            for how this is estimated). However, their effects on the global climate are significant.
                             I develop physically-based parameterizations to represent the effects of such small
-                            scale physical processes in climate models. The above figure shows
+                            scale physical processes in climate models. This figure shows
                             a comparison between 11 OSBL turbulence parameterizations with and without Langmuir turbulence,
                             of which I have contributed three (<a href="publications.html#li2016ocemod">KPPLT-VR12</a>,
                             <a href="publications.html#li2017jpo">KPPLT-LF17</a> and <a href="publications.html#Reichl2019jpo">ePBL-LT</a>).
@@ -142,7 +142,7 @@
                             and the ocean largely determines the regional and global climate variability, which strongly shapes our
                             social and economical activities.
                             For my master's degree, I worked on decomposing the meridional heat transport in the climate system,
-                            and using climate models to understand the climate variability over the past 22,000 years from the energy perspective.
+                            and using climate models to understand the climate variability over the past 22,000 years from the energetic perspective.
                             See more in papers <a href="publications.html#yang2015clidyn">[1]</a>,
                             <a href="publications.html#yang2015scirep">[2]</a> and
                             <a href="publications.html#yang2016clidyn">[3]</a>.
@@ -161,7 +161,7 @@
                             Ocean circulations are governed by processes ranging from planetary-scale forcing to
                             microscale dissipation and mixing.
                             Simulations that resolve all the important processes across multiple scales are desirable
-                            but computationally overwhelming.
+                            but extremely computationally expensive.
                             The multiscale modeling approach intends to solve distinct sets of equations for the dynamics at different scales.
                             At <a href="https://www.lanl.gov" target="_blank">LANL</a>,
                             I've been working on coupling a large eddy simulation model (<a href="https://palm.muk.uni-hannover.de/trac" target="_blank">PALM</a>)
@@ -190,7 +190,8 @@
                             a directive-based and performance-portable parallel programming model,
                             and <a href="https://developer.nvidia.com/cufft" target="_blank">cuFFT</a>,
                             the NVIDIA CUDA Fast Fourier Transform library.
-                            Preliminary results with a single GPU show more than 10 times speedup versus using a single CPU,
+                            Preliminary results with a single GPU show more than 10 times overall speedup versus using a single CPU,
+                            limited primarily by the relatively slow parallel Fast Fourier Transform algorithm,
                             though additional speedup is still possible by further optimizing the loops and data locality.
                             See more in paper <a href="publications.html#li2020gmd">[12]</a>.
                           </p>
