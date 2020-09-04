@@ -3150,9 +3150,9 @@ input, select, textarea {
 
 			.box.feature .inner {
 				text-align: center;
-				margin-left: 1em;
-				margin-right: 1em;
-				width: 85%;
+				margin-left: 0em;
+				margin-right: 0em;
+				width: 100%;
 			}
 
 			.box.post h3 {
