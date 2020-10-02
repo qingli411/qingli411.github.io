@@ -210,6 +210,30 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	details {
+    text-decoration: none;
+	}
+
+		details > summary {
+			color: #006376;
+		  padding: 3px 6px;
+		  border: none;
+			outline:none;
+		  cursor: pointer;
+		  list-style: none;
+			width: 100px;
+		}
+
+			details > summary:hover {
+				color: #00aacc;
+			}
+
+		details > p {
+		  padding: 0.5em 1.5em 1em 1.5em;
+		  margin: 0;
+	}
+
+
 /* Section/Article */
 
 	section, article {

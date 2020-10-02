@@ -60,7 +60,8 @@
                           Karsten Bolding, Hans Burchard, and Lars Umlauf.
                         Extending the general ocean turbulence model (GOTM) for Langmuir turbulence
                           parameterizations.
-                        In preparation.</dd>
+                        In preparation.
+                      </dd>
 
                         <dd>[13] <strong>Qing Li</strong>,
                           Brandon&nbsp;G. Reichl, Baylor Fox-Kemper, and
@@ -74,7 +75,22 @@
                         Towards multiscale modeling of ocean surface turbulent mixing using coupled
                           MPAS-Ocean v6.3 and PALM v5.0.
                         <cite>Geoscientific Model Development</cite>.
-                        Submitted.</dd>
+                        Submitted.
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            A multiscale modeling approach for studying the ocean surface turbulent mixing is explored by coupling an ocean general circulation model (GCM) MPAS-Ocean with the PArallel Large eddy simulation Model (PALM).
+                            The coupling approach is similar to the superparameterization approach that has been used mostly to represent the effects of deep convection in atmospheric GCMs.
+                            However, since the emphasis here is on the small-scale turbulent mixing processes and their interactions with the larger-scale processes, a high-fidelity, three-dimensional large eddy simulation (LES) model is used, in contrary to a simplified process-resolving model with reduced physics or reduced dimension commonly used in the superparameterization literature.
+                            To reduce the computational cost, a customized version of PALM is ported on the general-purpose graphics processing unit (GPU) with OpenACC, achieving 10-16 times overall speedup as compared to running on a single CPU.
+                            Even with the GPU-acceleration technique, superparameterization of the ocean surface turbulent mixing using high-fidelity and three-dimensional LES over the global ocean in GCMs is still computationally intensive and infeasible for long simulations.
+                            However, running PALM regionally on selected MPAS-Ocean grid cells is shown to be a promising approach moving forward.
+                            The flexible coupling between MPAS-Ocean and PALM outlined here allows further exploration of the interactions between ocean surface turbulent mixing and larger-scale processes, and development of better ocean surface turbulent mixing parameterizations in GCMs.
+                          </p>
+                        </details>
+                        </dd>
 
                         <a class="anchor" id="li2020prfluid"></a>
                         <dd>[11] <strong>Qing Li</strong> and Baylor Fox-Kemper.
@@ -84,6 +100,21 @@
                           entrainment.</a>
                         <cite>Physical Review Fluids</cite>, 5, 013803.
                         <a class="fas fa-file-pdf" href="pdf/LiFox-Kemper2020.pdf" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            The anisotropy and structure of turbulence simulated by large-eddy simulations with and without Stokes-drift forcing are analyzed, with an emphasis on the linkage between the distinctive structure of Langmuir turbulence near the surface where cellular vortices aligned with the wind and wave propagation direction are apparent and the Langmuir-enhanced mixed layer entrainment at the base of the ocean surface boundary layer (OSBL) where turbulent structures differ.
+                            The tensor invariants of the Reynolds stresses, the variance of vertical velocity and buoyancy, and the velocity gradient statistics are used to categorize turbulence structures as a function of depth, including an extension of the barycentric map to show the direction as well as the magnitude of turbulence anisotropy and a vector-invariant extension of the Okubo-Weiss parameter.
+                            The extended anisotropic barycentric map and the velocity gradient statistics are demonstrated to be useful, providing compact information of the anisotropy, orientation, and structure of turbulent flows.
+                            It is found that the distinctive anisotropy and structures of Langmuir turbulence are quickly lost below regions where Stokes drift shear is significant and vortices are apparent, consistent with past observations and model results.
+                            As a result, the turbulent structures near the base of the OSBL are not significantly affected by the presence of Stokes drift above but are instead dominated by local Eulerian shear, except in one important manner.
+                            Langmuir turbulence does affect the mixed layer entrainment by providing extra available turbulent kinetic energy (TKE) via enhanced near-surface TKE production and higher vertical TKE transport energizing the turbulent structures near the base of the OSBL.
+                            The additional TKE is utilized by structures similar to those that exist without Stokes drift forcing in terms of anisotropy of their Reynolds stresses, but they are more energetic because of the Langmuir turbulence.
+                            Thus, parametrizing the major aspects of Langmuir turbulence on entrainment at the base of the OSBL can be incorporated through enhancing available energy without other modifications.
+                          </p>
+                        </details>
                         </dd>
 
                         <h3>2019</h3>
@@ -108,6 +139,22 @@
                         The DOE E3SM coupled model version 1: Description and results at high resolution.</a>
                         <cite>Journal of Advances in Modeling Earth Systems</cite>, 11, 4095&#x2013;4146.
                         <a class="fas fa-file-pdf" href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001870" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            This study provides an overview of the coupled high‐resolution Version 1 of the Energy Exascale Earth System Model (E3SMv1) and documents the characteristics of a 50‐year‐long high‐resolution control simulation with time‐invariant 1950 forcings following the HighResMIP protocol.
+                            In terms of global root‐mean‐squared error metrics, this high‐resolution simulation is generally superior to results from the low‐resolution configuration of E3SMv1 (due to resolution, tuning changes, and possibly initialization procedure) and compares favorably to models in the CMIP5 ensemble.
+                            Ocean and sea ice simulation is particularly improved, due to better resolution of bathymetry, the ability to capture more variability and extremes in winds and currents, and the ability to resolve mesoscale ocean eddies.
+                            The largest improvement in this regard is an ice‐free Labrador Sea, which is a major problem at low resolution.
+                            Interestingly, several features found to improve with resolution in previous studies are insensitive to resolution or even degrade in E3SMv1.
+                            Most notable in this regard are warm bias and associated stratocumulus deficiency in eastern subtropical oceans and lack of improvement in El Niño.
+                            Another major finding of this study is that resolution increase had negligible impact on climate sensitivity (measured by net feedback determined through uniform +4K prescribed sea surface temperature increase) and aerosol sensitivity.
+                            Cloud response to resolution increase consisted of very minor decrease at all levels.
+                            Large‐scale patterns of precipitation bias were also relatively unaffected by grid spacing.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="li2019james"></a>
@@ -127,6 +174,21 @@
                           turbulence.</a>
                         <cite>Journal of Advances in Modeling Earth Systems</cite>, 11, 3545&#x2013;3592.
                         <a class="fas fa-file-pdf" href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001810" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            Six recent Langmuir turbulence parameterization schemes and five traditional schemes are implemented in a common single‐column modeling framework and consistently compared.
+                            These schemes are tested in scenarios versus matched large eddy simulations, across the globe with realistic forcing (JRA55‐do, WAVEWATCH‐III simulated waves) and initial conditions (Argo), and under realistic conditions as observed at ocean moorings.
+                            Traditional non‐Langmuir schemes systematically underpredict large eddy simulation vertical mixing under weak convective forcing, while Langmuir schemes vary in accuracy.
+                            Under global, realistic forcing Langmuir schemes produce 6% (−1% to 14% for 90% confidence) or 5.2 m (−0.2 m to 17.4 m for 90% confidence) deeper monthly mean mixed layer depths than their non‐Langmuir counterparts, with the greatest differences in extratropical regions, especially the Southern Ocean in austral summer.
+                            Discrepancies among Langmuir schemes are large (15% in mixed layer depth standard deviation over the mean): largest under wave‐driven turbulence with stabilizing buoyancy forcing, next largest under strongly wave‐driven conditions with weak buoyancy forcing, and agreeing during strong convective forcing.
+                            Non‐Langmuir schemes disagree with each other to a lesser extent, with a similar ordering.
+                            Langmuir discrepancies obscure a cross‐scheme estimate of the Langmuir effect magnitude under realistic forcing, highlighting limited understanding and numerical deficiencies.
+                            Maps of the regions and seasons where the greatest discrepancies occur are provided to guide further studies and observations.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="Reichl2019jpo"></a>
@@ -136,6 +198,22 @@
                         A parameterization with a constrained potential energy conversion rate of
                           vertical mixing due to Langmuir turbulence.</a>
                         <cite>Journal of Physical Oceanography</cite>, 49, 2935&#x2013;2959.
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            In this study we develop a new parameterization for turbulent mixing in the ocean surface boundary layer (OSBL), including the effect of Langmuir turbulence.
+                            This new parameterization builds on a recent study (Reichl and Hallberg 2018, hereafter RH18), which predicts the available energy for turbulent mixing against stable stratification driven by shear and convective turbulence.
+                            To investigate the role of Langmuir turbulence in the framework of RH18, we utilize data from a suite of previously published large-eddy simulation (LES) experiments (Li and Fox-Kemper 2017, hereafter LF17) with and without Langmuir turbulence under different idealized forcing conditions.
+                            We find that the parameterization of RH18 is able to reproduce the mixing simulated by the LES in the non-Langmuir cases, but not the Langmuir cases.
+                            We therefore investigate the enhancement of the integrated vertical buoyancy flux within the entrainment layer in the presence of Langmuir turbulence using the LES data.
+                            An additional factor is introduced in the RH18 framework to capture the enhanced mixing due to Langmuir turbulence.
+                            This additional factor depends on the surface-layer averaged Langmuir number with a reduction in the presence of destabilizing surface buoyancy fluxes.
+                            It is demonstrated that including this factor within the RH18 OSBL turbulent mixing parameterization framework captures the simulated effect of Langmuir turbulence in the LES, which can be used for simulating the effect of Langmuir turbulence in climate simulations.
+                            This new parameterization is compared to the KPP-based Langmuir entrainment parameterization introduced by LF17, and differences are explored in detail.
+                        </p>
+                        </details>
                         </dd>
 
                         <dd>[7] Ana&nbsp;Beatriz Villas&nbsp;Boas,
@@ -157,6 +235,18 @@
                           Requirements and challenges for the next decade.</a>
                         <cite>Frontiers in Marine Science</cite>, 6, 425.
                         <a class="fas fa-file-pdf" href="https://www.frontiersin.org/articles/10.3389/fmars.2019.00425/pdf" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            Ocean surface winds, currents, and waves play a crucial role in exchanges of momentum, energy, heat, freshwater, gases, and other tracers between the ocean, atmosphere, and ice.
+                            Despite surface waves being strongly coupled to the upper ocean circulation and the overlying atmosphere, efforts to improve ocean, atmospheric, and wave observations and models have evolved somewhat independently.
+                            From an observational point of view, community efforts to bridge this gap have led to proposals for satellite Doppler oceanography mission concepts, which could provide unprecedented measurements of absolute surface velocity and directional wave spectrum at global scales.
+                            This paper reviews the present state of observations of surface winds, currents, and waves, and it outlines observational gaps that limit our current understanding of coupled processes that happen at the air-sea-ice interface.
+                            A significant challenge for the coming decade of wind, current, and wave observations will come in combining and interpreting measurements from (a) wave-buoys and high-frequency radars in coastal regions, (b) surface drifters and wave-enabled drifters in the open-ocean, marginal ice zones, and wave-current interaction "hot-spots", and (c) simultaneous measurements of absolute surface currents, ocean surface wind vector, and directional wave spectrum from Doppler satellite sensors.
+                          </p>
+                        </details>
                         </dd>
 
                         <h3>2015-2018</h3>
@@ -170,6 +260,21 @@
                           flux in the ocean surface boundary layer.</a>
                         <cite>Journal of Physical Oceanography</cite>, 47, 2863&#x2013;2886.
                         <a class="fas fa-file-pdf" href="https://journals.ametsoc.org/doi/pdf/10.1175/JPO-D-17-0085.1" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            Large-eddy simulations (LESs) with various constant wind, wave, and surface destabilizing surface buoyancy flux forcing are conducted, with a focus on assessing the impact of Langmuir turbulence on the entrainment buoyancy flux at the base of the ocean surface boundary layer.
+                            An estimate of the entrainment buoyancy flux scaling is made to best fit the LES results.
+                            The presence of Stokes drift forcing and the resulting Langmuir turbulence enhances the entrainment rate significantly under weak surface destabilizing buoyancy flux conditions, that is, weakly convective turbulence.
+                            In contrast, Langmuir turbulence effects are moderate when convective turbulence is dominant and appear to be additive rather than multiplicative to the convection-induced mixing.
+                            The parameterized unresolved velocity scale in the K-profile parameterization (KPP) is modified to adhere to the new scaling law of the entrainment buoyancy flux and account for the effects of Langmuir turbulence.
+                            This modification is targeted on common situations in a climate model where either Langmuir turbulence or convection is important and may overestimate the entrainment when both are weak.
+                            Nevertheless, the modified KPP is tested in a global climate model and generally outperforms those tested in previous studies.
+                            Improvements in the simulated mixed layer depth are found, especially in the Southern Ocean in austral summer.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="li2017ocemod"></a>
@@ -180,6 +285,19 @@
                         <a href="http://dx.doi.org/10.1016/j.ocemod.2017.03.016" target="_blank">
                         Statistical models of global Langmuir mixing.</a>
                         <cite>Ocean Modelling</cite>, 113, 95&#x2013;114.
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            The effects of Langmuir mixing on the surface ocean mixing may be parameterized by applying an enhancement factor which depends on wave, wind, and ocean state to the turbulent velocity scale in the K-Profile Parameterization.
+                            Diagnosing the appropriate enhancement factor online in global climate simulations is readily achieved by coupling with a prognostic wave model, but with significant computational and code development expenses.
+                            In this paper, two alternatives that do not require a prognostic wave model, (i) a monthly mean enhancement factor climatology, and (ii) an approximation to the enhancement factor based on the empirical wave spectra, are explored and tested in a global climate model.
+                            Both appear to reproduce the Langmuir mixing effects as estimated using a prognostic wave model, with nearly identical and substantial improvements in the simulated mixed layer depth and intermediate water ventilation over control simulations, but significantly less computational cost.
+                            Simpler approaches, such as ignoring Langmuir mixing altogether or setting a globally constant Langmuir number, are found to be deficient.
+                            Thus, the consequences of Stokes depth and misaligned wind and waves are important.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="li2016ocemod"></a>
@@ -191,6 +309,22 @@
                         <a href="http://dx.doi.org/10.1016/j.ocemod.2015.07.020" target="_blank">
                         Langmuir mixing effects on global climate: WAVEWATCH III in CESM.</a>
                         <cite>Ocean Modelling</cite>, 103, 145&#x2013;160.
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            Large-Eddy Simulations (LES) have shown the effects of ocean surface gravity waves in enhancing the ocean boundary layer mixing through Langmuir turbulence.
+                            Neglecting this Langmuir mixing process may contribute to the common shallow bias in mixed layer depth in regions of the Southern Ocean and the Northern Atlantic in most state-of-the-art climate models.
+                            In this study, a third generation wave model, WAVEWATCH III, has been incorporated as a component of the Community Earth System Model, version 1.2 (CESM1.2).
+                            In particular, the wave model is now coupled with the ocean model through a modified version of the K-Profile Parameterization (KPP) to approximate the influence of Langmuir mixing.
+                            Unlike past studies, the wind-wave misalignment and the effects of Stokes drift penetration depth are considered through empirical scalings based on the rate of mixing in LES.
+                            Wave-Ocean only experiments show substantial improvements in the shallow biases of mixed layer depth in the Southern Ocean.
+                            Ventilation is enhanced and low concentration biases of pCFC-11 are reduced in the Southern Hemisphere.
+                            A majority of the improvements persist in the presence of other climate feedbacks in the fully coupled experiments.
+                            In addition, warming of the subsurface water over the majority of global ocean is observed in the fully coupled experiments with waves, and the cold subsurface ocean temperature biases are reduced.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="yang2016clidyn"></a>
@@ -202,6 +336,20 @@
                           and vertical diffusion.</a>
                         <cite>Climate Dynamics</cite>, 46, 3387&#x2013;3403.
                         <a class="fas fa-file-pdf" href="https://link.springer.com/content/pdf/10.1007/s00382-015-2774-z.pdf" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            Effects of wind and fresh water on the Atlantic meridional overturning circulation (AMOC) are investigated using a fully coupled climate model.
+                            The AMOC can change significantly when perturbed by either wind stress or freshwater flux in the North Atlantic.
+                            This study focuses on wind stress effect. Our model results show that the wind forcing is crucial in maintaining the AMOC.
+                            Reducing wind forcing over the ocean can cause immediately weakening of the vertical salinity diffusion and convection in the mid-high latitudes Atlantic, resulting in an enhancement of vertical salinity stratification that restrains the deep water formation there, triggering a slowdown of the thermohaline circulation.
+                            As the thermohaline circulation weakens, the sea ice expands southward and melts, providing the upper ocean with fresh water that weakens the thermohaline circulation further.
+                            The wind perturbation experiments suggest a positive feedback between sea-ice and thermohaline circulation strength, which can eventually result in a complete shutdown of the AMOC.
+                            This study also suggests that sea-ice variability may be also important to the natural AMOC variability on decadal and longer timescales.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="yang2015scirep"></a>
@@ -212,6 +360,20 @@
                         Heat transport compensation in atmosphere and ocean over the past 22,000 years.</a>
                         <cite>Scientific Reports</cite>, 5, 16661.
                         <a class="fas fa-file-pdf" href="https://www.nature.com/articles/srep16661.pdf" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            The Earth’s climate has experienced dramatic changes over the past 22,000 years; however, the total meridional heat transport (MHT) of the climate system remains stable.
+                            A 22,000-year-long simulation using an ocean-atmosphere coupled model shows that the changes in atmosphere and ocean MHT are significant but tend to be out of phase in most regions, mitigating the total MHT change, which helps to maintain the stability of the Earth’s overall climate.
+                            A simple conceptual model is used to understand the compensation mechanism.
+                            The simple model can reproduce qualitatively the evolution and compensation features of the MHT over the past 22,000 years.
+                            We find that the global energy conservation requires the compensation changes in the atmosphere and ocean heat transports.
+                            The degree of compensation is mainly determined by the local climate feedback between surface temperature and net radiation flux at the top of the atmosphere.
+                            This study suggests that an internal mechanism may exist in the climate system, which might have played a role in constraining the global climate change over the past 22,000 years.
+                          </p>
+                        </details>
                         </dd>
 
                         <a class="anchor" id="yang2015clidyn"></a>
@@ -222,6 +384,23 @@
                         Decomposing the meridional heat transport in the climate system.</a>
                         <cite>Climate Dynamics</cite>, 44, 2751&#x2013;2768.
                         <a class="fas fa-file-pdf" href="https://link.springer.com/content/pdf/10.1007/s00382-014-2380-5.pdf" target="_blank"></a>
+                        <details>
+                          <summary>
+                            Abstract
+                          </summary>
+                          <p>
+                            The meridional heat transport (MHT) in the climate system is investigated using a state-of-the-art coupled climate model (CESM1.0).
+                            This work decomposes the MHT and studies their physics in detail. The meridional ocean heat transport (OHT) can be decomposed into the contributions from the Euler mean circulation, bolus circulation, sub-mesoscale circulation and dissipation.
+                            The Euler mean heat transport dominates the total OHT in most latitudes, except that in the Southern Ocean (40–50°S) where the OHT is determined by the eddy-induced circulation and dissipation.
+                            In the Indo-Pacific the OHT is fulfilled by the wind-driven circulation, which dominates the total global OHT in the tropics.
+                            In the Atlantic the OHT is carried by both the wind-driven circulation and the thermohaline circulation, and the latter dominates the total OHT in the mid-high latitudes.
+                            The meridional atmosphere heat transport consists of the dry static energy (DSE) and latent energy (LE) transport.
+                            In the tropics the LE transport is equatorward and compensates partially the poleward DSE transport.
+                            In the extratropics, the LE and DSE are poleward and reinforce one another, both of which are dominated by the eddy components.
+                            The LE transport can be considered as the "joint air–sea mode" since the ocean controls the moisture supply.
+                            It can be also precisely obtained from the evaporation minus precipitation over the ocean and thus this work quantifies the individual ocean basin contributions to the LE transport.
+                          </p>
+                        </details>
                         </dd>
 
                       </section>
@@ -236,6 +415,25 @@
                       Langmuir Turbulence and Its Effects on Global Climate.</a>
                       Brown University, Providence, RI, USA.
                       <a class="fas fa-file-pdf" href="https://repository.library.brown.edu/studio/item/bdr:792672/PDF/" target="_blank"></a>
+                      <details>
+                        <summary>
+                          Abstract
+                        </summary>
+                        <p>
+                          Ocean surface gravity waves, especially the resulting Langmuir turbulence, affect the ocean surface vertical mixing, yet are missing in most of the global climate models (GCM).
+                          The lack of explicit representation of such effects in GCMs may contribute to persistent biases in the simulated ocean mixed layer depth (MLD), air-sea fluxes and temperature distribution and tracer concentrations in the upper ocean.
+                          To assess the effects of Langmuir turbulence on the simulation of global climate, parameterizations are developed based on large eddy simulations (LES) of the ocean surface boundary layer (OSBL), which are able to simulate some of the key features of Langmuir turbulence.
+                          In particular, two effects of Langmuir turbulence are distinguished: enhanced vertical mixing within the OSBL, and enhanced entrainment at the base of the OSBL.
+                          The former is parameterized by a wave-related enhancement factor on the turbulent velocity scale in the K-Profile Parameterization (KPP) based on the scaling law of the root-mean-square vertical velocity from previous studies.
+                          The latter is parameterized by a wave-related unresolved shear term in KPP based on the scaling law of the entrainment buoyancy flux from a new set of LES experiments.
+                          The latter approach is supported by further analyses of the structure and anisotropy of Langmuir turbulence, which show no significant impact of Langmuir turbulence on the predominant processes that drive entrainment at the base of the OSBL except the extra energy through enhanced downward TKE transport.
+                          The modified KPP is then implemented and tested in the NCAR earth system model, CESM.
+                          A state-of-the-art ocean surface wave model, WAVEWATCH III, is incorporated into CESM to provide the necessary wave information.
+                          It is found that accounting for both effects of Langmuir turbulence in CESM significantly reduces the shallow MLD biases in the Southern Ocean, and improves the simulated intermediate water ventilation and ocean subsurface temperature.
+                          To avoid large computational and code development expenses of coupling a prognostic wave model with a climate model, two statistical approaches to parameterize the effects of Langmuir turbulence are explored and tested in CESM.
+                          Both appear to reproduce the effects of Langmuir turbulence as estimated using WAVEWATCH III with significantly less computational cost.
+                        </p>
+                      </details>
                       </dd>
 
                       </section>
