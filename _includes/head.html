@@ -1,8 +1,8 @@
 <head>
-  {% if page.title %}
-    <title>{{ page.title }}</title>
+  {% if page.language == "sc" %}
+    <title>{{ page.title }} | {{ site.author_sc }}</title>
   {% else %}
-    <title>{{ site.title }}</title>
+    <title>{{ page.title }} | {{ site.author }}</title>
   {% endif %}
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
