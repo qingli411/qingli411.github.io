@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 language: en
 tab: index
 layout: about
