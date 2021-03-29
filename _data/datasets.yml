@@ -1,0 +1,23 @@
+- li2019data:
+  type: article
+  author: <strong>Qing Li</strong>, Brandon Reichl, and Baylor Fox-Kemper
+  year: 2019
+  url: https://doi.org/10.26300/mknw-3842
+  title: Source code and data for comparing Langmuir turbulence parameterization schemes
+  journal: Brown University Open Data Collection
+
+- li2017data:
+  type: article
+  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  year: 2017
+  url: http://dx.doi.org/10.7266/N7GX4909
+  title: Dataset for "Statistical models of global Langmuir mixing"
+  journal: Consortium for Advanced Research on Transport of Hydrocarbon in the Environment II (CARTHE II)
+
+- li2016data:
+  type: article
+  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, &#xd8;yvind Breivik, and Adrean Webb
+  year: 2016
+  url: http://dx.doi.org/10.7301/Z0348H86
+  title: Monthly mean enhancement factor climatology for Langmuir mixing parameterization
+  journal: Brown University Open Data Collection

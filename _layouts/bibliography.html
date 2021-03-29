@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for section in page.sections %}
+  <header>
+    <h2>{{ section.title }}</h2>
+  </header>
+  <section>
+    {% assign bibdata=site.data[section.data] %}
+    {% include bib.html data=bibdata %}
+  </section>
+{% endfor %}

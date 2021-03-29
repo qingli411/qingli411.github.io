@@ -1,0 +1,171 @@
+- OMWG2021:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: An Update on Langmuir Mixing Parameterizations in CESM2.2
+  meeting: CESM Ocean Model Working Group Meeting
+  address: Virtual Meeting Online
+  date: February 2021
+  note: Talk
+
+- OSM2020:
+  type: conference
+  author: <strong>Qing Li</strong> and Luke Van&nbsp;Roekel
+  title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean and PALM
+  meeting: Ocean Sciences Meeting
+  address: San Diego, CA, USA
+  date: February 2020
+  note: Poster
+
+- WTD2019:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Modeling the ocean surface boundary layer vertical mixing by Langmuir turbulence
+  meeting: 9th Warnem&#xfc;nde Turbulence Days (WTD) on Ocean Mixing and its Efficiency
+  address: Putbus, Germany
+  date: December 2019
+  note: Talk (Invited)
+
+- AOFD2019:
+  type: conference
+  author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, Peter Caldwell, Jean-Christophe Golaz, Mathew Maltrud, Azamat Mametjanov, Qi Tang, and Jonathan Wolfe
+  title: Labrador Sea air-sea fluxes, circulation, and sea-ice in High-Res and Low-Res E3SM
+  meeting: 22nd Conference on Atmospheric and Oceanic Fluid Dynamics
+  address: Portland, ME, USA
+  date: June 2019
+  note: Poster
+
+- AGU2018:
+  type: conference
+  author: <strong>Qing Li</strong>, Brandon&nbsp;G. Reichl, Baylor Fox-Kemper, Alistair Adcroft, Stephen Belcher, Gokhan Danabasoglu, Alan Grant, Stephen&nbsp;M. Griffies, Robert&nbsp;W. Hallberg, Tetsu Hara, Ramsey Harcourt, Tobias Kukulka, William&nbsp;G. Large, James&nbsp;C. McWilliams, Brodie Pearson, Peter Sullivan, Luke Van&nbsp;Roekel, Peng Wang, and Zhihua Zheng
+  title: Comparing ocean boundary vertical mixing schemes with Langmuir turbulence
+  meeting: AGU Fall Meeting
+  address: Washington, DC, USA
+  date: December 2018
+  note: Talk
+
+- PODS2018:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence and its effects on global climate.
+  meeting: Physical Oceanography Dissertation Symposium X
+  address: Kailua-Kona, HI, USA
+  date: October 2018
+  note: Talk
+
+- GRC2018:
+  type: conference
+  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  title: Anisotropy of Langmuir turbulence and the entrainment buoyancy flux
+  meeting: Gordon Research Conference on Ocean Mixing
+  address: Andover, NH, USA
+  date: June 2018
+  note: Poster
+
+- OSM2018:
+  type: conference
+  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  title: Anisotropy of Langmuir turbulence and the entrainment buoyancy flux
+  meeting: Ocean Sciences Meeting
+  address: Portland, OR, USA
+  date: February 2018
+  note: Poster
+
+- CLIVAR2016:
+  type: conference
+  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  title: Surface wind wave induced entrainment at the base of the ocean surface boundary layer
+  meeting: CLIVAR Open Science Conference
+  address: Qingdao, China
+  date: Septemper 2016
+  note: Poster
+
+- CESM2016:
+  type: conference
+  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, Adrean Webb, &#xd8;yvind Breivik, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: A statistical modeling of the Langmuir mixing effects on the global climate
+  meeting: 21st CESM Workshop
+  address: Breckenridge, CO, USA
+  date: June 2016
+  note: Talk
+
+- Liege2016:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: A statistical modeling of the Langmuir mixing effects on global climate
+  meeting: 48th International Li&#xe8;ge Colloquium On Ocean Dynamics
+  address: Li&#xe8;ge, Belgium
+  date: May 2016
+  note: Poster
+
+- OSM2016:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing affects the global climate&#58; A statistical modeling.
+  meeting: Ocean Sciences Meeting
+  address: New Orleans, LA, USA
+  date: February 2016.
+  note: Talk
+
+- APSDFD2015:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
+  meeting: 68th APS Annual Division of Fluid Dynamics Meeting
+  address: Boston, MA, USA
+  date: November 2015
+  note: Poster
+
+- COWCLIP2015:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
+  meeting: 4th COWCLIP Workshop
+  address: Paris, France
+  date: September 2015
+  note: Talk
+
+- CESM2015:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, An William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing in CESM
+  meeting: 20th CESM Workshop
+  address: Breckenridge, CO, USA
+  date: June 2015
+  note: Talk
+
+- AGU2014:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
+  meeting: AGU Fall Meeting
+  address: San Francisco, CA, USA
+  date: December 2014
+  note: Poster
+
+- IMA2014:
+  type: conference
+  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
+  meeting: IMA Workshop on the Impact of Waves Along Coastlines
+  address: Minneapolis, MN, USA
+  date: October 2014
+  note: Poster
+
+- CESM2014:
+  type: conference
+  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
+  title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM&#58; Langmuir mixing in KPP.
+  meeting: 19th CESM Workshop
+  address: Breckenridge, CO, USA
+  date: June 2014
+  note: Talk
+
+- OSM2014:
+  type: conference
+  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
+  title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM
+  meeting: Ocean Sciences Meeting
+  address: Honolulu, HI, USA
+  date: February 2014
+  note: Poster
+

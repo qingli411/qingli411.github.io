@@ -1,0 +1,20 @@
+<section id="banner">
+  <div class="content">
+    <img src="{{ site.avatar }}" alt=""/>
+    {% if page.language == "sc" %}
+      <h2>{{ site.author_sc }}</h2>
+    {% else %}
+      <h2>{{ site.author }}</h2>
+    {% endif %}
+    <h3>
+      {{ page.job }}
+    <h3>
+    <h3>
+      {{ page.affiliation }}
+    </h3>
+    <a class="button scrolly" href="mailto:{{ site.email }}?Subject=Hello" target="_blank">Email</a>
+    {% for social in site.data.social %}
+      <a class="button scrolly" href="{{ social.url }}" target="_blank">{{ social.title }}</a>
+    {% endfor %}
+  </div>
+</section>

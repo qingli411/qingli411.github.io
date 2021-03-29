@@ -1,0 +1,20 @@
+- github:
+  title: GitHub
+  icon: brands fa-github
+  url: https://github.com/qingli411
+- orcid:
+  title: ORCID
+  icon: ai ai-orcid
+  url: https://orcid.org/0000-0002-6464-0977
+- googlescholar:
+  title: Google Scholar
+  icon: ai ai-google-scholar
+  url: https://scholar.google.com/citations?user=nGz1OOwAAAAJ&hl=en
+- researchgate:
+  title: ResearchGate
+  icon: ai ai-researchgate
+  url: https://www.researchgate.net/profile/Qing_Li75
+- publons:
+  title: Publons
+  icon: ai ai-publons
+  url: https://publons.com/researcher/1330265

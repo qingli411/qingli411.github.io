@@ -1,0 +1,16 @@
+- title: index
+  label: About
+  label_sc: 关于
+
+- title: research
+  label: Research
+  label_sc: 科研工作
+
+- title: publications
+  label: Publications
+  label_sc: 发表论文
+
+- title: presentations
+  label: Presentations
+  label_sc: 会议报告
+

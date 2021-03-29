@@ -1,0 +1,54 @@
+{% assign nitem = 0 %}
+{% for item in include.data %}
+  {% assign nitem = nitem | plus: 1 %}
+{% endfor%}
+
+{% assign counter = nitem %}
+{% for item in include.data %}
+  {% if item.type == "article" %}
+    <a class="anchor" id="{{ item | first }}"></a>
+    <dd>
+      [{{ counter }}] {{ item.author}}.
+      {% if item.year %}({{ item.year }}).{% endif %}
+      {% if item.url %}
+        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>.
+      {% else %}
+        {{ item.title }}.
+      {% endif %}
+      {% if item.journal %}<cite>{{ item.journal }}</cite>.{% endif %}
+      {% if item.volume %}{{ item.volume }}.{% endif %}
+      {% if item.pages %}{{ item.pages }}.{% endif %}
+      {% if item.note %}{{ item.note }}.{% endif %}
+      {% if item.pdf %}
+        <a class="fas fa-file-pdf" href="{{ item.pdf }}" target="_blank"></a>
+      {% endif %}
+      {% if item.abstract %}
+      <details>
+        <summary>Abstract</summary>
+        <p>{{ item.abstract }}</p>
+      </details>
+      {% endif %}
+    </dd>
+  {% elsif item.type == "conference" %}
+    <dd>
+      [{{ counter }}] {{ item.author }}.
+      {% if item.url %}
+        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>.
+      {% else %}
+        {{ item.title }}.
+      {% endif %}
+      In <cite>{{ item.meeting }}</cite>.
+      {% if item.organization %}{{ item.organization }}.{% endif %}
+      {% if item.address %}{{ item.address }}.{% endif %}
+      {{ item.date }}.
+      {% if item.note %}{{ item.note }}.{% endif %}
+    </dd>
+  {% else %}
+    <dd>
+      [{{ counter }}] {{ item.author }}.
+      {{ item.title }}.
+      {% if item.note %}{{ item.note }}.{% endif %}
+    </dd>
+  {% endif %}
+  {% assign counter = counter | minus: 1 %}
+{% endfor %}

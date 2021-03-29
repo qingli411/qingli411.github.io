@@ -1,0 +1,125 @@
+- Princeton2021:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Towards multi-scale modeling of ocean surface turbulent mixing using coupled mpas-ocean and palm
+  meeting: GEO/AOS/HMEI Climate Seminar
+  address: Virtual Meeting Online
+  date: March 2021
+  organization: Princeton University
+
+- E3SM2021:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Towards multi-scale modeling of ocean surface turbulent mixing using coupled mpas-ocean and palm
+  meeting: E3SM All-Hands Seminar
+  address: Virtual Meeting Online
+  date: March 2021
+  organization: Los Alamos National Laboratory
+
+- HKUST2021:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence and its effects on global climate
+  meeting: EOAS Research Seminar
+  address: Virtual Meeting Online
+  date: January 2021
+  organization: The Hong Kong University of Science and Technology
+
+- LANL2019:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Towards a better parameterization of ocean surface mixing in ocean general circulation models
+  meeting: COSIM Seminar
+  address: Los Alamos, NM, USA
+  date: October 2019
+  organization: Los Alamos National Laboratory
+
+- NCAR2019:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Comparing ocean boundary vertical mixing schemes with Langmuir turbulence
+  meeting: Oceanography Seminar
+  address: Boulder, CO, USA
+  date: August 2019
+  organization: Climate and Global Dynamics Laboratory, National Center for Atmospheric Research
+
+- PKU2018:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence and its effects on global climate
+  meeting: AOS Seminar
+  address: Beijing, China
+  date: December 2018
+  organization: Peking University
+
+- Brown2018:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: A brief discussion on climate modeling
+  meeting: DEEPS Student Seminar
+  address: Providence, RI, USA
+  date: July 2018
+  organization: Brown University
+
+- GFDL2018:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence-enhanced entrainment and its effects on global climate
+  meeting: GFDL Lunchtime Seminar
+  address: Princeton, NJ, USA
+  date: May 2018
+  organization: Geophysical Fluid Dynamics Laboratory
+
+- LANL2018:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence and its effects on global climate
+  meeting: COSIM Seminar
+  address: Los Alamos, NM, USA
+  date: April 2018
+  organization: Los Alamos National Laboratory
+
+- Yale2017:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir turbulence and its effects on global climate
+  meeting: AOCD Seminar
+  address: New Haven, CT, USA
+  date: December 2017
+  organization: Yale University
+
+- Brown2017:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Modeling Langmuir turbulence and its effects on global climate
+  meeting: DEEPS Lunch Bunch
+  address: Providence, RI, USA
+  date: October 2017
+  organization: Brown University
+
+- WHOI2017:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Modeling Langmuir turbulence and its effects on global climate
+  meeting: Physical Oceanography Seminars
+  address: Woods Hole, MA, USA
+  date: October 2017
+  organization: Woods Hole Oceanographic Institution
+
+- Brown2016:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Statistical models of global Langmuir mixing
+  meeting: DEEPS Lunch Bunch
+  address: Providence, RI, USA
+  date: November 2016
+  organization: Brown University
+
+- Brown2015:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
+  meeting: DEEPS Lunch Bunch
+  address: Providence, RI, USA
+  date: November 2015
+  organization: Brown University

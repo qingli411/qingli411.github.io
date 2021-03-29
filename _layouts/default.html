@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<!--
+  TXT by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <!-- Head -->
+  {% include head.html %}
+
+  <body class="is-preload">
+    <div id="page-wrapper">
+
+      <!-- Header -->
+        {% include header.html %}
+
+      <!-- Nav -->
+        {% include nav.html %}
+
+      <!-- Main -->
+        <section id="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="content">
+
+                  <!-- Content -->
+
+                    <article class="box page-content">
+
+                      {{ content }}
+
+                    </article>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      <!-- Footer -->
+      {% include footer.html %}
+
+    </div>
+
+    <!-- Scripts -->
+    {% include scripts.html %}
+
+  </body>
+</html>
