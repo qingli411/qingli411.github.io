@@ -2273,12 +2273,10 @@ input, select, textarea {
 
 	.box.feature {
 		text-align: center;
-	}
-
-	.box.feature {
 		border-top: solid 3px #f4f4f4;
 		margin-bottom: 0em;
 		padding-top: 3em;
+		padding-bottom: 3em;
 	}
 
 	.box.feature .image {
@@ -3166,6 +3164,7 @@ input, select, textarea {
 			.box.feature {
 				margin-bottom: 1em;
 				padding-top: 2em;
+				padding-bottom: 2em;
 			}
 
 			.box.feature .image {
