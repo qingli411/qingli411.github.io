@@ -5,7 +5,6 @@ tab: index
 layout: about
 job: Postdoctoral research associate
 affiliation: Fluid Dynamics and Solid Mechanics, Los Alamos National Laboratory
-
 ---
 
 I am interested in the physics of the ocean and the ocean's role in our climate system, as well as numerical methods that efficiently solve problems in these areas. In particular, I study the physics of small scale processes at the air-sea interface, such as boundary layer turbulence, ocean surface waves and the resulting ocean mixing. I develop physically-based parameterizations to describe their effects on larger scale processes in climate models and assess their impact on the regional and global climate. I also explore novel approaches to improve the efficiency of numerical models for studying the interactions between physical processes across scales, such as GPU-accelerated computing and multiscale modeling.

@@ -13,6 +13,5 @@ sections:
   - section3:
     title: Other presentations
     data: othertalks
-
 ---
 
