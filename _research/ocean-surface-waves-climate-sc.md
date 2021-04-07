@@ -2,7 +2,7 @@
 title: 海浪对区域和全球气候的影响
 anchor_id: ocean-surface-waves-climate
 image: images/mldpchange.gif
-image_url: publications.html#li2016ocemod
+image_url: publications_sc.html#li2016ocemod
 language: sc
 order: 3
 ---

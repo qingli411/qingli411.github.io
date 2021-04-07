@@ -2,7 +2,7 @@
 title: 拉缪尔（Langmuir）湍流
 anchor_id: langmuir-turbulence
 image: images/anisotropy.gif
-image_url: publications.html#li2020prfluid
+image_url: publications_sc.html#li2020prfluid
 language: sc
 order: 1
 ---

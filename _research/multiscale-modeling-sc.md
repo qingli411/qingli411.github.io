@@ -2,7 +2,7 @@
 title: 多尺度建模
 anchor_id: multiscale-modeling
 image: images/multiscale.gif
-image_url: publications.html#li2020gmd
+image_url: publications_sc.html#li2020gmd
 language: sc
 order: 5
 ---

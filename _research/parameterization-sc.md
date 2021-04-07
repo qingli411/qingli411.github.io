@@ -2,7 +2,7 @@
 title: 海洋上边界层湍流混合在气候模式中的参数化
 anchor_id: parameterization
 image: images/ltcomparison.gif
-image_url: publications.html#li2019james
+image_url: publications_sc.html#li2019james
 language: sc
 order: 2
 ---

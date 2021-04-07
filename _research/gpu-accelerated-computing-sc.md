@@ -2,7 +2,7 @@
 title: 图形处理器（GPU）加速计算
 anchor_id: gpu-accelerated-computing
 image: images/speedup.gif
-image_url: publications.html#li2020gmd
+image_url: publications_sc.html#li2020gmd
 language: sc
 order: 6
 ---

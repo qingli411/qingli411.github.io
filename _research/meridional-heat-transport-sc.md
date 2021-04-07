@@ -2,7 +2,7 @@
 title: 气候系统中的能量平衡和气候变率
 anchor_id: meridional-heat-transport
 image: images/mht.gif
-image_url: publications.html#yang2015clidyn
+image_url: publications_sc.html#yang2015clidyn
 language: sc
 order: 4
 ---
