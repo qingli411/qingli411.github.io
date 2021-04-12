@@ -46,7 +46,7 @@
 - PODS2018:
   type: conference
   author: <strong>Qing Li</strong>
-  title: Langmuir turbulence and its effects on global climate.
+  title: Langmuir turbulence and its effects on global climate
   meeting: Physical Oceanography Dissertation Symposium X
   address: Kailua-Kona, HI, USA
   date: October 2018
@@ -100,10 +100,10 @@
 - OSM2016:
   type: conference
   author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
-  title: Langmuir mixing affects the global climate&#58; A statistical modeling.
+  title: Langmuir mixing affects the global climate&#58; A statistical modeling
   meeting: Ocean Sciences Meeting
   address: New Orleans, LA, USA
-  date: February 2016.
+  date: February 2016
   note: Talk
 
 - APSDFD2015:
@@ -154,7 +154,7 @@
 - CESM2014:
   type: conference
   author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
-  title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM&#58; Langmuir mixing in KPP.
+  title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM&#58; Langmuir mixing in KPP
   meeting: 19th CESM Workshop
   address: Breckenridge, CO, USA
   date: June 2014
