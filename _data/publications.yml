@@ -19,11 +19,12 @@
   type: article
   author: <strong>Qing Li</strong> and Luke Van&nbsp;Roekel
   year: 2021
-  url: https://doi.org/10.5194/gmd-2020-262
+  url: https://doi.org/10.5194/gmd-14-2011-2021
   title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean v6.3 and PALM v5.0
   journal: Geoscientific Model Development
-  note: In press
-  pdf: https://gmd.copernicus.org/preprints/gmd-2020-262/gmd-2020-262.pdf
+  volume: 14
+  pages: 2011-2028
+  pdf: https://gmd.copernicus.org/articles/14/2011/2021/gmd-14-2011-2021.pdf
   abstract: >
     A multiscale modeling approach for studying the ocean surface turbulent mixing is explored by coupling an ocean general circulation model (GCM) MPAS-Ocean with the PArallel Large eddy simulation Model (PALM). The coupling approach is similar to the superparameterization approach that has been used to represent the effects of deep convection in atmospheric GCMs. However, the focus of this multiscale modeling approach is on the small-scale turbulent mixing and their interactions with the larger-scale processes in the ocean, so that a more flexible coupling strategy is used. To reduce the computational cost, a customized version of PALM is ported on the general-purpose graphics processing unit (GPU) with OpenACC, achieving 10-16 times overall speedup as compared to running on a single CPU. Even with the GPU-acceleration technique, a superparameterization-like approach to represent the ocean surface turbulent mixing in GCMs using embedded high-fidelity and three-dimensional LES over the global ocean is still computationally intensive and infeasible for long simulations. However, running PALM regionally on selected MPAS-Ocean grid cells is shown to be a promising approach moving forward. The flexible coupling between MPAS-Ocean and PALM allows further exploration of the interactions between the ocean surface turbulent mixing and larger-scale processes, as well as future development and improvement of ocean surface turbulent mixing parameterizations for GCMs.
 
