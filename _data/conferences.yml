@@ -1,7 +1,7 @@
 - OMWG2021:
   type: conference
   author: <strong>Qing Li</strong>
-  title: An Update on Langmuir Mixing Parameterizations in CESM2.2
+  title: An update on Langmuir mixing parameterizations in CESM2.2
   meeting: CESM Ocean Model Working Group Meeting
   address: Virtual Meeting Online
   date: February 2021
@@ -28,7 +28,7 @@
 - AOFD2019:
   type: conference
   author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, Peter Caldwell, Jean-Christophe Golaz, Mathew Maltrud, Azamat Mametjanov, Qi Tang, and Jonathan Wolfe
-  title: Labrador Sea air-sea fluxes, circulation, and sea-ice in High-Res and Low-Res E3SM
+  title: Labrador Sea air-sea fluxes, circulation, and sea-ice in high-res and low-res E3SM
   meeting: 22nd Conference on Atmospheric and Oceanic Fluid Dynamics
   address: Portland, ME, USA
   date: June 2019
