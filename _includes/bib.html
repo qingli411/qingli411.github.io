@@ -43,6 +43,13 @@
       {{ item.date }}.
       {% if item.note %}{{ item.note }}.{% endif %}
     </dd>
+  {% elsif item.type == "seminar" %}
+    <dd>
+      [{{ counter }}] {{ item.meeting }}.
+      {% if item.organization %}{{ item.organization }}.{% endif %}
+      {% if item.address %}{{ item.address }}.{% endif %}
+      {{ item.date }}.
+    </dd>
   {% else %}
     <dd>
       [{{ counter }}] {{ item.author }}.
