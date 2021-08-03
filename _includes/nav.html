@@ -1,27 +1,13 @@
 <nav id="nav">
   <ul>
     {% for tab in site.data.navigation %}
-      {% if page.language == "en" %}
-        {% if page.tab == tab.title %}
-          <li class="current"><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
-        {% else %}
-          <li><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
-        {% endif %}
+      {% if page.tab == tab.title %}
+        <li class="current"><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
       {% else %}
-        {% if page.tab == tab.title %}
-          <li class="current"><a href="{{ tab.title }}_sc.html">{{ tab.label_sc }}</a></li>
-        {% else %}
-          <li><a href="{{ tab.title }}_sc.html">{{ tab.label_sc }}</a></li>
-        {% endif %}
+        <li><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
       {% endif %}
     {% endfor %}
 
-    {% if page.language == "en" %}
-      <li><a href="pdf/CV.pdf" target="_blank">CV</a></li>
-      <li><a href="{{ page.tab }}_sc.html">中文</a></li>
-    {% else %}
-      <li><a href="pdf/CV_sc.pdf" target="_blank">简历</a></li>
-      <li><a href="{{ page.tab }}.html">English</a></li>
-    {% endif %}
+    <li><a href="pdf/CV.pdf" target="_blank">CV</a></li>
   </ul>
 </nav>
