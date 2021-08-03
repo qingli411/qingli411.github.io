@@ -7,11 +7,13 @@
 - li2021gmd:
   type: article
   author: <strong>Qing Li</strong>, Jorn Bruggeman, Hans Burchard, Knut Klingbeil, Lars Umlauf and Karsten Bolding
-  url: https://doi.org/10.5194/gmd-2020-437
+  year: 2021
+  url: https://doi.org/10.5194/gmd-14-4261-2021
   title: Integrating CVMix into GOTM (v6.0)&#58; A consistent framework for testing, comparing, and applying ocean mixing schemes
   journal: Geoscientific Model Development
-  note: In review
-  pdf: https://gmd.copernicus.org/preprints/gmd-2020-437/gmd-2020-437.pdf
+  volume: 14
+  pages: 4261–4282
+  pdf: https://gmd.copernicus.org/articles/14/4261/2021/gmd-14-4261-2021.pdf
   abstract: >
     The General Ocean Turbulence Model (GOTM) is a one-dimensional water column model including a set of state-of-the-art turbulence closure models, and has widely been used in various applications in the ocean modeling community. Here we extend GOTM to include a set of newly developed ocean surface vertical mixing parameterizations of Langmuir turbulence via coupling with the Community Vertical Mixing Project (CVMix). A Stokes drift module is also implemented in GOTM to provide the necessary ocean surface waves information to the Langmuir turbulence parameterizations, as well as to facilitate future development and evaluation of new Langmuir turbulence parameterizations. In addition, a streamlined workflow with Python and Jupyter Notebook is also described, enabled by the newly developed and more flexible configuration capability of GOTM. The newly implemented Langmuir turbulence parameterizations are evaluated against theoretical scalings and available observations in four test cases, including an idealized wind-driven entrainment case and three realistic cases at ocean station Papa, the northern North Sea and the central Gotland Sea, and compared with the existing General Length Scale scheme in GOTM. The results are consistent with previous studies. This development extends the capability of GOTM towards including the effects of ocean surface waves and provides useful toolsets for the ocean modeling community to further study the effects of Langmuir turbulence in a broader scope.
 
