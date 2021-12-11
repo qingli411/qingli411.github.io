@@ -1,3 +1,21 @@
+- WTD2021:
+  type: conference
+  author: <strong>Qing Li</strong>, Jorn Bruggeman, Hans Burchard, Knut Klingbeil, Lars Umlauf, and Karsten Bolding
+  title: Integrating CVMix into GOTM&#58; A consistent framework for testing, comparing, and applying ocean mixing schemes
+  meeting: 10th Warnem&#xfc;nde Turbulence Days (WTD) on Interfaces and Turbulent Boundary Layers
+  address: Virtual Meeting Online
+  date: December 2021
+  note: Talk
+
+- IAMES2021:
+  type: conference
+  author: <strong>Qing Li</strong> and Luke Van&nbsp;Roekel
+  title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean and PALM
+  meeting: 1st International Association of Meteorological Education and Sciences (IAMES) Conference
+  address: Virtual Meeting Online
+  date: November 2021
+  note: Talk
+
 - OMWG2021:
   type: conference
   author: <strong>Qing Li</strong>
