@@ -1,10 +1,18 @@
+- pham2021jgro:
+  type: article
+  author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
+  year: 2021
+  title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
+  journal: Journal of Geophysical Research - Oceans
+  note: Submitted
+
 - zheng2021gmd:
   type: article
   author: Xue Zheng, <strong>Qing Li</strong>, Tian Zhou, Qi Tang, Luke Van&nbsp;Roekel, and Jean-Christophe Golaz
   year: 2021
   title: Description of historical and future projection simulations by the global coupled E3SMv1.0 model as used in CMIP6
   journal: Geoscientific Model Development
-  note: Submitted
+  note: In review
 
 - orenstein2021jc:
   type: article
@@ -12,7 +20,7 @@
   year: 2021
   title: Evaluating coupled climate model parameterizations via skill at reproducing the monsoon intraseasonal oscillation
   journal: Journal of Climate
-  note: Submitted
+  note: Accepted
 
 - li2021gmd:
   type: article
