@@ -14,29 +14,33 @@
   journal: Journal of Climate
   note: Submitted
 
-- pham2021jgro:
+- pham2022jgro:
   type: article
   author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
-  year: 2021
+  year: 2022
   title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
   journal: Journal of Geophysical Research - Oceans
   note: Submitted
 
-- zheng2021gmd:
+- zheng2022gmd:
   type: article
   author: Xue Zheng, <strong>Qing Li</strong>, Tian Zhou, Qi Tang, Luke Van&nbsp;Roekel, and Jean-Christophe Golaz
-  year: 2021
+  year: 2022
   title: Description of historical and future projection simulations by the global coupled E3SMv1.0 model as used in CMIP6
   journal: Geoscientific Model Development
   note: In review
 
-- orenstein2021jc:
+- orenstein2022jc:
   type: article
   author: Patrick Orenstein, Baylor Fox-Kemper, Leah Johnson, <strong>Qing Li</strong>, and Aakash Sane
-  year: 2021
+  year: 2022
+  url: https://doi.org/10.1175/JCLI-D-21-0337.1
   title: Evaluating coupled climate model parameterizations via skill at reproducing the monsoon intraseasonal oscillation
   journal: Journal of Climate
-  note: Accepted
+  volume: 35
+  pages: 1873–1884
+  abstract: >
+    Empirically generated indices are used to evaluate the skill of a global climate model in representing the monsoon intraseasonal oscillation (MISO). This work adapts the method of Suhas et al., an extended empirical orthogonal function (EEOF) analysis of daily rainfall data with the first orthogonal function indicating MISO strength and phase. This method is applied to observed rainfall and Community Earth System Model (CESM1.2) simulation results. Variants of the CESM1.2 including upper ocean parameterizations for Langmuir turbulence and submesoscale mixed layer eddy restratification are used together with the EEOF analysis to explore sensitivity of the MISO to global upper ocean process representations. The skill with which the model variants recreate the MISO strength and persistence is evaluated versus the observed MISO. While all model versions reproduce the northward rainfall propagation traditionally associated with the MISO, a version including both Langmuir turbulence and submesoscale restratification parameterizations provides the most accurate simulations of the time scale of MISO events.
 
 - li2021gmd:
   type: article
