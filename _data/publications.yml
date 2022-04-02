@@ -1,6 +1,14 @@
+- garanaik2022james:
+  type: article
+  author: Amrapalli Garanaik, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van Roekel
+  year: 2022
+  title: 	A new hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
+  journal: Journal of Advances in Modeling Earth Systems
+  note: Submitted
+
 - shao2022grl:
   type: article
-  author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, Xia Chai
+  author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, and Xia Chai
   year: 2022
   title: Saildrone-observed submesoscale air-sea turbulent heat and momentum fluxes in the Southern Ocean
   journal: Geophysical Research Letters
@@ -8,7 +16,7 @@
 
 - zhu2022jclim:
   type: article
-  author: Chenyu Zhu, Jiaxu Zhang, Zhengyu Liu, Bette Otto-Bliesner, Chengfei He, Ester Brady, Robert Tomas, Qin Wen, <strong>Qing Li</strong>, Chenguang Zhu, Shaoqing Zhang, Lixin Wu
+  author: Chenyu Zhu, Jiaxu Zhang, Zhengyu Liu, Bette Otto-Bliesner, Chengfei He, Ester Brady, Robert Tomas, Qin Wen, <strong>Qing Li</strong>, Chenguang Zhu, Shaoqing Zhang, and Lixin Wu
   year: 2022
   title: Antarctic warming during Heinrich Stadial 1 in a transient isotope-enabled deglacial simulation
   journal: Journal of Climate
