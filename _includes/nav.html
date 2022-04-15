@@ -1,13 +1,21 @@
 <nav id="nav">
   <ul>
-    {% for tab in site.data.navigation %}
-      {% if page.tab == tab.title %}
-        <li class="current"><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
+    {% assign local = site.data.languages[page.language] %}
+    {% for tab in local.nav %}
+      {% if page.tab == tab[0] %}
+        <li class="current"><a href="/{{ local.prefix }}/{{ tab[0] }}.html">{{ tab[1].label }}</a></li>
       {% else %}
-        <li><a href="{{ tab.title }}.html">{{ tab.label }}</a></li>
+        <li><a href="/{{ local.prefix }}/{{ tab[0] }}.html">{{ tab[1].label }}</a></li>
       {% endif %}
     {% endfor %}
 
-    <li><a href="pdf/CV.pdf" target="_blank">CV</a></li>
+    <li><a href="/pdf/CV_{{ page.language }}.pdf" target="_blank">{{ local.cv }}</a></li>
+    {% for lang in site.data.languages %}
+      {% assign language = lang[0] %}
+      {% if language != page.language %}
+        {% assign remote = site.data.languages[language] %}
+        <li><a href="/{{ remote.prefix }}/{{ page.tab }}.html">{{ remote.label }}</a></li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </nav>

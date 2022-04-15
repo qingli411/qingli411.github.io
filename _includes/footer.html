@@ -3,10 +3,11 @@
     <div class="row gtr-200">
       <div class="col-12">
 
+        {% assign local = site.data.languages[page.language] %}
         <!-- Contact -->
           <section>
             <ul class="contact">
-              <li><a class="icon solid fa-envelope" href="mailto:{{ site.email }}?Subject=Hello" target="_blank"><span class="label">Email</span></a></li>
+              <li><a class="icon solid fa-envelope" href="mailto:{{ site.email }}?Subject={{ local.hello }}" target="_blank"><span class="label">Email</span></a></li>
               {% for social in site.data.social %}
                 <li><a class="icon {{ social.icon }}" href="{{ social.url }}" target="_blank"><span class="label">{{ social.title }}</span></a></li>
               {% endfor %}

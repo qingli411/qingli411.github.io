@@ -1,7 +1,7 @@
 ---
 title: Modeling the OSBL turbulence in climate models
 anchor_id: parameterization
-image: images/ltcomparison.gif
+image: /images/ltcomparison.gif
 image_url: publications.html#li2019james
 language: en
 order: 2

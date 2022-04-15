@@ -1,14 +1,15 @@
 <section id="banner">
   <div class="content">
     <img src="{{ site.avatar }}" alt=""/>
-    <h2>{{ site.author }}</h2>
+    {% assign local = site.data.languages[page.language] %}
+    <h2>{{ local.author }}</h2>
     <h3>
-      {{ page.job }}
+      {{ local.job }}
     <h3>
     <h3>
-      {{ page.affiliation }}
+      {{ local.affiliation }}
     </h3>
-    <a class="button scrolly" href="mailto:{{ site.email }}?Subject=Hello" target="_blank">Email</a>
+    <a class="button scrolly" href="mailto:{{ site.email }}?Subject={{ local.hello }}" target="_blank">Email</a>
     {% for social in site.data.social %}
       <a class="button scrolly" href="{{ social.url }}" target="_blank">{{ social.title }}</a>
     {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Impact of ocean surface waves on regional and global climate
 anchor_id: ocean-surface-waves-climate
-image: images/mldpchange.gif
+image: /images/mldpchange.gif
 image_url: publications.html#li2016ocemod
 language: en
 order: 3

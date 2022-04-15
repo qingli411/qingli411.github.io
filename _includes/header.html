@@ -2,7 +2,8 @@
   <div class="logo container">
     <div>
       <img src="{{ site.avatar }}" alt=""/>
-      <p><a href="index.html" id="logo">{{ site.author }}</a></p>
+      {% assign local = site.data.languages[page.language] %}
+      <p><a href="/{{ local.prefix }}/index.html" id="logo">{{ local.author }}</a></p>
     </div>
   </div>
 </header>

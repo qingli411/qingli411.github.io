@@ -1,7 +1,7 @@
 ---
 title: Multiscale modeling
 anchor_id: multiscale-modeling
-image: images/multiscale.gif
+image: /images/multiscale.gif
 image_url: publications.html#li2020gmd
 language: en
 order: 5

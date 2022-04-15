@@ -1,7 +1,7 @@
 ---
 title: Langmuir turbulence
 anchor_id: langmuir-turbulence
-image: images/anisotropy.gif
+image: /images/anisotropy.gif
 image_url: publications.html#li2020prfluid
 language: en
 order: 1

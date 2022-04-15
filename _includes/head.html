@@ -1,7 +1,8 @@
 <head>
-  <title>{{ page.title }} | {{ site.author }}</title>
+  {% assign local = site.data.languages[page.language] %}
+  <title>{{ page.title }} | {{ local.author }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <link rel="stylesheet" href="assets/css/main.css" />
-  <link rel="stylesheet" href="assets/css/academicons.min.css"/>
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 </head>

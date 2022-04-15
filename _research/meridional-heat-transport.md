@@ -1,7 +1,7 @@
 ---
 title: Energy budget in the climate system and climate variability
 anchor_id: meridional-heat-transport
-image: images/mht.gif
+image: /images/mht.gif
 image_url: publications.html#yang2015clidyn
 language: en
 order: 4

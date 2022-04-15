@@ -1,7 +1,7 @@
 ---
 title: GPU accelerated computing
 anchor_id: gpu-accelerated-computing
-image: images/speedup.gif
+image: /images/speedup.gif
 image_url: publications.html#li2020gmd
 language: en
 order: 6
