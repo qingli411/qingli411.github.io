@@ -17,3 +17,23 @@ en:
       label: Presentations
     joinus:
       label: Join us
+
+sc:
+  label: 简体
+  author: 李庆
+  job: 助理教授
+  affiliation: 地球与海洋大气科学学域 <br> 香港科技大学（广州）
+  hello: 你好
+  cv: 简历
+  prefix: sc
+  nav:
+    index:
+      label: 简介
+    research:
+      label: 科研工作
+    publications:
+      label: 发表论文
+    presentations:
+      label: 会议报告
+    joinus:
+      label: 加入我们
