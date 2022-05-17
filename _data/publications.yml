@@ -1,3 +1,19 @@
+- johnson2022jpo:
+  type: article
+  author: Leah Johnson, Baylor Fox-Kemper, <strong>Qing Li</strong>, Hieu Pham, Sutanu Sarkar
+  year: 2022
+  title: A dynamical systems approach to mixed layer model comparison
+  journal: Journal of Physical Oceanography
+  note: Submitted
+
+- wang2022dsrii:
+  type: article
+  author: Haili Wang, Changming Dong, Baylor Fox-Kemper, <strong>Qing Li</strong>, Yongzeng Yang, Xu Chen, Kenny T.C. Lim Kam Sian
+  year: 2022
+  title: Parameterization of ocean surface wave-induced mixing using Large Eddy Simulations (LES) II
+  journal: Deep-Sea Research Part II&#58; Topical Studies in Oceanography
+  note: Submitted
+
 - golaz2022james:
   type: article
   author: Jean-Christophe Golaz, Luke P. Van Roekel, Xue Zheng, Andrew F. Roberts, Jonathan D. Wolfe, Wuyin Lin, Andrew M. Bradley, Qi Tang, Mathew E. Maltrud, Ryan M. Forsyth, Chengzhu Zhang, Tian Zhou, Kai Zhang, Charles S. Zender, Mingxuan Wu, Hailong Wang, Adrian K. Turner, Balwinder Singh, Jadwiga H. Richter, Yi Qin, Mark R. Petersen, Azamat Mametjanov, Po-Lun Ma, Vincent E. Larson, Jayesh Krishna, Noel D. Keen, Nicole Jeffery, Elizabeth C. Hunke, Walter M. Hannah, Oksana Guba, Brian M. Griffin, Yan Feng, Darren Engwirda, Alan V. Di Vittorio, Cheng Dang, LeAnn M. Conlon, Chih-Chieh-Jack Chen, Michael A. Brunke, Gautam Bisht, James J. Benedict, Xylar S. Asay-Davis, Yuying Zhang, Xubin Zeng, Shaocheng Xie, Phillip J. Wolfram, Tom Vo, Milena Veneziani, Teklu K. Tesfa, Sarat Sreepathi, Andrew G. Salinger, Michael J. Prather, Salil Mahajan, <strong>Qing Li</strong>, Philip W. Jones, Robert L. Jacob, J. E. Jack Reeves Eyre, Gunther W. Huebler, Xianglei Huang, Benjamin R. Hillman, Bryce E. Harrop, James G. Foucar, Yilin Fang, Darin S. Comeau, Peter M. Caldwell, Tony Bartoletti, Karthik Balaguru, Mark A. Taylor, Renata B. McCoy, L. Ruby Leung, David C. Bader
@@ -42,9 +58,14 @@
   type: article
   author: Xue Zheng, <strong>Qing Li</strong>, Tian Zhou, Qi Tang, Luke Van&nbsp;Roekel, and Jean-Christophe Golaz
   year: 2022
+  url: https://doi.org/10.5194/gmd-15-3941-2022
   title: Description of historical and future projection simulations by the global coupled E3SMv1.0 model as used in CMIP6
   journal: Geoscientific Model Development
-  note: Accepted
+  volume: 15
+  pages: 3941–3967
+  pdf: https://gmd.copernicus.org/articles/15/3941/2022/gmd-15-3941-2022.pdf
+  abstract: >
+    This paper documents the experimental setup and general features of the coupled historical and future climate simulations with the first version of the US Department of Energy (DOE) Energy Exascale Earth System Model (E3SMv1.0). The future projected climate characteristics of E3SMv1.0 at the highest emission scenario (SSP5-8.5) designed in the Scenario Model Intercomparison Project (ScenarioMIP) and the SSP5-8.5 greenhouse gas (GHG) only forcing experiment are analyzed with a focus on regional responses of atmosphere, ocean, sea ice, and land. <br> Due to its high equilibrium climate sensitivity (ECS of 5.3 K), E3SMv1.0 is one of the Coupled Model Intercomparison Project phase 6 (CMIP6) models with the largest surface warming by the end of the 21st century under the high-emission SSP5-8.5 scenario. The global mean precipitation change is highly correlated with the global temperature change, while the spatial pattern of the change in runoff is consistent with the precipitation changes. The oceanic mixed layer generally shoals throughout the global ocean. The annual mean Atlantic meridional overturning circulation (AMOC) is overly weak with a slower change from ∼ 11 to ∼ 6 Sv (Sverdrup) relative to other CMIP6 models. The sea ice, especially in the Northern Hemisphere, decreases rapidly with large seasonal variability. We detect a significant polar amplification in E3SMv1.0 from the atmosphere, ocean, and sea ice. <br> Comparing the SSP5-8.5 all-forcing experiment with the GHG-only experiment, we find that the unmasking of the aerosol effects due to the decline of the aerosol loading in the future projection period causes transient accelerated warming in the all-forcing experiment in the first half of the 21st century. While the oceanic climate response is mainly controlled by the GHG forcing, the land runoff response is impacted primarily by forcings other than GHG over certain regions, e.g., southern North America, southern Africa, central Africa, and eastern Asia. However, the importance of the GHG forcing on the land runoff changes grows in the future climate projection period compared to the historical period.
 
 - orenstein2022jc:
   type: article
