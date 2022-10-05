@@ -1942,7 +1942,7 @@ input, select, textarea {
 	ul.actions {
 		list-style: none;
 		padding-left: 0;
-		text-align: center;
+		text-align: left;
 		margin: 2em 0 0 0;
 	}
 
@@ -1950,6 +1950,7 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0 0 0 1em;
 			padding-left: 0;
+			font-size: 20px;
 		}
 
 			ul.actions li:first-child {
@@ -2437,7 +2438,7 @@ input, select, textarea {
 			  vertical-align: middle;
 			  width: 2em;
 			  height: 2em;
-			  border-radius: 50%;
+			  border-radius: 10%;
 			}
 
 			#header .logo a {
@@ -3128,9 +3129,8 @@ input, select, textarea {
 
 		/* Actions */
 
-			ul.actions li {
-				display: block;
-				margin: 1em 0 0 0;
+			ul.actions {
+				text-align: center;
 			}
 
 				ul.actions li:first-child {
