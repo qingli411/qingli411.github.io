@@ -1,17 +1,25 @@
+# - garanaik2022james:
+#   type: article
+#   author: Amrapalli Garanaik, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van&nbsp;Roekel
+#   year: 2022
+#   title: 	A new hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
+#   journal: Journal of Advances in Modeling Earth Systems
+#   note: Submitted
+
+# - shao2022grl:
+#   type: article
+#   author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, and Xia Chai
+#   year: 2022
+#   title: Saildrone-observed submesoscale air-sea turbulent heat and momentum fluxes in the Southern Ocean
+#   journal: Geophysical Research Letters
+#   note: Submitted
+
 - johnson2022jpo:
   type: article
   author: Leah Johnson, Baylor Fox-Kemper, <strong>Qing Li</strong>, Hieu Pham, Sutanu Sarkar
   year: 2022
   title: A dynamical systems approach to mixed layer model comparison
   journal: Journal of Physical Oceanography
-  note: Submitted
-
-- wang2022dsrii:
-  type: article
-  author: Haili Wang, Changming Dong, Baylor Fox-Kemper, <strong>Qing Li</strong>, Yongzeng Yang, Xu Chen, Kenny T.C. Lim Kam Sian
-  year: 2022
-  title: Parameterization of ocean surface wave-induced mixing using Large Eddy Simulations (LES) II
-  journal: Deep-Sea Research Part II&#58; Topical Studies in Oceanography
   note: Submitted
 
 - golaz2022james:
@@ -22,20 +30,12 @@
   journal: Journal of Advances in Modeling Earth Systems
   note: Submitted
 
-- garanaik2022james:
+- pham2022jgro:
   type: article
-  author: Amrapalli Garanaik, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van&nbsp;Roekel
+  author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
   year: 2022
-  title: 	A new hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
-  journal: Journal of Advances in Modeling Earth Systems
-  note: Submitted
-
-- shao2022grl:
-  type: article
-  author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, and Xia Chai
-  year: 2022
-  title: Saildrone-observed submesoscale air-sea turbulent heat and momentum fluxes in the Southern Ocean
-  journal: Geophysical Research Letters
+  title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
+  journal: Journal of Geophysical Research - Oceans
   note: Submitted
 
 - zhu2022jclim:
@@ -44,15 +44,19 @@
   year: 2022
   title: Antarctic warming during Heinrich Stadial 1 in a transient isotope-enabled deglacial simulation
   journal: Journal of Climate
-  note: Submitted
+  note: Accepted
 
-- pham2022jgro:
+- wang2022dsrii:
   type: article
-  author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
+  author: Haili Wang, Changming Dong, Baylor Fox-Kemper, <strong>Qing Li</strong>, Yongzeng Yang, Xu Chen, Kenny T.C. Lim Kam Sian
   year: 2022
-  title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
-  journal: Journal of Geophysical Research - Oceans
-  note: Submitted
+  url: https://doi.org/10.1016/j.dsr2.2022.105167
+  title: Parameterization of ocean surface wave-induced mixing using Large Eddy Simulations (LES) II
+  journal: Deep-Sea Research Part II&#58; Topical Studies in Oceanography
+  volume: 203
+  pages: 105167
+  abstract: >
+    The ocean surface boundary layer links the atmosphere to the ocean. At the air-sea interface, ocean surface waves play an important role in momentum, energy and gas exchange. A new parameterization with wave-induced mixing is developed based on a set of Large Eddy Simulation experiments under different wind speeds and mixed layer depths. The new parameterization scheme is then incorporated into a one-dimensional turbulence model for verification. The inclusion of wave-induced mixing reduces the excessively high surface temperature simulated in summer and reduces the underestimation of the mixed layer depth in winter. Compared to the observation at Ocean Station Papa, the parameterization scheme with wave effects produces statistically more accurate results than the parameterization scheme without wave effects.
 
 - zheng2022gmd:
   type: article
