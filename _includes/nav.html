@@ -9,7 +9,6 @@
       {% endif %}
     {% endfor %}
 
-    <li><a href="/pdf/CV_{{ page.language }}.pdf" target="_blank">{{ local.cv }}</a></li>
     {% for lang in site.data.languages %}
       {% assign language = lang[0] %}
       {% if language != page.language %}
