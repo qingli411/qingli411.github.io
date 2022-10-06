@@ -1944,18 +1944,61 @@ input, select, textarea {
 		padding-left: 0;
 		text-align: left;
 		margin: 2em 0 0 0;
+		cursor: default;
 	}
 
 		ul.actions li {
+      -moz-transition: top .15s ease-in-out;
+      -webkit-transition: top .15s ease-in-out;
+      -ms-transition: top .15s ease-in-out;
+      transition: top .15s ease-in-out;
+			position: relative;
 			display: inline-block;
-			margin: 0 0 0 1em;
+			margin: 0 0.25em 0 0.25em;
 			padding-left: 0;
-			font-size: 20px;
+			font-size: 24px;
 		}
 
-			ul.actions li:first-child {
-				margin-left: 0;
+      ul.actions li a {
+        -moz-transition: color .2s ease-in-out;
+        -webkit-transition: color .2s ease-in-out;
+        -ms-transition: color .2s ease-in-out;
+        transition: color .2s ease-in-out;
+        color: #c1cac5;
+      }
+
+			ul.actions li:hover {
+				top: -3px;
 			}
+
+				ul.actions li:hover a {
+					color: #b1ddab;
+				}
+
+				ul.actions li:hover a.fa-github-square {
+					color: #24292d;
+				}
+
+				ul.actions li:hover a.ai-orcid-square {
+					color: #98c742;
+				}
+
+				ul.actions li:hover a.ai-researchgate-square {
+					color: #39ccbb;
+				}
+
+				ul.actions li:hover a.ai-publons-square {
+					color: #336699;
+				}
+
+				ul.actions li:hover a.ai-researcherid-square {
+					color: #5433B2;
+				}
+
+				ul.actions li:hover a.ai-google-scholar-square {
+					color: #4d91fe;
+				}
+
 
 /* Contact */
 
@@ -2691,7 +2734,7 @@ input, select, textarea {
 
 	#footer {
 		text-align: center;
-		padding: 8em 0 8em 0;
+		padding: 4em 0 4em 0;
 	}
 
 		#footer a {
@@ -2812,7 +2855,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 6em 0 6em 0;
+				padding: 3em 0 3em 0;
 			}
 
 	}
@@ -3229,7 +3272,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 3em 0;
+				padding: 2em 0 2em 0;
 			}
 
 		/* Copyright */
