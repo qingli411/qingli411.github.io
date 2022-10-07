@@ -8,7 +8,7 @@ order: 2
 actions:
   - email:
     title: Email
-    icon: solid fa-envelope
+    icon: solid fa-envelope-square
     url: mailto:zwei002@connect.hkust-gz.edu.cn?Subject=Hello
   - github:
     title: GitHub

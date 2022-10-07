@@ -8,7 +8,7 @@ order: 1
 actions:
   - email:
     title: Email
-    icon: solid fa-envelope
+    icon: solid fa-envelope-square
     url: mailto:ocqingli@ust.hk?Subject=Hello
   - github:
     title: GitHub

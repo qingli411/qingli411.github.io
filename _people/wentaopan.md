@@ -8,7 +8,7 @@ order: 3
 actions:
   - email:
     title: Email
-    icon: solid fa-envelope
+    icon: solid fa-envelope-square
     url: mailto:wpan081@connect.hkust-gz.edu.cn?Subject=Hello
 ---
 
