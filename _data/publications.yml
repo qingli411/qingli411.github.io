@@ -22,29 +22,42 @@
   journal: Journal of Physical Oceanography
   note: Submitted
 
+- pham2023jgro:
+  type: article
+  author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
+  year: 2023
+  url: https://doi.org/10.1029/2022JC018959
+  title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
+  journal: Journal of Geophysical Research - Oceans
+  note: In press
+  abstract: >
+    A process study using Large-eddy simulations (LES) is carried out to explore the dominant 1-D processes that affect mixed layer (ML) properties during an event of summer Monsoon Intra-seasonal Oscillations (MISO) in the Bay of Bengal. These simulations use realistic air-sea fluxes and initial conditions that were collected during the summer 2018 MISO-BOB field experiment to explore the roles of thermal inversion layer (TIL) and Langmuir turbulence (LT) in modulating ML properties. The simulations span an active period with heavy rain and strong winds and a break period with strong solar heat flux and little rain. The mixed layer depth (MLD), sea surface temperature (SST) and sea surface salinity (SSS) are most affected by the presence of near-inertial oscillations, solar heating and precipitation, all of which occur at different timescales. The subsurface warming induced by the TIL reduces the SST variability at the MISO timescale when compared with the simulation without TIL. Comparison of simulations with and without LT indicates that LT enhances subsurface warming during the active phase and reduces diurnal SST modulation during the break phase. Simulations with 1-D mixing models show a wide disparity in the evolution of MLD, SST and SSS.
+
 - golaz2022james:
   type: article
   author: Jean-Christophe Golaz, Luke P. Van Roekel, Xue Zheng, Andrew F. Roberts, Jonathan D. Wolfe, Wuyin Lin, Andrew M. Bradley, Qi Tang, Mathew E. Maltrud, Ryan M. Forsyth, Chengzhu Zhang, Tian Zhou, Kai Zhang, Charles S. Zender, Mingxuan Wu, Hailong Wang, Adrian K. Turner, Balwinder Singh, Jadwiga H. Richter, Yi Qin, Mark R. Petersen, Azamat Mametjanov, Po-Lun Ma, Vincent E. Larson, Jayesh Krishna, Noel D. Keen, Nicole Jeffery, Elizabeth C. Hunke, Walter M. Hannah, Oksana Guba, Brian M. Griffin, Yan Feng, Darren Engwirda, Alan V. Di Vittorio, Cheng Dang, LeAnn M. Conlon, Chih-Chieh-Jack Chen, Michael A. Brunke, Gautam Bisht, James J. Benedict, Xylar S. Asay-Davis, Yuying Zhang, Xubin Zeng, Shaocheng Xie, Phillip J. Wolfram, Tom Vo, Milena Veneziani, Teklu K. Tesfa, Sarat Sreepathi, Andrew G. Salinger, Michael J. Prather, Salil Mahajan, <strong>Qing Li</strong>, Philip W. Jones, Robert L. Jacob, J. E. Jack Reeves Eyre, Gunther W. Huebler, Xianglei Huang, Benjamin R. Hillman, Bryce E. Harrop, James G. Foucar, Yilin Fang, Darin S. Comeau, Peter M. Caldwell, Tony Bartoletti, Karthik Balaguru, Mark A. Taylor, Renata B. McCoy, L. Ruby Leung, David C. Bader
   year: 2022
+  url: https://doi.org/10.1029/2022MS003156
   title: The DOE E3SM model version 2&#58; Overview of the physical model
   journal: Journal of Advances in Modeling Earth Systems
-  note: Submitted
-
-- pham2022jgro:
-  type: article
-  author: Hieu Pham, Sutanu Sarkar, Leah Johnson, Baylor Fox-Kemper, Peter Sullivan, and <strong>Qing Li</strong>
-  year: 2022
-  title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
-  journal: Journal of Geophysical Research - Oceans
-  note: Submitted
+  volume: 14
+  pages: e2022MS003156
+  pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003156
+  abstract: >
+    This work documents version two of the Department of Energy's Energy Exascale Earth System Model (E3SM). E3SMv2 is a significant evolution from its predecessor E3SMv1, resulting in a model that is nearly twice as fast and with a simulated climate that is improved in many metrics. We describe the physical climate model in its lower horizontal resolution configuration consisting of 110 km atmosphere, 165 km land, 0.5° river routing model, and an ocean and sea ice with mesh spacing varying between 60 km in the mid-latitudes and 30 km at the equator and poles. The model performance is evaluated with Coupled Model Intercomparison Project Phase 6 Diagnosis, Evaluation, and Characterization of Klima simulations augmented with historical simulations as well as simulations to evaluate impacts of different forcing agents. The simulated climate has many realistic features of the climate system, with notable improvements in clouds and precipitation compared to E3SMv1. E3SMv1 suffered from an excessively high equilibrium climate sensitivity (ECS) of 5.3 K. In E3SMv2, ECS is reduced to 4.0 K which is now within the plausible range based on a recent World Climate Research Program assessment. However, a number of important biases remain including a weak Atlantic Meridional Overturning Circulation, deficiencies in the characteristics and spectral distribution of tropical atmospheric variability, and a significant underestimation of the observed warming in the second half of the historical period. An analysis of single-forcing simulations indicates that correcting the historical temperature bias would require a substantial reduction in the magnitude of the aerosol-related forcing.
 
 - zhu2022jclim:
   type: article
   author: Chenyu Zhu, Jiaxu Zhang, Zhengyu Liu, Bette Otto-Bliesner, Chengfei He, Ester Brady, Robert Tomas, Qin Wen, <strong>Qing Li</strong>, Chenguang Zhu, Shaoqing Zhang, and Lixin Wu
   year: 2022
+  url: https://doi.org/10.1175/JCLI-D-22-0094.1
   title: Antarctic warming during Heinrich Stadial 1 in a transient isotope-enabled deglacial simulation
   journal: Journal of Climate
-  note: Accepted
+  volume: 35
+  pages: 3753-3765
+  pdf: https://journals.ametsoc.org/downloadpdf/journals/clim/35/22/JCLI-D-22-0094.1.xml
+  abstract: >
+    Heinrich Stadial 1 (HS1) was the major climate event at the onset of the last deglaciation associated with rapid cooling in Greenland and lagged, slow warming in Antarctica. Although it is widely believed that temperature signals were triggered in the Northern Hemisphere and propagated southward associated with the Atlantic meridional overturning circulation (AMOC), understanding how these signals were able to cross the Antarctic Circumpolar Current (ACC) barrier and further warm up Antarctica has proven particularly challenging. In this study, we explore the physical processes that lead to the Antarctic warming during HS1 in a transient isotope-enabled deglacial simulation iTRACE, in which the interpolar phasing has been faithfully reproduced. We show that the increased meridional heat transport alone, first through the ocean and then through the atmosphere, can explain the Antarctic warming during the early stage of HS1 without notable changes in the strength and position of the Southern Hemisphere midlatitude westerlies. In particular, when a reduction of the AMOC causes ocean warming to the north of the ACC, increased southward ocean heat transport by mesoscale eddies is triggered by steeper isopycnals to warm up the ocean beyond the ACC, which further decreases the sea ice concentration and leads to more absorption of insolation. The increased atmospheric heat then releases to the Antarctic primarily by a strengthening zonal wavenumber-3 (ZW3) pattern. Sensitivity experiments further suggest that a ∼4°C warming caused by this mechanism superimposed on a comparable warming driven by the background atmospheric CO2 rise is able to explain the total simulated ∼8°C warming in the West Antarctica during HS1.
 
 - wang2022dsrii:
   type: article
