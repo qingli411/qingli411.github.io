@@ -29,7 +29,8 @@
   url: https://doi.org/10.1029/2022JC018959
   title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
   journal: Journal of Geophysical Research - Oceans
-  note: In press
+  volume: 128
+  pages: e2022JC018959
   abstract: >
     A process study using Large-eddy simulations (LES) is carried out to explore the dominant 1-D processes that affect mixed layer (ML) properties during an event of summer Monsoon Intra-seasonal Oscillations (MISO) in the Bay of Bengal. These simulations use realistic air-sea fluxes and initial conditions that were collected during the summer 2018 MISO-BOB field experiment to explore the roles of thermal inversion layer (TIL) and Langmuir turbulence (LT) in modulating ML properties. The simulations span an active period with heavy rain and strong winds and a break period with strong solar heat flux and little rain. The mixed layer depth (MLD), sea surface temperature (SST) and sea surface salinity (SSS) are most affected by the presence of near-inertial oscillations, solar heating and precipitation, all of which occur at different timescales. The subsurface warming induced by the TIL reduces the SST variability at the MISO timescale when compared with the simulation without TIL. Comparison of simulations with and without LT indicates that LT enhances subsurface warming during the active phase and reduces diurnal SST modulation during the break phase. Simulations with 1-D mixing models show a wide disparity in the evolution of MLD, SST and SSS.
 
