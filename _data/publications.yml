@@ -17,10 +17,13 @@
 - johnson2022jpo:
   type: article
   author: Leah Johnson, Baylor Fox-Kemper, <strong>Qing Li</strong>, Hieu Pham, Sutanu Sarkar
-  year: 2022
-  title: A dynamical systems approach to mixed layer model comparison
+  year: 2023
+  url: https://doi.org/10.1175/JPO-D-22-0107.1
+  title: A Finite-Time Ensemble Method for Mixed Layer Model Comparison
   journal: Journal of Physical Oceanography
-  note: Submitted
+  note: In press
+  abstract: >
+    This work evaluates the fidelity of various upper ocean turbulence parameterizations subject to realistic monsoon forcing and presents a finite-time ensemble vector (EV) method to better manage the design and numerical principles of these parameterizations. The EV method emphasizes the dynamics of a turbulence closure multi-model ensemble and is applied to evaluate ten different ocean surface boundary layer (OSBL) parameterizations within a single column (SC) model against two boundary layer large eddy simulations (LES). Both LES include realistic surface forcing, but one includes wind-driven shear turbulence only, while the other includes additional Stokes forcing through the wave-average equations that generates Langmuir turbulence. The finite-time EV framework focuses on what constitutes the local behavior of the mixed layer dynamical system and isolates the forcing and ocean state conditions where turbulence parameterizations most disagree. Identifying disagreement provides the potential to evaluate SC models comparatively against the LES. Observations collected during the 2018 Monsoon onset in the Bay of Bengal provide a case study to evaluate models under realistic and variable forcing conditions. The case study results highlight two regimes where models disagree a) during wind-driven deepening of the mixed layer and b) under strong diurnal forcing.
 
 - pham2023jgro:
   type: article

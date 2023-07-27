@@ -1,8 +1,26 @@
+- OFHM2023:
+  type: conference
+  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  meeting: 2nd Ocean Forum in Hong Kong and Macao
+  address: Hong Kong, China
+  title: Progress towards Modeling the Ocean Boundary Layer Turbulence From Open Oceans to Coastal Oceans
+  date: July 2023
+  note: Talk
+
+- YFOD2023:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: How do we compare ocean mixed layer models?
+  meeting: 7th Youth Forum on Ocean Dynamics
+  address: Qingdao, China
+  date: June 2023
+  note: Talk
+
 - XMAS2023:
   type: conference
   author: <strong>Qing Li</strong>
   title: Langmuir turbulence in a diurnal cycle
-  meeting: The Sixth Xiamen Symposium on Marine Environmental Sciences
+  meeting: 6th Xiamen Symposium on Marine Environmental Sciences
   address: Virtual Meeting Online
   date: January 2023
   note: Talk (Invited)
@@ -14,6 +32,24 @@
   meeting: 1st Ocean Forum in Hong Kong and Macao
   address: Macao, China
   date: November 2022
+  note: Talk
+
+- LYSF2022:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: A comparison of recent Langmuir turbulence parameterizations
+  meeting: 9th Lihai Young Scientist Forum
+  address: Virtual Meeting Online
+  date: November 2022
+  note: Talk
+
+- YFMS2022:
+  type: conference
+  author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, and Samantha Stevenson
+  title: Tropical Instability Waves in a Warmer Climate Simulated in the Energy Exascale Earth System Model
+  meeting: 1st Youth Forum on Marine Science
+  address: Guangzhou, China
+  date: July 2022
   note: Talk
 
 - OSM2022:
