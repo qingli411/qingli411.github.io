@@ -15,5 +15,7 @@ en:
       label: Publications
     presentations:
       label: Presentations
+    teaching:
+      label: Teaching
     joinus:
       label: Join us
