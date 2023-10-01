@@ -21,7 +21,9 @@
   url: https://doi.org/10.1175/JPO-D-22-0107.1
   title: A Finite-Time Ensemble Method for Mixed Layer Model Comparison
   journal: Journal of Physical Oceanography
-  note: In press
+  volume: 53
+  pages: 2211–2230
+  pdf: https://journals.ametsoc.org/downloadpdf/journals/phoc/53/9/JPO-D-22-0107.1.xml
   abstract: >
     This work evaluates the fidelity of various upper ocean turbulence parameterizations subject to realistic monsoon forcing and presents a finite-time ensemble vector (EV) method to better manage the design and numerical principles of these parameterizations. The EV method emphasizes the dynamics of a turbulence closure multi-model ensemble and is applied to evaluate ten different ocean surface boundary layer (OSBL) parameterizations within a single column (SC) model against two boundary layer large eddy simulations (LES). Both LES include realistic surface forcing, but one includes wind-driven shear turbulence only, while the other includes additional Stokes forcing through the wave-average equations that generates Langmuir turbulence. The finite-time EV framework focuses on what constitutes the local behavior of the mixed layer dynamical system and isolates the forcing and ocean state conditions where turbulence parameterizations most disagree. Identifying disagreement provides the potential to evaluate SC models comparatively against the LES. Observations collected during the 2018 Monsoon onset in the Bay of Bengal provide a case study to evaluate models under realistic and variable forcing conditions. The case study results highlight two regimes where models disagree a) during wind-driven deepening of the mixed layer and b) under strong diurnal forcing.
 
@@ -34,6 +36,7 @@
   journal: Journal of Geophysical Research - Oceans
   volume: 128
   pages: e2022JC018959
+  pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022JC018959
   abstract: >
     A process study using Large-eddy simulations (LES) is carried out to explore the dominant 1-D processes that affect mixed layer (ML) properties during an event of summer Monsoon Intra-seasonal Oscillations (MISO) in the Bay of Bengal. These simulations use realistic air-sea fluxes and initial conditions that were collected during the summer 2018 MISO-BOB field experiment to explore the roles of thermal inversion layer (TIL) and Langmuir turbulence (LT) in modulating ML properties. The simulations span an active period with heavy rain and strong winds and a break period with strong solar heat flux and little rain. The mixed layer depth (MLD), sea surface temperature (SST) and sea surface salinity (SSS) are most affected by the presence of near-inertial oscillations, solar heating and precipitation, all of which occur at different timescales. The subsurface warming induced by the TIL reduces the SST variability at the MISO timescale when compared with the simulation without TIL. Comparison of simulations with and without LT indicates that LT enhances subsurface warming during the active phase and reduces diurnal SST modulation during the break phase. Simulations with 1-D mixing models show a wide disparity in the evolution of MLD, SST and SSS.
 
