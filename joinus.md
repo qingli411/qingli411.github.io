@@ -7,7 +7,7 @@ layout: default
 
 Prospective students interested in joining the group are encouraged to check out our postgraduate programs.
 
-- [2023/24 MPhil and PhD programs in Earth, Ocean and Atmospheric Sciences](https://prog-crs.hkust.edu.hk/pgprog/2023-24/mphil-phd-eoas){:target="_blank"}.
+- [2024/25 MPhil and PhD programs in Earth, Ocean and Atmospheric Sciences](https://fytgs.hkust-gz.edu.cn/programs/2024-25/function-hub/earth-ocean-and-atmospheric-sciences-3){:target="_blank"}.
 
 Postdoctoral researcher positions are also available. Please [contact Qing](mailto:{{ site.email }}?Subject=Hello) for more information.
 
