@@ -1,3 +1,39 @@
+- AGU2023:
+  type: conference
+  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  meeting: AGU Annual Meeting
+  address: San Francisco, CA, USA
+  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Estuarine-Shelf Envir    onment
+  date: December 2023
+  note: Talk
+
+- AOGS2023WP:
+  type: conference
+  author: Wentao Pan, <strong>Qing Li</strong>
+  meeting: Asia Oceania Geosciences Society 20th Annual Meeting
+  address: Singapore
+  title: Transient Response of Langmuir Turbulence to the Changing Forcings in a Diurnal Cycle
+  date: August 2023
+  note: Poster
+
+- AOGS2023ZW:
+  type: conference
+  author: Zheng Wei, <strong>Qing Li</strong>, and Bicheng Chen
+  meeting: Asia Oceania Geosciences Society 20th Annual Meeting
+  address: Singapore
+  title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open     oceans
+  date: August 2023
+  note: Poster
+
+- AOGS2023ZX:
+  type: conference
+  author: Zhuowei Xu, Liuqian Yu, and <strong>Qing Li</strong>
+  meeting: Asia Oceania Geosciences Society 20th Annual Meeting
+  address: Singapore
+  title: Impact of Phytoplankton Light Absorption on Upper Ocean Dynamics and Carbon Export Production in the Subp    olar North Atlantic&#58; A Modeling Assessment
+  date: August 2023
+  note: Poster
+
 - AOGS2023:
   type: conference
   author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
