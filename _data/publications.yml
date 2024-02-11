@@ -1,11 +1,13 @@
-- garanaik2023james:
+- garanaik2024james:
   type: article
   author: Amrapalli Garanaik, Filipe Pereira, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van&nbsp;Roekel
-  year: 2023
+  year: 2024
   url: https://doi.org/10.1029/2023MS003846
   title: 	A new hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
   journal: Journal of Advances in Modeling Earth Systems
-  note: Accepted
+  volume: 16
+  pages: e2023MS003846
+  pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023MS003846
   abstract: >
     While various parameterizations of vertical turbulent fluxes at different levels of complexity have been proposed, each has its own limitations. For example, simple first-order closure schemes such as the K-Profile Parameterization (KPP) lack energetic constraints; two-equation models like <i>k</i>-&epsilon; directly solve an equation for the turbulent kinetic energy but do not account for non-diffusive fluxes, and high-order closures that include the high-order transport terms are computationally expensive. To address these, we extend the Assumed-Distribution Higher-Order Closure (ADC) framework originally proposed for the atmospheric boundary layer and apply it to the ocean surface boundary layer. By assuming a probability distribution function relationship between the vertical velocity and tracers, all second-order and higher-order moments are exactly constructed and turbulence closure is achieved in the ADC scheme. In addition, this ADC parameterization has full energetic constraints and includes non-diffusive fluxes without the computational cost of a full higher-order closure scheme. We have tested the ADC scheme against a combination of large eddy simulation (LES), KPP, and <i>k</i>-&epsilon; for surface buoyancy-driven convective mixing and found that the ADC scheme is robust with different vertical resolutions and compares well to the LES results.
 
