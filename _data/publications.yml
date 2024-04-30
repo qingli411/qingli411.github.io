@@ -1,3 +1,14 @@
+- fan2024gmd:
+  type: article
+  author: Xiaoyu Fan, Baylor Fox-Kemper, Nobuhiro Suzuki, <strong>Qing Li</strong>, Patrick Marchesiello, Francis Auclair, Peter P. Sullivan, Paul S. Hall
+  title: Comparison of the coastal and regional ocean community model (CROCO) and NCAR-LES in non-hydrostatic simulations
+  year: 2024
+  url: https://doi.org/10.5194/egusphere-2023-1657
+  journal: Geoscientific Model Development
+  node: Accepted
+  abstract: >
+    Advances in coastal modeling and computation provide the opportunity for examining non-hydrostatic and compressible fluid effects at very small scales, but the cost of these new capabilities and the accuracy of these models versus trusted non-hydrostatic codes has yet to be determined. Here the Coastal and Regional Ocean COmmunity model (CROCO) and the NCAR Large-Eddy Simulations (NCAR-LES) code base are compared with a focus on their simulation accuracy and computational efficiency. These models differ significantly in numerics and capabilities, so they are run on common classic problems of surface-forced, boundary-layer turbulence. In accuracy, we compare turbulence statistics, including the effect of the explicit sub-grid scale (SGS) parameterization, the effect of the second (dilatational) viscosity and the sensitivity to the speed-of-sound, which is used as part of the CROCO compressible turbulence formulation. To gauge how far CROCO is from the NCAR-LES, we first compare the NCAR-LES with two other LES codes (PALM and Oceanigans). To judge efficiency of CROCO, strong and weak scaling simulation sets vary different problem sizes and workload per processor, respectively. Additionally, the effects of 2D decomposition of CROCO and NCAR-LES and supercomputer settings are tested. In sum, the accuracy comparison between CROCO and the NCAR-LES is similar to the NCAR-LES versus other LES codes. However, the additional capabilities of CROCO (e.g., nesting and realism) and its compressible turbulence formulation come with roughly an order of magnitude of additional costs despite efforts to reduce them by adjusting the second viscosity and sound speed as far as accuracy allows.
+
 - garanaik2024james:
   type: article
   author: Amrapalli Garanaik, Filipe Pereira, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van&nbsp;Roekel
