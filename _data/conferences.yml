@@ -1,9 +1,18 @@
+- OSM2024:
+  type: conference
+  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  meeting: Ocean Sciences Meeting
+  address: New Orleans, LA, USA
+  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Merging Boundary Layers in Coastal Oceans
+  date: February 2024
+  note: Poster
+
 - AGU2023:
   type: conference
   author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
   meeting: AGU Annual Meeting
   address: San Francisco, CA, USA
-  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Estuarine-Shelf Envir    onment
+  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Estuarine-Shelf Environment
   date: December 2023
   note: Talk
 
@@ -21,7 +30,7 @@
   author: Zheng Wei, <strong>Qing Li</strong>, and Bicheng Chen
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open     oceans
+  title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open oceans
   date: August 2023
   note: Poster
 
@@ -30,7 +39,7 @@
   author: Zhuowei Xu, Liuqian Yu, and <strong>Qing Li</strong>
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Impact of Phytoplankton Light Absorption on Upper Ocean Dynamics and Carbon Export Production in the Subp    olar North Atlantic&#58; A Modeling Assessment
+  title: Impact of Phytoplankton Light Absorption on Upper Ocean Dynamics and Carbon Export Production in the Subpolar North Atlantic&#58; A Modeling Assessment
   date: August 2023
   note: Poster
 
