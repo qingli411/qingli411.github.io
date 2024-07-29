@@ -1,3 +1,21 @@
+- TFMS2024:
+  type: conference
+  author: <strong>Qing Li</strong>
+  meeting: 3rd Youth Forum on Marine Science
+  address: Shanghai, China
+  title: A Hybrid Mass-Flux/High-Order Turbulence Closure for Ocean Vertical Mixing
+  date: July 2024
+  note: Talk
+
+- AOGS2024:
+  type: conference
+  author: <strong>Qing Li</strong>, Wentao Pan
+  meeting: Asia Oceania Geosciences Society 21th Annual Meeting
+  address: Pyeongchang, Gangwon-do, South Korea
+  title: Transient response of Langmuir turbulence in a diurnal cycle
+  date: June 2024
+  note: Poster
+
 - OSM2024:
   type: conference
   author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
