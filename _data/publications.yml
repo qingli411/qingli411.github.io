@@ -1,6 +1,27 @@
+- wei2025james:
+  type: article
+  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  title: A direct assessment of Langmuir turbulence parameterizations in idealized coastal merging boundary layers
+  journal: Journal of Advances in Modeling Earth Systems
+  year: 2025
+  note: Submitted
+  url: https://doi.org/10.22541/au.173956864.43531756/v1
+  abstract: >
+    Langmuir turbulence affects turbulent mixing in the ocean boundary layers and its effects require parameterizations in ocean circulation models. Most existing Langmuir turbulence parameterizations focus on surface boundary layers in open oceans. In shallow waters of coastal oceans, a surface boundary layer may interact and even merge with a bottom boundary layer. It is unclear how existing Langmuir turbulence parameterizations perform under such complex conditions. Here we assess the performance of two recent Langmuir turbulence parameterizations in an idealized case of merging boundary layers against turbulence-resolving large-eddy simulations (LES). In addition to assessing the solutions of free runs of single-column model (SCM) simulations, in which errors in the mean fields and turbulent fluxes are entangled, we also compare the simulated turbulent fluxes in SCM simulations with their mean fields nudged to those of the LES. In doing so, we focus on the simulated turbulent fluxes in different parameterizations given the perfect mean fields. Such comparison highlights the tendency of parameterizations to deviate from the LES at each time instance, and thereby reveals the deficiencies of parameterizations in an instantaneous sense. It is shown that both parameterizations overestimate the near-bottom turbulent momentum flux when velocity shear is correct, resulting in too weak near-bottom velocity shear in a free run. Consistent with previous studies, a down-Stokes drift shear momentum flux is necessary for capturing the momentum flux due to Langmuir turbulence but still misses the nonlocal momentum flux when coherent Langmuir supercells form.
+
+- huang2025jpo:
+  type: article
+  title: From Langmuir turbulence to supercells&#58; the role of longitudinal alignment between surface and bottom forcing
+  author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
+  journal: Journal of Physical Oceanography
+  year: 2025
+  note: Submitted
+  abstract: >
+    Langmuir turbulence in shallow-water coastal environments can extend to the seafloor and develop into the so-called Langmuir supercells, dramatically increasing its size and intensity. Two fundamental and one practical issues in Langmuir supercell dynamics remain unclear&#58; (i) the favorable formation conditions, (ii) the energy cycle of such an intense turbulence event, and (iii) their impacts on vertical mixing. We explore these issues using large eddy simulations, considering the aligned and opposite wind-wave and current directions. The results show that the generation of Langmuir supercells corresponds to a new intense full-column energetic mode, which is separated from Langmuir turbulence in the energy spectrum. This energetic mode exists when the wind-wave and currents are aligned and disappears when they are in opposite directions. In the latter case, only Langmuir and shear turbulence exist in the water column near the surface and bottom boundaries, separated by a strong barrier in between that cuts off the surface-bottom interaction. In addition, when Langmuir supercells are present, the surface-bottom exchange of momentum is highly asymmetric between upwelling and downwelling branches. Strong connection between surface and bottom turbulence, as indicated by the larger enstrophy and more vortex-tube-connection events, can be found only in upwelling regions. As a result, upwelling contributes considerably more to the momentum flux than downwelling. All these results indicate that, despite the windrow pattern on the ocean surface, Langmuir supercells have significant differences from Langmuir turbulence in their energetic characteristics and momentum transport. These differences distinguish Langmuir supercells from a "full-column" version of Langmuir turbulence.
+
 - fan2024gmd:
   type: article
-  author: Xiaoyu Fan, Baylor Fox-Kemper, Nobuhiro Suzuki, <strong>Qing Li</strong>, Patrick Marchesiello, Francis Auclair, Peter P. Sullivan, Paul S. Hall
+  author: Xiaoyu Fan, Baylor Fox-Kemper, Nobuhiro Suzuki, <strong>Qing Li</strong>, Patrick Marchesiello, Francis Auclair, Peter P. Sullivan, and Paul S. Hall
   title: Comparison of the coastal and regional ocean community model (CROCO) and NCAR-LES in non-hydrostatic simulations
   year: 2024
   volume: 17
@@ -34,10 +55,10 @@
 
 - johnson2023jpo:
   type: article
-  author: Leah Johnson, Baylor Fox-Kemper, <strong>Qing Li</strong>, Hieu Pham, Sutanu Sarkar
+  author: Leah Johnson, Baylor Fox-Kemper, <strong>Qing Li</strong>, Hieu Pham, and Sutanu Sarkar
   year: 2023
   url: https://doi.org/10.1175/JPO-D-22-0107.1
-  title: A Finite-Time Ensemble Method for Mixed Layer Model Comparison
+  title: A finite-time ensemble method for mixed layer model comparison
   journal: Journal of Physical Oceanography
   volume: 53
   pages: 2211–2230
@@ -60,7 +81,7 @@
 
 - golaz2022james:
   type: article
-  author: Jean-Christophe Golaz, Luke P. Van Roekel, Xue Zheng, Andrew F. Roberts, Jonathan D. Wolfe, Wuyin Lin, Andrew M. Bradley, Qi Tang, Mathew E. Maltrud, Ryan M. Forsyth, Chengzhu Zhang, Tian Zhou, Kai Zhang, Charles S. Zender, Mingxuan Wu, Hailong Wang, Adrian K. Turner, Balwinder Singh, Jadwiga H. Richter, Yi Qin, Mark R. Petersen, Azamat Mametjanov, Po-Lun Ma, Vincent E. Larson, Jayesh Krishna, Noel D. Keen, Nicole Jeffery, Elizabeth C. Hunke, Walter M. Hannah, Oksana Guba, Brian M. Griffin, Yan Feng, Darren Engwirda, Alan V. Di Vittorio, Cheng Dang, LeAnn M. Conlon, Chih-Chieh-Jack Chen, Michael A. Brunke, Gautam Bisht, James J. Benedict, Xylar S. Asay-Davis, Yuying Zhang, Xubin Zeng, Shaocheng Xie, Phillip J. Wolfram, Tom Vo, Milena Veneziani, Teklu K. Tesfa, Sarat Sreepathi, Andrew G. Salinger, Michael J. Prather, Salil Mahajan, <strong>Qing Li</strong>, Philip W. Jones, Robert L. Jacob, J. E. Jack Reeves Eyre, Gunther W. Huebler, Xianglei Huang, Benjamin R. Hillman, Bryce E. Harrop, James G. Foucar, Yilin Fang, Darin S. Comeau, Peter M. Caldwell, Tony Bartoletti, Karthik Balaguru, Mark A. Taylor, Renata B. McCoy, L. Ruby Leung, David C. Bader
+  author: Jean-Christophe Golaz, Luke P. Van Roekel, Xue Zheng, Andrew F. Roberts, Jonathan D. Wolfe, Wuyin Lin, Andrew M. Bradley, Qi Tang, Mathew E. Maltrud, Ryan M. Forsyth, Chengzhu Zhang, Tian Zhou, Kai Zhang, Charles S. Zender, Mingxuan Wu, Hailong Wang, Adrian K. Turner, Balwinder Singh, Jadwiga H. Richter, Yi Qin, Mark R. Petersen, Azamat Mametjanov, Po-Lun Ma, Vincent E. Larson, Jayesh Krishna, Noel D. Keen, Nicole Jeffery, Elizabeth C. Hunke, Walter M. Hannah, Oksana Guba, Brian M. Griffin, Yan Feng, Darren Engwirda, Alan V. Di Vittorio, Cheng Dang, LeAnn M. Conlon, Chih-Chieh-Jack Chen, Michael A. Brunke, Gautam Bisht, James J. Benedict, Xylar S. Asay-Davis, Yuying Zhang, Xubin Zeng, Shaocheng Xie, Phillip J. Wolfram, Tom Vo, Milena Veneziani, Teklu K. Tesfa, Sarat Sreepathi, Andrew G. Salinger, Michael J. Prather, Salil Mahajan, <strong>Qing Li</strong>, Philip W. Jones, Robert L. Jacob, J. E. Jack Reeves Eyre, Gunther W. Huebler, Xianglei Huang, Benjamin R. Hillman, Bryce E. Harrop, James G. Foucar, Yilin Fang, Darin S. Comeau, Peter M. Caldwell, Tony Bartoletti, Karthik Balaguru, Mark A. Taylor, Renata B. McCoy, L. Ruby Leung, and David C. Bader
   year: 2022
   url: https://doi.org/10.1029/2022MS003156
   title: The DOE E3SM model version 2&#58; Overview of the physical model
@@ -86,7 +107,7 @@
 
 - wang2022dsrii:
   type: article
-  author: Haili Wang, Changming Dong, Baylor Fox-Kemper, <strong>Qing Li</strong>, Yongzeng Yang, Xu Chen, Kenny T.C. Lim Kam Sian
+  author: Haili Wang, Changming Dong, Baylor Fox-Kemper, <strong>Qing Li</strong>, Yongzeng Yang, Xu Chen, and Kenny T.C. Lim Kam Sian
   year: 2022
   url: https://doi.org/10.1016/j.dsr2.2022.105167
   title: Parameterization of ocean surface wave-induced mixing using Large Eddy Simulations (LES) II
