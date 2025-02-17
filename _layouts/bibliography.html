@@ -7,10 +7,10 @@ layout: default
     <h2>{{ section.title }}</h2>
   </header>
   <section>
-    {% if section.note %}
-      <p>{{ section.note }}</p>
-    {% endif %}
     {% assign bibdata=site.data[section.data] %}
     {% include bib.html data=bibdata %}
+    {% if section.note %}
+      <p><i>{{ section.note }}</i></p>
+    {% endif %}
   </section>
 {% endfor %}

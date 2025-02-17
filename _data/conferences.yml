@@ -1,81 +1,162 @@
+- Huang2025XMAS:
+  type: conference
+  author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
+  title: The role of diurnal forcings on the merging of surface and bottom boundary layers in the coastal ocean and their implications on vertical mixing
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Poster
+
+- Jiang2025XMAS:
+  type: conference
+  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
+  title: Influence of boundary layer turbulence on submesoscale mixed layer eddy-induced restratification
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Poster
+
+- Pan2025XMAS:
+  type: conference
+  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  title: Transient response of Langmuir turbulence structure to abrupt changes in surface buoyancy forcing
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Poster
+
+- Wei2025XMAS:
+  type: conference
+  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  title: A direct comparison of turbulent fluxes in ocean boundary layer vertical mixing parameterizations
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Poster
+
+- Xu2025XMAS:
+  type: conference
+  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <strong>Qing Li</strong>
+  title: Episodic phytoplankton blooms in the low-latitude North Atlantic&#58; Causes and contributions to annual carbon sequestration
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Talk
+
+- Zou2025XMAS:
+  type: conference
+  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
+  title: A transformer based approach for fusing SAR and SWIM measurement to produce better-quality wave spectrum
+  meeting: 7th Xiamen Symposium on Marine Environmental Sciences
+  address: Xiamen, Fujian, China
+  date: January 2025
+  note: Poster
+
+- Wei2024AGU:
+  type: conference
+  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  title: Assessment of vertical mixing parameterizations in modelling merging surface and bottom boundary layers
+  meeting: AGU Annual Meeting
+  address: Washington, D.C., USA
+  date: December 2024
+  note: Poster
+
+- Pan2024AGU:
+  type: conference
+  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  title: Assessing the impact of transient forcing on Langmuir turbulence intensity and the resulting vertical mixing in the upper ocean
+  meeting: AGU Annual Meeting
+  address: Washington, D.C., USA
+  date: December 2024
+  note: Poster
+
+- Li2024OFHM:
+  type: conference
+  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  title: A direct assessment of Langmuir turbulence parameterizations in idealized merging boundary layers in coastal oceans
+  meeting: 3rd Hong Kong and Macau Ocean Forum \& Areas of Excellence (AoE) Forum
+  address: Hong Kong, China
+  date: October 2024
+  note: Talk
+
 - TFMS2024:
   type: conference
   author: <strong>Qing Li</strong>
+  title: A hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
   meeting: 3rd Youth Forum on Marine Science
   address: Shanghai, China
-  title: A Hybrid Mass-Flux/High-Order Turbulence Closure for Ocean Vertical Mixing
   date: July 2024
   note: Talk
 
 - AOGS2024:
   type: conference
-  author: <strong>Qing Li</strong>, Wentao Pan
+  author: <strong>Qing Li</strong> and <u>Wentao Pan</u>
+  title: Transient response of Langmuir turbulence in a diurnal cycle
   meeting: Asia Oceania Geosciences Society 21th Annual Meeting
   address: Pyeongchang, Gangwon-do, South Korea
-  title: Transient response of Langmuir turbulence in a diurnal cycle
   date: June 2024
   note: Poster
 
 - OSM2024:
   type: conference
-  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  title: Assessing the performance of Langmuir turbulence parameterizations in idealized merging boundary layers in coastal oceans
   meeting: Ocean Sciences Meeting
   address: New Orleans, LA, USA
-  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Merging Boundary Layers in Coastal Oceans
   date: February 2024
   note: Poster
 
 - AGU2023:
   type: conference
-  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  title: Assessing the performance of Langmuir turbulence parameterizations in idealized estuarine-shelf environment
   meeting: AGU Annual Meeting
   address: San Francisco, CA, USA
-  title: Assessing the Performance of Langmuir Turbulence Parameterizations in Idealized Estuarine-Shelf Environment
   date: December 2023
   note: Talk
 
 - AOGS2023WP:
   type: conference
-  author: Wentao Pan, <strong>Qing Li</strong>
+  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  title: Transient response of Langmuir turbulence to the changing forcings in a diurnal cycle
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Transient Response of Langmuir Turbulence to the Changing Forcings in a Diurnal Cycle
   date: August 2023
   note: Poster
 
 - AOGS2023ZW:
   type: conference
-  author: Zheng Wei, <strong>Qing Li</strong>, and Bicheng Chen
+  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open oceans
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open oceans
   date: August 2023
   note: Poster
 
 - AOGS2023ZX:
   type: conference
-  author: Zhuowei Xu, Liuqian Yu, and <strong>Qing Li</strong>
+  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <strong>Qing Li</strong>
+  title: Impact of phytoplankton light absorption on upper ocean dynamics and carbon export production in the subpolar North Atlantic&#58; A modeling assessment
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Impact of Phytoplankton Light Absorption on Upper Ocean Dynamics and Carbon Export Production in the Subpolar North Atlantic&#58; A Modeling Assessment
   date: August 2023
   note: Poster
 
 - AOGS2023:
   type: conference
-  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  title: Towards a better parameterization of ocean turbulent mixing in the estuarine-shelf environment
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
-  title: Towards a better parameterization of ocean turbulent mixing in the estuarine-shelf environment
   date: August 2023
   note: Talk
 
 - OFHM2023:
   type: conference
-  author: <strong>Qing Li</strong>, Zheng Wei, and Bicheng Chen
+  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  title: Progress towards modeling the ocean boundary layer turbulence from open oceans to coastal oceans
   meeting: 2nd Ocean Forum in Hong Kong and Macao
   address: Hong Kong, China
-  title: Progress towards Modeling the Ocean Boundary Layer Turbulence From Open Oceans to Coastal Oceans
   date: July 2023
   note: Talk
 
@@ -100,7 +181,7 @@
 - OFHM2022:
   type: conference
   author: <strong>Qing Li</strong>
-  title: Modeling the Ocean Boundary Layer Turbulent Mixing&#58; From Open Oceans to Coastal Oceans
+  title: Modeling the ocean boundary layer turbulent mixing&#58; From open oceans to coastal oceans
   meeting: 1st Ocean Forum in Hong Kong and Macao
   address: Macao, China
   date: November 2022
@@ -118,7 +199,7 @@
 - YFMS2022:
   type: conference
   author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, and Samantha Stevenson
-  title: Tropical Instability Waves in a Warmer Climate Simulated in the Energy Exascale Earth System Model
+  title: Tropical instability waves in a warmer climate simulated in the Energy Exascale Earth System Model
   meeting: 1st Youth Forum on Marine Science
   address: Guangzhou, China
   date: July 2022
@@ -127,7 +208,7 @@
 - OSM2022:
   type: conference
   author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, and Samantha Stevenson
-  title: Tropical Instability Waves in a Warmer Climate Simulated in the Energy Exascale Earth System Model
+  title: Tropical instability waves in a warmer climate simulated in the Energy Exascale Earth System Model
   meeting: Ocean Sciences Meeting
   address: Virtual Meeting Online
   date: March 2022
