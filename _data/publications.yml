@@ -1,10 +1,20 @@
+- li2025jpo:
+  type: article
+  author: <strong>Qing Li</strong>
+  title: Large Eddy Simulations of Stabilizing Effects Induced by Opposing Eulerian Current and Stokes Drift in an Idealized Ocean Surface Boundary Layer
+  journal: Journal of Physical Oceanography
+  year: 2025
+  note: Under Review
+  abstract: >
+    Ocean surface waves strongly modulate vertical turbulent mixing in the ocean surface boundary layer. When they are aligned with wind-driven shear, Craik-Leibovich instability occurs, resulting in the formation of Langmuir turbulence that strongly enhances vertical mixing. By the same mechanism, ocean surface waves can also stabilize the water column and suppress boundary layer turbulence when they are in opposite direction as the Eulerian current. Here, we demonstrate this stabilizing effect induced by opposing Eulerian current and Stokes drift in large eddy simulations (LES) under idealized homogeneous surface cooling and no wind conditions. Rolls of convection form under the competing effects of destabilizing surface cooling and stabilizing wave-induced stratification. The latter depends on the alignment of Eulerian shear and Stokes drift shear, resulting in roll structures aligned perpendicular to Stokes drift. In addition, the intensity of turbulence is significantly reduced as compared to the case of pure convection. Such stabilizing effect of wave-induced stratification has yet to be incorporated in wave-driven mixing parameterizations and may leads to potential improvements. Using this idealized test case, we also demonstrate the effect of assuming down-Eulerian shear mixing versus down-Lagrangian shear mixing in the sub-grid scale scheme by comparing two LES models. While such effect may be hidden in strongly wind-forced cases, it results in completely different solutions in this idealized case by changing the boundary condition for the mean flow. Therefore, care should be taken when designing and interpreting LES with misaligned currents and waves.
+
 - wei2025james:
   type: article
   author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
   title: A direct assessment of Langmuir turbulence parameterizations in idealized coastal merging boundary layers
   journal: Journal of Advances in Modeling Earth Systems
   year: 2025
-  note: Submitted
+  note: Under Review
   url: https://doi.org/10.22541/au.173956864.43531756/v1
   abstract: >
     Langmuir turbulence affects turbulent mixing in the ocean boundary layers and its effects require parameterizations in ocean circulation models. Most existing Langmuir turbulence parameterizations focus on surface boundary layers in open oceans. In shallow waters of coastal oceans, a surface boundary layer may interact and even merge with a bottom boundary layer. It is unclear how existing Langmuir turbulence parameterizations perform under such complex conditions. Here we assess the performance of two recent Langmuir turbulence parameterizations in an idealized case of merging boundary layers against turbulence-resolving large-eddy simulations (LES). In addition to assessing the solutions of free runs of single-column model (SCM) simulations, in which errors in the mean fields and turbulent fluxes are entangled, we also compare the simulated turbulent fluxes in SCM simulations with their mean fields nudged to those of the LES. In doing so, we focus on the simulated turbulent fluxes in different parameterizations given the perfect mean fields. Such comparison highlights the tendency of parameterizations to deviate from the LES at each time instance, and thereby reveals the deficiencies of parameterizations in an instantaneous sense. It is shown that both parameterizations overestimate the near-bottom turbulent momentum flux when velocity shear is correct, resulting in too weak near-bottom velocity shear in a free run. Consistent with previous studies, a down-Stokes drift shear momentum flux is necessary for capturing the momentum flux due to Langmuir turbulence but still misses the nonlocal momentum flux when coherent Langmuir supercells form.
@@ -15,7 +25,7 @@
   author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
   journal: Journal of Physical Oceanography
   year: 2025
-  note: Submitted
+  note: Under Review
   abstract: >
     Langmuir turbulence in shallow-water coastal environments can extend to the seafloor and develop into the so-called Langmuir supercells, dramatically increasing its size and intensity. Two fundamental and one practical issues in Langmuir supercell dynamics remain unclear&#58; (i) the favorable formation conditions, (ii) the energy cycle of such an intense turbulence event, and (iii) their impacts on vertical mixing. We explore these issues using large eddy simulations, considering the aligned and opposite wind-wave and current directions. The results show that the generation of Langmuir supercells corresponds to a new intense full-column energetic mode, which is separated from Langmuir turbulence in the energy spectrum. This energetic mode exists when the wind-wave and currents are aligned and disappears when they are in opposite directions. In the latter case, only Langmuir and shear turbulence exist in the water column near the surface and bottom boundaries, separated by a strong barrier in between that cuts off the surface-bottom interaction. In addition, when Langmuir supercells are present, the surface-bottom exchange of momentum is highly asymmetric between upwelling and downwelling branches. Strong connection between surface and bottom turbulence, as indicated by the larger enstrophy and more vortex-tube-connection events, can be found only in upwelling regions. As a result, upwelling contributes considerably more to the momentum flux than downwelling. All these results indicate that, despite the windrow pattern on the ocean surface, Langmuir supercells have significant differences from Langmuir turbulence in their energetic characteristics and momentum transport. These differences distinguish Langmuir supercells from a "full-column" version of Langmuir turbulence.
 
