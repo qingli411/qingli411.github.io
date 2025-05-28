@@ -9,7 +9,7 @@ actions:
   - email:
     title: Email
     icon: solid fa-envelope-square
-    url: mailto:ocqingli@ust.hk?Subject=Hello
+    url: mailto:{{ site.email }}?Subject=Hello
   - github:
     title: GitHub
     icon: brands fa-github-square
