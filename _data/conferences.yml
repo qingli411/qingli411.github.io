@@ -1,3 +1,21 @@
+- Zou2025EGU:
+  type: conference
+  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
+  title: Fuse the SAR and SWIM Observations to Acquire Global Stokes drift Estimations
+  meeting: European Geosciences Union (EGU) General Assembly
+  address: Vienna, Austria
+  date: April 2025
+  note: Poster
+
+- Jiang2025EGU:
+  type: conference
+  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
+  title: Interaction Between Boundary Layer Turbulence and Submesoscale Mixed Layer Eddies and Its Influence on Upper Ocean Stratification
+  meeting: European Geosciences Union (EGU) General Assembly
+  address: Vienna, Austria
+  date: April 2025
+  note: Poster
+
 - Huang2025XMAS:
   type: conference
   author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
