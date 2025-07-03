@@ -1,7 +1,16 @@
+- Li2025ICERM:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Stabilizing wave-induced stratification and its effects on vertical mixing in ocean surface boundary layer
+  meeting: ICERM Hot Topics Workshop - Synthesizing Research On Ocean Surface Waves In The New Arctic
+  address: Providence, RI, USA
+  date: June 2025
+  note: Talk (Invited)
+
 - Zou2025EGU:
   type: conference
   author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
-  title: Fuse the SAR and SWIM Observations to Acquire Global Stokes drift Estimations
+  title: Fuse the SAR and SWIM observations to acquire global Stokes drift estimations
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
   date: April 2025
@@ -10,7 +19,7 @@
 - Jiang2025EGU:
   type: conference
   author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
-  title: Interaction Between Boundary Layer Turbulence and Submesoscale Mixed Layer Eddies and Its Influence on Upper Ocean Stratification
+  title: Interaction between boundary layer turbulence and submesoscale mixed layer eddies and its influence on upper ocean stratification
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
   date: April 2025
