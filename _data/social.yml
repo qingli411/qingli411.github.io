@@ -14,7 +14,7 @@
   title: ResearchGate
   icon: ai ai-researchgate
   url: https://www.researchgate.net/profile/Qing_Li75
-- publons:
-  title: Publons
-  icon: ai ai-publons
-  url: https://publons.com/researcher/1330265
+- webofscience:
+  title: Web of Science
+  icon: ai ai-researcherid
+  url: https://www.webofscience.com/wos/author/record/174982

@@ -26,7 +26,7 @@ actions:
     title: ResearchGate
     icon: ai ai-researchgate-square
     url: https://www.researchgate.net/profile/Qing_Li75
-  - publons:
+  - webofscience:
     title: Web of Science ResearcherID
     icon: ai ai-researcherid-square
     url: https://www.webofscience.com/wos/author/record/174982
