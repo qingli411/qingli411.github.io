@@ -7,19 +7,19 @@
   date: June 2025
   note: Talk (Invited)
 
-- Zou2025EGU:
+- Jiang2025EGU:
   type: conference
-  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
-  title: Fuse the SAR and SWIM observations to acquire global Stokes drift estimations
+  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
+  title: Interaction between boundary layer turbulence and submesoscale mixed layer eddies and its influence on upper ocean stratification
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
   date: April 2025
   note: Poster
 
-- Jiang2025EGU:
+- Zou2025EGU:
   type: conference
-  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
-  title: Interaction between boundary layer turbulence and submesoscale mixed layer eddies and its influence on upper ocean stratification
+  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
+  title: Fuse the SAR and SWIM observations to acquire global Stokes drift estimations
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
   date: April 2025
@@ -79,19 +79,19 @@
   date: January 2025
   note: Poster
 
-- Wei2024AGU:
+- Pan2024AGU:
   type: conference
-  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
-  title: Assessment of vertical mixing parameterizations in modelling merging surface and bottom boundary layers
+  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  title: Assessing the impact of transient forcing on Langmuir turbulence intensity and the resulting vertical mixing in the upper ocean
   meeting: AGU Annual Meeting
   address: Washington, D.C., USA
   date: December 2024
   note: Poster
 
-- Pan2024AGU:
+- Wei2024AGU:
   type: conference
-  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
-  title: Assessing the impact of transient forcing on Langmuir turbulence intensity and the resulting vertical mixing in the upper ocean
+  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  title: Assessment of vertical mixing parameterizations in modelling merging surface and bottom boundary layers
   meeting: AGU Annual Meeting
   address: Washington, D.C., USA
   date: December 2024
