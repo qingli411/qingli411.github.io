@@ -1,3 +1,12 @@
+- Li2025WTD:
+  type: conference
+  author: <strong>Qing Li</strong>
+  title: Large eddy simulations of stabilizing effects induced by opposing Eulerian current and Stokes drift in an idealized ocean surface boundary layer
+  meeting: 12th Warnem&#xfc;nde Turbulence Days (WTD) on Waves and Turbulence
+  address: Putbus, Germany
+  date: September 2025
+  note: Talk
+
 - Li2025ICERM:
   type: conference
   author: <strong>Qing Li</strong>
@@ -346,7 +355,7 @@
   title: Surface wind wave induced entrainment at the base of the ocean surface boundary layer
   meeting: CLIVAR Open Science Conference
   address: Qingdao, China
-  date: Septemper 2016
+  date: September 2016
   note: Poster
 
 - CESM2016:
