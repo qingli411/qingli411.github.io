@@ -1,3 +1,13 @@
+# - jiang2025om:
+#   type: article
+#   author: <u>Xinghao Jiang</u>, <strong>Qing Li</strong>
+#   title: Impact of parameterized wind-driven boundary layer turbulence on the development and evolution of submesoscale mixed layer eddies
+#   journal: Ocean Modelling
+#   year: 2025
+#   note: Under Review
+#   abstract: >
+#     Submesoscale mixed layer eddies (MLE) and boundary layer turbulence (BLT) are two predominant physical processes in the ocean surface mixed layer that overlap in spatial and temporal scales. Their interaction may strongly modulate vertical mixing in the upper ocean, but has not yet been included in ocean general circulation models (GCM), in which their effects are parameterized separately. In addition, as MLEs are progressively resolved in global ocean GCMs with increasing computational resources, BLT will likely remain unresolved and require parameterizations in the foreseeable future. It is therefore essential to quantify the impact of parameterized BLT on the development and evolution of MLEs, in particular when BLT is actively driven by surface winds. Here we compare simulated MLEs at an idealized submesoscale front with down-front wind-driven BLT parameterized by KPP and k-ε. We found that a stronger parameterized BLT-induced vertical mixing results in intensified submesoscale vertical motions, enhanced vertical buoyancy transport, and increased MLE-induced restratification rates.  This close coupling between MLE-induced restratification and BLT-induced destratification can be largely attributed to the increase of available potential energy by BLT-induced vertical mixing in frontal regions, which is extracted by MLEs through mixed layer instability. This suggests that uncertainties in BLT parameterizations can lead to uncertainties in the simulated MLEs. Therefore, their impact on vertical transport of heat and materials should be assessed together. In addition, our results also suggest that parameterizations of BLT and MLE in coarse-resolution GCMs should probably be done jointly rather than separately.
+
 - shi2025james:
   type: article
   author: Xiaoming Shi, <strong>Qing Li</strong>, Diah Valentina Lestari, Shangfei Lin, and Hui Su
@@ -11,7 +21,7 @@
 - li2025jpo:
   type: article
   author: <strong>Qing Li</strong>
-  title: Large eddy simulations of stabilizing effects induced by opposing eulerian current and Stokes drift in an idealized ocean surface boundary layer
+  title: Large eddy simulations of stabilizing effects induced by opposing Eulerian current and Stokes drift in an idealized ocean surface boundary layer
   journal: Journal of Physical Oceanography
   year: 2025
   note: Under Review
@@ -29,13 +39,17 @@
   abstract: >
     Langmuir turbulence affects turbulent mixing in the ocean boundary layers and its effects require parameterizations in ocean circulation models. Most existing Langmuir turbulence parameterizations focus on surface boundary layers in open oceans. In the shallow waters of coastal oceans, a surface boundary layer may interact and even merge with a bottom boundary layer. It is unclear how existing Langmuir turbulence parameterizations perform under such complex conditions. Here we assess the performance of two recent Langmuir turbulence parameterizations in an idealized case of merging boundary layers against turbulence-resolving large-eddy simulations (LES). In addition to assessing the solutions of free runs of single-column model (SCM) simulations, in which errors in the mean fields and turbulent fluxes are entangled, we also compare the simulated turbulent fluxes in SCM simulations with their mean fields nudged to those of the LES. In doing so, we focus on the parameterized turbulent fluxes in different parameterizations given the perfect mean fields. Our comparison highlights the tendency of parameterizations to deviate from the LES at each time instance, and thereby reveals the deficiencies of parameterizations in an instantaneous sense. It is shown that both parameterizations overestimate the near-bottom turbulent momentum flux when velocity shear is correct, resulting in too weak near-bottom shear in a free run. Consistent with previous studies, a down-Stokes drift shear momentum flux is necessary for capturing the momentum flux due to Langmuir turbulence but still misses the nonlocal momentum flux when coherent Langmuir supercells form.
 
-- huang2025om:
+- huang2026om:
   type: article
   title: The role of longitudinal alignment between surface and bottom forcing on the full-column turbulence mixing in the coastal ocean
   author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
   journal: Ocean Modelling
-  year: 2025
-  note: Under Review
+  year: 2026
+  volume: 199
+  pages: 102637
+  url: https://doi.org/10.1016/j.ocemod.2025.102637
+  abstract: >
+    Langmuir turbulence in shallow-water coastal environments can reach the seafloor, developing into Langmuir supercells, which enhance size and mixing intensity. Two fundamental issues in coastal Langmuir turbulence remain unclear: (i) the energy cycle of the turbulence under different circumstances, and (ii) its effect on vertical mixing. We investigate these issues using large eddy simulations, considering aligned and opposing wind-wave and current directions. Results show that Langmuir supercells possess an intense full-column, narrow-band energetic mode, distinct from Langmuir turbulence in the energy spectrum. This mode occurs with aligned wind/wave and current directions but disappears when they oppose. In the latter case, only Langmuir and shear turbulence exist near surface and bottom boundaries; moreover, despite no stratification in simulations, their intensities are suppressed by a mid-layer barrier that limits surface-bottom interaction. When Langmuir supercells are present, the surface-bottom exchange of momentum is highly asymmetric between upwelling and downwelling limbs. Strong connections between surface and bottom turbulence, as indicated by the vortex-tube-connection events, can only be found in upwelling regions. As a result, the upwelling motions contribute considerably more to the momentum flux than the downwelling motions. All these results indicate that, despite the windrow pattern on the ocean surface from near-surface wind-wave interaction, whether full-column supercells can be activated or suppressed depends on different interactions between near-surface wind-wave forcing and near-bottom shear forcing. Once Langmuir supercells are activated, they differ significantly from Langmuir turbulence from the perspectives of energy and momentum transport; therefore, they cannot be simply treated as a “full column” version of Langmuir turbulence.
 
 - fan2024gmd:
   type: article
