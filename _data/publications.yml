@@ -1,12 +1,12 @@
-# - jiang2025om:
-#   type: article
-#   author: <u>Xinghao Jiang</u>, <strong>Qing Li</strong>
-#   title: Impact of parameterized wind-driven boundary layer turbulence on the development and evolution of submesoscale mixed layer eddies
-#   journal: Ocean Modelling
-#   year: 2025
-#   note: Under Review
-#   abstract: >
-#     Submesoscale mixed layer eddies (MLE) and boundary layer turbulence (BLT) are two predominant physical processes in the ocean surface mixed layer that overlap in spatial and temporal scales. Their interaction may strongly modulate vertical mixing in the upper ocean, but has not yet been included in ocean general circulation models (GCM), in which their effects are parameterized separately. In addition, as MLEs are progressively resolved in global ocean GCMs with increasing computational resources, BLT will likely remain unresolved and require parameterizations in the foreseeable future. It is therefore essential to quantify the impact of parameterized BLT on the development and evolution of MLEs, in particular when BLT is actively driven by surface winds. Here we compare simulated MLEs at an idealized submesoscale front with down-front wind-driven BLT parameterized by KPP and k-ε. We found that a stronger parameterized BLT-induced vertical mixing results in intensified submesoscale vertical motions, enhanced vertical buoyancy transport, and increased MLE-induced restratification rates.  This close coupling between MLE-induced restratification and BLT-induced destratification can be largely attributed to the increase of available potential energy by BLT-induced vertical mixing in frontal regions, which is extracted by MLEs through mixed layer instability. This suggests that uncertainties in BLT parameterizations can lead to uncertainties in the simulated MLEs. Therefore, their impact on vertical transport of heat and materials should be assessed together. In addition, our results also suggest that parameterizations of BLT and MLE in coarse-resolution GCMs should probably be done jointly rather than separately.
+- jiang2025ocemod:
+  type: article
+  author: <u>Xinghao Jiang</u>, <strong>Qing Li</strong>
+  title: Impact of parameterized wind-driven boundary layer turbulence on the development and evolution of submesoscale mixed layer eddies
+  journal: Ocean Modelling
+  year: 2025
+  note: Submitted
+  abstract: >
+    Submesoscale mixed layer eddies (MLE) and boundary layer turbulence (BLT) are two predominant physical processes in the ocean surface mixed layer that overlap in spatial and temporal scales. Their interaction may strongly modulate vertical mixing in the upper ocean, but has not yet been included in ocean general circulation models (GCM), in which their effects are parameterized separately. In addition, as MLEs are progressively resolved in global ocean GCMs with increasing computational resources, BLT will likely remain unresolved and require parameterizations in the foreseeable future. It is therefore essential to quantify the impact of parameterized BLT on the development and evolution of MLEs, in particular when BLT is actively driven by surface winds. Here we compare simulated MLEs at an idealized submesoscale front with down-front wind-driven BLT parameterized by KPP and k-ε. We found that a stronger parameterized BLT-induced vertical mixing results in intensified submesoscale vertical motions, enhanced vertical buoyancy transport, and increased MLE-induced restratification rates.  This close coupling between MLE-induced restratification and BLT-induced destratification can be largely attributed to the increase of available potential energy by BLT-induced vertical mixing in frontal regions, which is extracted by MLEs through mixed layer instability. This suggests that uncertainties in BLT parameterizations can lead to uncertainties in the simulated MLEs. Therefore, their impact on vertical transport of heat and materials should be assessed together. In addition, our results also suggest that parameterizations of BLT and MLE in coarse-resolution GCMs should probably be done jointly rather than separately.
 
 - shi2025james:
   type: article
@@ -39,7 +39,7 @@
   abstract: >
     Langmuir turbulence affects turbulent mixing in the ocean boundary layers and its effects require parameterizations in ocean circulation models. Most existing Langmuir turbulence parameterizations focus on surface boundary layers in open oceans. In the shallow waters of coastal oceans, a surface boundary layer may interact and even merge with a bottom boundary layer. It is unclear how existing Langmuir turbulence parameterizations perform under such complex conditions. Here we assess the performance of two recent Langmuir turbulence parameterizations in an idealized case of merging boundary layers against turbulence-resolving large-eddy simulations (LES). In addition to assessing the solutions of free runs of single-column model (SCM) simulations, in which errors in the mean fields and turbulent fluxes are entangled, we also compare the simulated turbulent fluxes in SCM simulations with their mean fields nudged to those of the LES. In doing so, we focus on the parameterized turbulent fluxes in different parameterizations given the perfect mean fields. Our comparison highlights the tendency of parameterizations to deviate from the LES at each time instance, and thereby reveals the deficiencies of parameterizations in an instantaneous sense. It is shown that both parameterizations overestimate the near-bottom turbulent momentum flux when velocity shear is correct, resulting in too weak near-bottom shear in a free run. Consistent with previous studies, a down-Stokes drift shear momentum flux is necessary for capturing the momentum flux due to Langmuir turbulence but still misses the nonlocal momentum flux when coherent Langmuir supercells form.
 
-- huang2026om:
+- huang2026ocemod:
   type: article
   title: The role of longitudinal alignment between surface and bottom forcing on the full-column turbulence mixing in the coastal ocean
   author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
@@ -76,14 +76,6 @@
   pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023MS003846
   abstract: >
     While various parameterizations of vertical turbulent fluxes at different levels of complexity have been proposed, each has its own limitations. For example, simple first-order closure schemes such as the K-Profile Parameterization (KPP) lack energetic constraints; two-equation models like <i>k</i>-&epsilon; directly solve an equation for the turbulent kinetic energy but do not account for non-diffusive fluxes, and high-order closures that include the high-order transport terms are computationally expensive. To address these, we extend the Assumed-Distribution Higher-Order Closure (ADC) framework originally proposed for the atmospheric boundary layer and apply it to the ocean surface boundary layer. By assuming a probability distribution function relationship between the vertical velocity and tracers, all second-order and higher-order moments are exactly constructed and turbulence closure is achieved in the ADC scheme. In addition, this ADC parameterization has full energetic constraints and includes non-diffusive fluxes without the computational cost of a full higher-order closure scheme. We have tested the ADC scheme against a combination of large eddy simulation (LES), KPP, and <i>k</i>-&epsilon; for surface buoyancy-driven convective mixing and found that the ADC scheme is robust with different vertical resolutions and compares well to the LES results.
-
-# - shao2022grl:
-#   type: article
-#   author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, and Xia Chai
-#   year: 2022
-#   title: Saildrone-observed submesoscale air-sea turbulent heat and momentum fluxes in the Southern Ocean
-#   journal: Geophysical Research Letters
-#   note: Submitted
 
 - johnson2023jpo:
   type: article
