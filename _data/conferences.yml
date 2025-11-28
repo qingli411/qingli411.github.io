@@ -1,6 +1,6 @@
 - Li2025WTD:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Large eddy simulations of stabilizing effects induced by opposing Eulerian current and Stokes drift in an idealized ocean surface boundary layer
   meeting: 12th Warnem&#xfc;nde Turbulence Days (WTD) on Waves and Turbulence
   address: Putbus, Germany
@@ -9,7 +9,7 @@
 
 - Li2025ICERM:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Stabilizing wave-induced stratification and its effects on vertical mixing in ocean surface boundary layer
   meeting: ICERM Hot Topics Workshop - Synthesizing Research On Ocean Surface Waves In The New Arctic
   address: Providence, RI, USA
@@ -18,7 +18,7 @@
 
 - Jiang2025EGU:
   type: conference
-  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
+  author: <u>Xinghao Jiang</u> and <u><strong>Qing Li</strong></u>
   title: Interaction between boundary layer turbulence and submesoscale mixed layer eddies and its influence on upper ocean stratification
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
@@ -27,7 +27,7 @@
 
 - Zou2025EGU:
   type: conference
-  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
+  author: <u>Shihao Zou</u> and <u><strong>Qing Li</strong></u>
   title: Fuse the SAR and SWIM observations to acquire global Stokes drift estimations
   meeting: European Geosciences Union (EGU) General Assembly
   address: Vienna, Austria
@@ -36,7 +36,7 @@
 
 - Huang2025XMAS:
   type: conference
-  author: Jiahao Huang, Marcelo Chamecki, <strong>Qing Li</strong>, and Bicheng Chen
+  author: Jiahao Huang, Marcelo Chamecki, <u><strong>Qing Li</strong></u>, and Bicheng Chen
   title: The role of diurnal forcings on the merging of surface and bottom boundary layers in the coastal ocean and their implications on vertical mixing
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -45,7 +45,7 @@
 
 - Jiang2025XMAS:
   type: conference
-  author: <u>Xinghao Jiang</u> and <strong>Qing Li</strong>
+  author: <u>Xinghao Jiang</u> and <u><strong>Qing Li</strong></u>
   title: Influence of boundary layer turbulence on submesoscale mixed layer eddy-induced restratification
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -54,7 +54,7 @@
 
 - Pan2025XMAS:
   type: conference
-  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  author: <u>Wentao Pan</u> and <u><strong>Qing Li</strong></u>
   title: Transient response of Langmuir turbulence structure to abrupt changes in surface buoyancy forcing
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -63,7 +63,7 @@
 
 - Wei2025XMAS:
   type: conference
-  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  author: <u>Zheng Wei</u>, <u><strong>Qing Li</strong></u>, and Bicheng Chen
   title: A direct comparison of turbulent fluxes in ocean boundary layer vertical mixing parameterizations
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -72,7 +72,7 @@
 
 - Xu2025XMAS:
   type: conference
-  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <strong>Qing Li</strong>
+  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <u><strong>Qing Li</strong></u>
   title: Episodic phytoplankton blooms in the low-latitude North Atlantic&#58; Causes and contributions to annual carbon sequestration
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -81,7 +81,7 @@
 
 - Zou2025XMAS:
   type: conference
-  author: <u>Shihao Zou</u> and <strong>Qing Li</strong>
+  author: <u>Shihao Zou</u> and <u><strong>Qing Li</strong></u>
   title: A transformer based approach for fusing SAR and SWIM measurement to produce better-quality wave spectrum
   meeting: 7th Xiamen Symposium on Marine Environmental Sciences
   address: Xiamen, Fujian, China
@@ -90,7 +90,7 @@
 
 - Pan2024AGU:
   type: conference
-  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  author: <u>Wentao Pan</u> and <u><strong>Qing Li</strong></u>
   title: Assessing the impact of transient forcing on Langmuir turbulence intensity and the resulting vertical mixing in the upper ocean
   meeting: AGU Annual Meeting
   address: Washington, D.C., USA
@@ -99,7 +99,7 @@
 
 - Wei2024AGU:
   type: conference
-  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  author: <u>Zheng Wei</u>, <u><strong>Qing Li</strong></u>, and Bicheng Chen
   title: Assessment of vertical mixing parameterizations in modelling merging surface and bottom boundary layers
   meeting: AGU Annual Meeting
   address: Washington, D.C., USA
@@ -108,7 +108,7 @@
 
 - Li2024OFHM:
   type: conference
-  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  author: <u><strong>Qing Li</strong></u>, <u>Zheng Wei</u>, and Bicheng Chen
   title: A direct assessment of Langmuir turbulence parameterizations in idealized merging boundary layers in coastal oceans
   meeting: 3rd Hong Kong and Macau Ocean Forum & Areas of Excellence (AoE) Forum
   address: Hong Kong, China
@@ -117,7 +117,7 @@
 
 - TFMS2024:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: A hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
   meeting: 3rd Youth Forum on Marine Science
   address: Shanghai, China
@@ -126,7 +126,7 @@
 
 - AOGS2024:
   type: conference
-  author: <strong>Qing Li</strong> and <u>Wentao Pan</u>
+  author: <u><strong>Qing Li</strong></u> and <u>Wentao Pan</u>
   title: Transient response of Langmuir turbulence in a diurnal cycle
   meeting: Asia Oceania Geosciences Society 21th Annual Meeting
   address: Pyeongchang, Gangwon-do, South Korea
@@ -135,7 +135,7 @@
 
 - OSM2024:
   type: conference
-  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  author: <u><strong>Qing Li</strong></u>, <u>Zheng Wei</u>, and Bicheng Chen
   title: Assessing the performance of Langmuir turbulence parameterizations in idealized merging boundary layers in coastal oceans
   meeting: Ocean Sciences Meeting
   address: New Orleans, LA, USA
@@ -144,7 +144,7 @@
 
 - AGU2023:
   type: conference
-  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  author: <u><strong>Qing Li</strong></u>, <u>Zheng Wei</u>, and Bicheng Chen
   title: Assessing the performance of Langmuir turbulence parameterizations in idealized estuarine-shelf environment
   meeting: AGU Annual Meeting
   address: San Francisco, CA, USA
@@ -153,7 +153,7 @@
 
 - AOGS2023WP:
   type: conference
-  author: <u>Wentao Pan</u> and <strong>Qing Li</strong>
+  author: <u>Wentao Pan</u> and <u><strong>Qing Li</strong></u>
   title: Transient response of Langmuir turbulence to the changing forcings in a diurnal cycle
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
@@ -162,7 +162,7 @@
 
 - AOGS2023ZW:
   type: conference
-  author: <u>Zheng Wei</u>, <strong>Qing Li</strong>, and Bicheng Chen
+  author: <u>Zheng Wei</u>, <u><strong>Qing Li</strong></u>, and Bicheng Chen
   title: Modeling the ocean boundary layer turbulent mixing in the transitioning regions between coastal and open oceans
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
@@ -171,7 +171,7 @@
 
 - AOGS2023ZX:
   type: conference
-  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <strong>Qing Li</strong>
+  author: <u>Zhuowei Xu</u>, Liuqian Yu, and <u><strong>Qing Li</strong></u>
   title: Impact of phytoplankton light absorption on upper ocean dynamics and carbon export production in the subpolar North Atlantic&#58; A modeling assessment
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
@@ -180,7 +180,7 @@
 
 - AOGS2023:
   type: conference
-  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  author: <u><strong>Qing Li</strong></u>, <u>Zheng Wei</u>, and Bicheng Chen
   title: Towards a better parameterization of ocean turbulent mixing in the estuarine-shelf environment
   meeting: Asia Oceania Geosciences Society 20th Annual Meeting
   address: Singapore
@@ -189,7 +189,7 @@
 
 - OFHM2023:
   type: conference
-  author: <strong>Qing Li</strong>, <u>Zheng Wei</u>, and Bicheng Chen
+  author: <u><strong>Qing Li</strong></u>, <u>Zheng Wei</u>, and Bicheng Chen
   title: Progress towards modeling the ocean boundary layer turbulence from open oceans to coastal oceans
   meeting: 2nd Ocean Forum in Hong Kong and Macao
   address: Hong Kong, China
@@ -198,7 +198,7 @@
 
 - YFOD2023:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: How do we compare ocean mixed layer models?
   meeting: 7th Youth Forum on Ocean Dynamics
   address: Qingdao, China
@@ -207,7 +207,7 @@
 
 - XMAS2023:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Langmuir turbulence in a diurnal cycle
   meeting: 6th Xiamen Symposium on Marine Environmental Sciences
   address: Virtual Meeting Online
@@ -216,7 +216,7 @@
 
 - OFHM2022:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Modeling the ocean boundary layer turbulent mixing&#58; From open oceans to coastal oceans
   meeting: 1st Ocean Forum in Hong Kong and Macao
   address: Macao, China
@@ -225,7 +225,7 @@
 
 - LYSF2022:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: A comparison of recent Langmuir turbulence parameterizations
   meeting: 9th Lihai Young Scientist Forum
   address: Virtual Meeting Online
@@ -234,7 +234,7 @@
 
 - YFMS2022:
   type: conference
-  author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, and Samantha Stevenson
+  author: <u><strong>Qing Li</strong></u>, Luke Van&nbsp;Roekel, and Samantha Stevenson
   title: Tropical instability waves in a warmer climate simulated in the Energy Exascale Earth System Model
   meeting: 1st Youth Forum on Marine Science
   address: Guangzhou, China
@@ -243,7 +243,7 @@
 
 - OSM2022:
   type: conference
-  author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, and Samantha Stevenson
+  author: <u><strong>Qing Li</strong></u>, Luke Van&nbsp;Roekel, and Samantha Stevenson
   title: Tropical instability waves in a warmer climate simulated in the Energy Exascale Earth System Model
   meeting: Ocean Sciences Meeting
   address: Virtual Meeting Online
@@ -252,7 +252,7 @@
 
 - CORE2022:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Modeling the turbulent mixing in coastal oceans
   meeting: CORE Annual Research Symposium
   address: Virtual Meeting Online
@@ -261,7 +261,7 @@
 
 - WTD2021:
   type: conference
-  author: <strong>Qing Li</strong>, Jorn Bruggeman, Hans Burchard, Knut Klingbeil, Lars Umlauf, and Karsten Bolding
+  author: <u><strong>Qing Li</strong></u>, Jorn Bruggeman, Hans Burchard, Knut Klingbeil, Lars Umlauf, and Karsten Bolding
   title: Integrating CVMix into GOTM&#58; A consistent framework for testing, comparing, and applying ocean mixing schemes
   meeting: 10th Warnem&#xfc;nde Turbulence Days (WTD) on Interfaces and Turbulent Boundary Layers
   address: Virtual Meeting Online
@@ -270,7 +270,7 @@
 
 - IAMES2021:
   type: conference
-  author: <strong>Qing Li</strong> and Luke Van&nbsp;Roekel
+  author: <u><strong>Qing Li</strong></u> and Luke Van&nbsp;Roekel
   title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean and PALM
   meeting: 1st International Association of Meteorological Education and Sciences (IAMES) Conference
   address: Virtual Meeting Online
@@ -279,7 +279,7 @@
 
 - OMWG2021:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: An update on Langmuir mixing parameterizations in CESM2.2
   meeting: CESM Ocean Model Working Group Meeting
   address: Virtual Meeting Online
@@ -288,7 +288,7 @@
 
 - OSM2020:
   type: conference
-  author: <strong>Qing Li</strong> and Luke Van&nbsp;Roekel
+  author: <u><strong>Qing Li</strong></u> and Luke Van&nbsp;Roekel
   title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean and PALM
   meeting: Ocean Sciences Meeting
   address: San Diego, CA, USA
@@ -297,7 +297,7 @@
 
 - WTD2019:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Modeling the ocean surface boundary layer vertical mixing by Langmuir turbulence
   meeting: 9th Warnem&#xfc;nde Turbulence Days (WTD) on Ocean Mixing and its Efficiency
   address: Putbus, Germany
@@ -306,7 +306,7 @@
 
 - AOFD2019:
   type: conference
-  author: <strong>Qing Li</strong>, Luke Van&nbsp;Roekel, Peter Caldwell, Jean-Christophe Golaz, Mathew Maltrud, Azamat Mametjanov, Qi Tang, and Jonathan Wolfe
+  author: <u><strong>Qing Li</strong></u>, Luke Van&nbsp;Roekel, Peter Caldwell, Jean-Christophe Golaz, Mathew Maltrud, Azamat Mametjanov, Qi Tang, and Jonathan Wolfe
   title: Labrador Sea air-sea fluxes, circulation, and sea-ice in high-res and low-res E3SM
   meeting: 22nd Conference on Atmospheric and Oceanic Fluid Dynamics
   address: Portland, ME, USA
@@ -315,7 +315,7 @@
 
 - AGU2018:
   type: conference
-  author: <strong>Qing Li</strong>, Brandon&nbsp;G. Reichl, Baylor Fox-Kemper, Alistair Adcroft, Stephen Belcher, Gokhan Danabasoglu, Alan Grant, Stephen&nbsp;M. Griffies, Robert&nbsp;W. Hallberg, Tetsu Hara, Ramsey Harcourt, Tobias Kukulka, William&nbsp;G. Large, James&nbsp;C. McWilliams, Brodie Pearson, Peter Sullivan, Luke Van&nbsp;Roekel, Peng Wang, and Zhihua Zheng
+  author: <u><strong>Qing Li</strong></u>, Brandon&nbsp;G. Reichl, Baylor Fox-Kemper, Alistair Adcroft, Stephen Belcher, Gokhan Danabasoglu, Alan Grant, Stephen&nbsp;M. Griffies, Robert&nbsp;W. Hallberg, Tetsu Hara, Ramsey Harcourt, Tobias Kukulka, William&nbsp;G. Large, James&nbsp;C. McWilliams, Brodie Pearson, Peter Sullivan, Luke Van&nbsp;Roekel, Peng Wang, and Zhihua Zheng
   title: Comparing ocean boundary vertical mixing schemes with Langmuir turbulence
   meeting: AGU Fall Meeting
   address: Washington, DC, USA
@@ -324,7 +324,7 @@
 
 - PODS2018:
   type: conference
-  author: <strong>Qing Li</strong>
+  author: <u><strong>Qing Li</strong></u>
   title: Langmuir turbulence and its effects on global climate
   meeting: Physical Oceanography Dissertation Symposium X
   address: Kailua-Kona, HI, USA
@@ -333,7 +333,7 @@
 
 - GRC2018:
   type: conference
-  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  author: <u><strong>Qing Li</strong></u> and Baylor Fox-Kemper
   title: Anisotropy of Langmuir turbulence and the entrainment buoyancy flux
   meeting: Gordon Research Conference on Ocean Mixing
   address: Andover, NH, USA
@@ -342,7 +342,7 @@
 
 - OSM2018:
   type: conference
-  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  author: <u><strong>Qing Li</strong></u> and Baylor Fox-Kemper
   title: Anisotropy of Langmuir turbulence and the entrainment buoyancy flux
   meeting: Ocean Sciences Meeting
   address: Portland, OR, USA
@@ -351,7 +351,7 @@
 
 - CLIVAR2016:
   type: conference
-  author: <strong>Qing Li</strong> and Baylor Fox-Kemper
+  author: <u><strong>Qing Li</strong></u> and Baylor Fox-Kemper
   title: Surface wind wave induced entrainment at the base of the ocean surface boundary layer
   meeting: CLIVAR Open Science Conference
   address: Qingdao, China
@@ -360,7 +360,7 @@
 
 - CESM2016:
   type: conference
-  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, Adrean Webb, &#xd8;yvind Breivik, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Baylor Fox-Kemper, Todd Arbetter, Adrean Webb, &#xd8;yvind Breivik, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: A statistical modeling of the Langmuir mixing effects on the global climate
   meeting: 21st CESM Workshop
   address: Breckenridge, CO, USA
@@ -369,7 +369,7 @@
 
 - Liege2016:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: A statistical modeling of the Langmuir mixing effects on global climate
   meeting: 48th International Li&#xe8;ge Colloquium On Ocean Dynamics
   address: Li&#xe8;ge, Belgium
@@ -378,7 +378,7 @@
 
 - OSM2016:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Todd Arbetter, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing affects the global climate&#58; A statistical modeling
   meeting: Ocean Sciences Meeting
   address: New Orleans, LA, USA
@@ -387,7 +387,7 @@
 
 - APSDFD2015:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
   meeting: 68th APS Annual Division of Fluid Dynamics Meeting
   address: Boston, MA, USA
@@ -396,7 +396,7 @@
 
 - COWCLIP2015:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
   meeting: 4th COWCLIP Workshop
   address: Paris, France
@@ -405,7 +405,7 @@
 
 - CESM2015:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing in CESM
   meeting: 20th CESM Workshop
   address: Breckenridge, CO, USA
@@ -414,7 +414,7 @@
 
 - AGU2014:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
   meeting: AGU Fall Meeting
   address: San Francisco, CA, USA
@@ -423,7 +423,7 @@
 
 - IMA2014:
   type: conference
-  author: <strong>Qing Li</strong>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
+  author: <u><strong>Qing Li</strong></u>, Adrean Webb, Baylor Fox-Kemper, Anthony Craig, Gokhan Danabasoglu, William&nbsp;G. Large, and Mariana Vertenstein
   title: Langmuir mixing effects on global climate&#58; WAVEWATCH III in CESM
   meeting: IMA Workshop on the Impact of Waves Along Coastlines
   address: Minneapolis, MN, USA
@@ -432,7 +432,7 @@
 
 - CESM2014:
   type: conference
-  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
+  author: <u><strong>Qing Li</strong></u>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
   title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM&#58; Langmuir mixing in KPP
   meeting: 19th CESM Workshop
   address: Breckenridge, CO, USA
@@ -441,7 +441,7 @@
 
 - OSM2014:
   type: conference
-  author: <strong>Qing Li</strong>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
+  author: <u><strong>Qing Li</strong></u>, Baylor Fox-Kemper, Todd Arbetter, and Adrean Webb
   title: Assessing the influence of surface wind waves to the global climate by incorporating WAVEWATCH III in CESM
   meeting: Ocean Sciences Meeting
   address: Honolulu, HI, USA
