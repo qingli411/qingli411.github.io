@@ -1,29 +1,39 @@
-- pan2025prf:
+- zou2026rse:
+  type: article
+  author: <u>Shihao Zou</u>, Dani&egrave;le Hauser, Charles Peureux, <u><strong>Qing Li</strong></u>
+  title: Fusing SAR and SWIM observations to improve the global Stokes drift estimates
+  journal: Remote Sensing of Environment
+  year: 2026
+  note: Under Review
+  abstract: >
+    Stokes drift of ocean surface waves is an important quantity in wave-current coupling theories that affects tracer transport in the upper ocean. However, direct measurement of Stokes drift is elusive. More commonly, it is computed from measured wave spectrum. While in situ measurements of wave spectrum are available on wave buoys, they are limited mostly in coastal regions. Remote sensing of wave spectrum by the Synthetic Aperture Radar (SAR) or the Surface Wave Investigation and Monitoring (SWIM) instrument enables wave spectrum observations globally. Yet both systems present distinct constraints: SAR provides directional information but suffers from velocity bunching effects that restrict measurable wavenumbers and cause spectral distortions, while SWIM offers broader spectral coverage with minimal amplitude underestimation but produces directionally ambiguous spectra. To address these complementary limitations, we  propose a novel fusion framework to combine SAR and SWIM using conventional signal processing techniques. We validate the fused Stokes drift against in situ wave buoy measurements at Ocean Station Papa. Compared to the standalone SAR and SWIM results, our fusion approach improves Stokes drift estimates and demonstrates robust performance for the mean Stokes drift vector across various sea states. In addition, we categorize the error sources as either observational or methodological to guide future improvements. Finally, we apply this fusion approach to the global ocean, which yields seasonal Stokes drift estimates that are more consistent with the established understanding of global wave patterns than the estimate based on SWIM alone. These findings show the potential of the fusion approach towards an improved estimate of global Stokes drift.
+
+- pan2026prf:
   type: article
   author: <u>Weitao Pan</u>, <u><strong>Qing Li</strong></u>
-  title: Transient Response of Langmuir Turbulence to Abrupt Onset of Surface Heating
+  title: Transient response of Langmuir turbulence to abrupt onset of surface heating
   journal: Physical Review Fluids
-  year: 2025
+  year: 2026
   note: Under Review
   abstract: >
     Langmuir turbulence (LT) plays an important role in enhancing vertical mixing in the ocean surface boundary layer (OSBL). Such enhanced mixing is strongly affected by the diurnally varying heat flux, especially in the early morning when there is a transition from cooling to heating. In this period, turbulence is weakened, yet the surface heat flux is changing rapidly, such that the deviation of transient turbulence from its equilibrium state is large. This may lead to biases in the parameterization of turbulent mixing due to LT in large-scale ocean circulation models, in which an equilibrium of the turbulence state with the surface forcing is often assumed. In this study, we investigate the transient response of LT to an abrupt onset of surface heating using idealized large eddy simulations, and compare it with the transient response of wind-driven shear turbulence (ST). Near the surface, the destabilizing Stokes shear force competes with the stabilizing surface forcing, resulting in a gradual decay of the turbulence intensity, in contrast to ST whose intensity decreases rapidly at first and then gradually recovers due to the formation of a stronger jet in the surface warm layer. Below the surface, the decay of coherent downwelling plumes of LT occurs faster than shear turbulence, resulting in a quicker response of LT than ST at depth. The vertical velocity variance of LT at depth decays at a rate initially following <i>t</i><sup>&minus;1</sup> and later transitioning to <i>t</i><sup>&minus;2</sup>. We also examine the impact of details of the Stokes forcing on the transient response of LT. These results may help improve vertical mixing parameterizations in the OSBL.
 
-- jiang2025ocemod:
+- jiang2026ocemod:
   type: article
   author: <u>Xinghao Jiang</u>, <u><strong>Qing Li</strong></u>
   title: Impact of parameterized wind-driven boundary layer turbulence on the development and evolution of submesoscale mixed layer eddies
   journal: Ocean Modelling
-  year: 2025
+  year: 2026
   note: Under Review
   abstract: >
     Submesoscale mixed layer eddies (MLE) and boundary layer turbulence (BLT) are two predominant physical processes in the ocean surface mixed layer that overlap in spatial and temporal scales. Their interaction may strongly modulate vertical mixing in the upper ocean, but has not yet been included in ocean general circulation models (GCM), in which their effects are parameterized separately. In addition, as MLEs are progressively resolved in global ocean GCMs with increasing computational resources, BLT will likely remain unresolved and require parameterizations in the foreseeable future. It is therefore essential to quantify the impact of parameterized BLT on the development and evolution of MLEs, in particular when BLT is actively driven by surface winds. Here we compare simulated MLEs at an idealized submesoscale front with down-front wind-driven BLT parameterized by KPP and k-ε. We found that a stronger parameterized BLT-induced vertical mixing results in intensified submesoscale vertical motions, enhanced vertical buoyancy transport, and increased MLE-induced restratification rates.  This close coupling between MLE-induced restratification and BLT-induced destratification can be largely attributed to the increase of available potential energy by BLT-induced vertical mixing in frontal regions, which is extracted by MLEs through mixed layer instability. This suggests that uncertainties in BLT parameterizations can lead to uncertainties in the simulated MLEs. Therefore, their impact on vertical transport of heat and materials should be assessed together. In addition, our results also suggest that parameterizations of BLT and MLE in coarse-resolution GCMs should probably be done jointly rather than separately.
 
-- li2025jpo:
+- li2026jpo:
   type: article
   author: <u><strong>Qing Li</strong></u>
   title: Large eddy simulations of stabilizing effects induced by opposing Eulerian current and Stokes drift in an idealized ocean surface boundary layer
   journal: Journal of Physical Oceanography
-  year: 2025
+  year: 2026
   note: Under Review
   abstract: >
     Ocean surface waves strongly modulate vertical turbulent mixing in the ocean surface boundary layer. When they are aligned with wind-driven shear, Craik-Leibovich instability occurs, resulting in the formation of Langmuir turbulence that strongly enhances vertical mixing. By the same mechanism, ocean surface waves can also stabilize the water column and suppress boundary layer turbulence when they are in opposite direction as the Eulerian current. Here, we demonstrate this stabilizing effect induced by opposing Eulerian current and Stokes drift in large eddy simulations (LES) under idealized homogeneous surface cooling and no wind conditions. Rolls of convection form under the competing effects of destabilizing surface cooling and stabilizing wave-induced stratification. The latter depends on the alignment of Eulerian shear and Stokes drift shear, resulting in roll structures aligned perpendicular to Stokes drift. In addition, the intensity of turbulence is significantly reduced as compared to the case of pure convection. Such stabilizing effect of wave-induced stratification has yet to be incorporated in wave-driven mixing parameterizations and may leads to potential improvements. Using this idealized test case, we also demonstrate the effect of assuming down-Eulerian shear mixing versus down-Lagrangian shear mixing in the sub-grid scale scheme by comparing two LES models. While such effect may be hidden in strongly wind-forced cases, it results in completely different solutions in this idealized case by changing the boundary condition for the mean flow. Therefore, care should be taken when designing and interpreting LES with misaligned currents and waves.
