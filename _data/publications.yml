@@ -24,8 +24,10 @@
   title: Large eddy simulations of stabilizing effects induced by opposing Eulerian shear and Stokes drift shear in an idealized ocean surface boundary layer
   journal: Journal of Physical Oceanography
   year: 2026
+  volume: 56
+  pages: 855&#x2013;871
   url: https://doi.org/10.1175/JPO-D-25-0077.1
-  pdf: https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0077.1/JPO-D-25-0077.1.pdf
+  pdf: https://journals.ametsoc.org/downloadpdf/view/journals/phoc/56/4/JPO-D-25-0077.1.pdf
   abstract: >
     Ocean surface waves strongly modulate vertical turbulent mixing in the ocean surface boundary layer. When they are aligned with wind-driven Eulerian shear, Craik-Leibovich instability occurs, resulting in the formation of Langmuir turbulence that strongly enhances vertical mixing. By the same mechanism, ocean surface waves can also stabilize the water column and suppress boundary layer turbulence when they are in opposite direction as the Eulerian shear. Here, we demonstrate this stabilizing effect induced by opposing Eulerian shear and Stokes drift shear in large eddy simulations (LES) under idealized homogeneous surface cooling and no-wind conditions. Rolls of convection formunder the competing effects of destabilizing surface cooling and stabilizing wave-induced stratification. The latter depends on the alignment of Eulerian shear and Stokes drift shear, resulting in roll structures aligned perpendicular to Stokes drift. In addition, the intensity of turbulence is significantly reduced as compared to the case of pure convection. Such stabilizing effect of wave-induced stratification has yet to be incorporated in wave-driven mixing parameterizations and may lead to potential improvements. Using this idealized test case, we also demonstrate the effect of assuming down-Eulerian shear mixing versus down-Lagrangian shear mixing in the sub-grid scale scheme by comparing two LES models. While such effect may be hidden in strongly wind-forced cases, it results in completely different solutions in this idealized case by changing the boundary condition for the mean flow. Therefore, care should be taken when designing and interpreting LES with misaligned currents and waves.
 
@@ -38,7 +40,7 @@
   volume: 11
   pages: 024606
   url: https://doi.org/10.1103/jjdt-zp9n
-  pdf: pdf/PanLi2026.pdf
+  pdf: https://journals.aps.org/prfluids/pdf/10.1103/jjdt-zp9n
   abstract: >
     Langmuir turbulence (LT) plays an important role in enhancing vertical mixing in the ocean surface boundary layer (OSBL). Such enhanced mixing is strongly affected by the diurnally varying heat flux, especially in the early morning when there is a transition from cooling to heating. In this period, turbulence is weakened, yet the surface heat flux is changing rapidly, such that the deviation of transient turbulence from its equilibrium state is large. This may lead to biases in the parameterization of turbulent mixing due to LT in large-scale ocean circulation models, in which an equilibrium of the turbulence state with the surface forcing is often assumed. In this study, we investigate the transient response of LT to an abrupt onset of surface heating using idealized large eddy simulations, and compare it with the transient response of wind-driven shear turbulence (ST). Near the surface, the destabilizing Stokes shear force competes with the stabilizing surface heating, resulting in a gradual decay of the turbulence intensity, in contrast to ST whose intensity decreases rapidly at first and then partially recovers due to the formation of a stronger jet in the surface warm layer. Below the surface, the decay of coherent downwelling plumes of LT occurs faster than shear turbulence, resulting in a quicker response of LT than ST at depth. The vertical velocity variance of LT at depth decays at a rate initially following <i>t</i><sup>&minus;1</sup> and later transitioning to <i>t</i><sup>&minus;2</sup>. We also examine the impact of details of the Stokes forcing on the transient response of LT. These results may help improve vertical mixing parameterizations in the OSBL.
 
@@ -86,7 +88,7 @@
   title: Comparison of the coastal and regional ocean community model (CROCO) and NCAR-LES in non-hydrostatic simulations
   year: 2024
   volume: 17
-  pages: 4095-4113
+  pages: 4095&#x2013;4113
   url: https://doi.org/10.5194/gmd-17-4095-2024
   journal: Geoscientific Model Development
   pdf: https://gmd.copernicus.org/articles/17/4095/2024/gmd-17-4095-2024.pdf
@@ -114,7 +116,7 @@
   title: A finite-time ensemble method for mixed layer model comparison
   journal: Journal of Physical Oceanography
   volume: 53
-  pages: 2211–2230
+  pages: 2211&#x2013;2230
   pdf: https://journals.ametsoc.org/downloadpdf/journals/phoc/53/9/JPO-D-22-0107.1.xml
   abstract: >
     This work evaluates the fidelity of various upper ocean turbulence parameterizations subject to realistic monsoon forcing and presents a finite-time ensemble vector (EV) method to better manage the design and numerical principles of these parameterizations. The EV method emphasizes the dynamics of a turbulence closure multi-model ensemble and is applied to evaluate ten different ocean surface boundary layer (OSBL) parameterizations within a single column (SC) model against two boundary layer large eddy simulations (LES). Both LES include realistic surface forcing, but one includes wind-driven shear turbulence only, while the other includes additional Stokes forcing through the wave-average equations that generates Langmuir turbulence. The finite-time EV framework focuses on what constitutes the local behavior of the mixed layer dynamical system and isolates the forcing and ocean state conditions where turbulence parameterizations most disagree. Identifying disagreement provides the potential to evaluate SC models comparatively against the LES. Observations collected during the 2018 Monsoon onset in the Bay of Bengal provide a case study to evaluate models under realistic and variable forcing conditions. The case study results highlight two regimes where models disagree a) during wind-driven deepening of the mixed layer and b) under strong diurnal forcing.
@@ -153,7 +155,7 @@
   title: Antarctic warming during Heinrich Stadial 1 in a transient isotope-enabled deglacial simulation
   journal: Journal of Climate
   volume: 35
-  pages: 3753-3765
+  pages: 3753&#x2013;3765
   pdf: https://journals.ametsoc.org/downloadpdf/journals/clim/35/22/JCLI-D-22-0094.1.xml
   abstract: >
     Heinrich Stadial 1 (HS1) was the major climate event at the onset of the last deglaciation associated with rapid cooling in Greenland and lagged, slow warming in Antarctica. Although it is widely believed that temperature signals were triggered in the Northern Hemisphere and propagated southward associated with the Atlantic meridional overturning circulation (AMOC), understanding how these signals were able to cross the Antarctic Circumpolar Current (ACC) barrier and further warm up Antarctica has proven particularly challenging. In this study, we explore the physical processes that lead to the Antarctic warming during HS1 in a transient isotope-enabled deglacial simulation iTRACE, in which the interpolar phasing has been faithfully reproduced. We show that the increased meridional heat transport alone, first through the ocean and then through the atmosphere, can explain the Antarctic warming during the early stage of HS1 without notable changes in the strength and position of the Southern Hemisphere midlatitude westerlies. In particular, when a reduction of the AMOC causes ocean warming to the north of the ACC, increased southward ocean heat transport by mesoscale eddies is triggered by steeper isopycnals to warm up the ocean beyond the ACC, which further decreases the sea ice concentration and leads to more absorption of insolation. The increased atmospheric heat then releases to the Antarctic primarily by a strengthening zonal wavenumber-3 (ZW3) pattern. Sensitivity experiments further suggest that a ∼4°C warming caused by this mechanism superimposed on a comparable warming driven by the background atmospheric CO2 rise is able to explain the total simulated ∼8°C warming in the West Antarctica during HS1.
@@ -178,7 +180,7 @@
   title: Description of historical and future projection simulations by the global coupled E3SMv1.0 model as used in CMIP6
   journal: Geoscientific Model Development
   volume: 15
-  pages: 3941–3967
+  pages: 3941&#x2013;3967
   pdf: https://gmd.copernicus.org/articles/15/3941/2022/gmd-15-3941-2022.pdf
   abstract: >
     This paper documents the experimental setup and general features of the coupled historical and future climate simulations with the first version of the US Department of Energy (DOE) Energy Exascale Earth System Model (E3SMv1.0). The future projected climate characteristics of E3SMv1.0 at the highest emission scenario (SSP5-8.5) designed in the Scenario Model Intercomparison Project (ScenarioMIP) and the SSP5-8.5 greenhouse gas (GHG) only forcing experiment are analyzed with a focus on regional responses of atmosphere, ocean, sea ice, and land. <br> Due to its high equilibrium climate sensitivity (ECS of 5.3 K), E3SMv1.0 is one of the Coupled Model Intercomparison Project phase 6 (CMIP6) models with the largest surface warming by the end of the 21st century under the high-emission SSP5-8.5 scenario. The global mean precipitation change is highly correlated with the global temperature change, while the spatial pattern of the change in runoff is consistent with the precipitation changes. The oceanic mixed layer generally shoals throughout the global ocean. The annual mean Atlantic meridional overturning circulation (AMOC) is overly weak with a slower change from ∼ 11 to ∼ 6 Sv (Sverdrup) relative to other CMIP6 models. The sea ice, especially in the Northern Hemisphere, decreases rapidly with large seasonal variability. We detect a significant polar amplification in E3SMv1.0 from the atmosphere, ocean, and sea ice. <br> Comparing the SSP5-8.5 all-forcing experiment with the GHG-only experiment, we find that the unmasking of the aerosol effects due to the decline of the aerosol loading in the future projection period causes transient accelerated warming in the all-forcing experiment in the first half of the 21st century. While the oceanic climate response is mainly controlled by the GHG forcing, the land runoff response is impacted primarily by forcings other than GHG over certain regions, e.g., southern North America, southern Africa, central Africa, and eastern Asia. However, the importance of the GHG forcing on the land runoff changes grows in the future climate projection period compared to the historical period.
@@ -191,7 +193,7 @@
   title: Evaluating coupled climate model parameterizations via skill at reproducing the monsoon intraseasonal oscillation
   journal: Journal of Climate
   volume: 35
-  pages: 1873–1884
+  pages: 1873&#x2013;1884
   abstract: >
     Empirically generated indices are used to evaluate the skill of a global climate model in representing the monsoon intraseasonal oscillation (MISO). This work adapts the method of Suhas et al., an extended empirical orthogonal function (EEOF) analysis of daily rainfall data with the first orthogonal function indicating MISO strength and phase. This method is applied to observed rainfall and Community Earth System Model (CESM1.2) simulation results. Variants of the CESM1.2 including upper ocean parameterizations for Langmuir turbulence and submesoscale mixed layer eddy restratification are used together with the EEOF analysis to explore sensitivity of the MISO to global upper ocean process representations. The skill with which the model variants recreate the MISO strength and persistence is evaluated versus the observed MISO. While all model versions reproduce the northward rainfall propagation traditionally associated with the MISO, a version including both Langmuir turbulence and submesoscale restratification parameterizations provides the most accurate simulations of the time scale of MISO events.
 
@@ -203,7 +205,7 @@
   title: Integrating CVMix into GOTM (v6.0)&#58; A consistent framework for testing, comparing, and applying ocean mixing schemes
   journal: Geoscientific Model Development
   volume: 14
-  pages: 4261–4282
+  pages: 4261&#x2013;4282
   pdf: https://gmd.copernicus.org/articles/14/4261/2021/gmd-14-4261-2021.pdf
   abstract: >
     The General Ocean Turbulence Model (GOTM) is a one-dimensional water column model including a set of state-of-the-art turbulence closure models, and has widely been used in various applications in the ocean modeling community. Here we extend GOTM to include a set of newly developed ocean surface vertical mixing parameterizations of Langmuir turbulence via coupling with the Community Vertical Mixing Project (CVMix). A Stokes drift module is also implemented in GOTM to provide the necessary ocean surface waves information to the Langmuir turbulence parameterizations, as well as to facilitate future development and evaluation of new Langmuir turbulence parameterizations. In addition, a streamlined workflow with Python and Jupyter Notebook is also described, enabled by the newly developed and more flexible configuration capability of GOTM. The newly implemented Langmuir turbulence parameterizations are evaluated against theoretical scalings and available observations in four test cases, including an idealized wind-driven entrainment case and three realistic cases at ocean station Papa, the northern North Sea and the central Gotland Sea, and compared with the existing General Length Scale scheme in GOTM. The results are consistent with previous studies. This development extends the capability of GOTM towards including the effects of ocean surface waves and provides useful toolsets for the ocean modeling community to further study the effects of Langmuir turbulence in a broader scope.
@@ -216,7 +218,7 @@
   title: Towards multiscale modeling of ocean surface turbulent mixing using coupled MPAS-Ocean v6.3 and PALM v5.0
   journal: Geoscientific Model Development
   volume: 14
-  pages: 2011-2028
+  pages: 2011&#x2013;2028
   pdf: https://gmd.copernicus.org/articles/14/2011/2021/gmd-14-2011-2021.pdf
   abstract: >
     A multiscale modeling approach for studying the ocean surface turbulent mixing is explored by coupling an ocean general circulation model (GCM) MPAS-Ocean with the PArallel Large eddy simulation Model (PALM). The coupling approach is similar to the superparameterization approach that has been used to represent the effects of deep convection in atmospheric GCMs. However, the focus of this multiscale modeling approach is on the small-scale turbulent mixing and their interactions with the larger-scale processes in the ocean, so that a more flexible coupling strategy is used. To reduce the computational cost, a customized version of PALM is ported on the general-purpose graphics processing unit (GPU) with OpenACC, achieving 10-16 times overall speedup as compared to running on a single CPU. Even with the GPU-acceleration technique, a superparameterization-like approach to represent the ocean surface turbulent mixing in GCMs using embedded high-fidelity and three-dimensional LES over the global ocean is still computationally intensive and infeasible for long simulations. However, running PALM regionally on selected MPAS-Ocean grid cells is shown to be a promising approach moving forward. The flexible coupling between MPAS-Ocean and PALM allows further exploration of the interactions between the ocean surface turbulent mixing and larger-scale processes, as well as future development and improvement of ocean surface turbulent mixing parameterizations for GCMs.
@@ -230,7 +232,7 @@
   journal: Physical Review Fluids
   volume: 5
   pages: 013803
-  pdf: pdf/LiFox-Kemper2020.pdf
+  pdf: https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.5.013803
   abstract:
     The anisotropy and structure of turbulence simulated by large-eddy simulations with and without Stokes-drift forcing are analyzed, with an emphasis on the linkage between the distinctive structure of Langmuir turbulence near the surface where cellular vortices aligned with the wind and wave propagation direction are apparent and the Langmuir-enhanced mixed layer entrainment at the base of the ocean surface boundary layer (OSBL) where turbulent structures differ. The tensor invariants of the Reynolds stresses, the variance of vertical velocity and buoyancy, and the velocity gradient statistics are used to categorize turbulence structures as a function of depth, including an extension of the barycentric map to show the direction as well as the magnitude of turbulence anisotropy and a vector-invariant extension of the Okubo-Weiss parameter. The extended anisotropic barycentric map and the velocity gradient statistics are demonstrated to be useful, providing compact information of the anisotropy, orientation, and structure of turbulent flows. It is found that the distinctive anisotropy and structures of Langmuir turbulence are quickly lost below regions where Stokes drift shear is significant and vortices are apparent, consistent with past observations and model results. As a result, the turbulent structures near the base of the OSBL are not significantly affected by the presence of Stokes drift above but are instead dominated by local Eulerian shear, except in one important manner. Langmuir turbulence does affect the mixed layer entrainment by providing extra available turbulent kinetic energy (TKE) via enhanced near-surface TKE production and higher vertical TKE transport energizing the turbulent structures near the base of the OSBL. The additional TKE is utilized by structures similar to those that exist without Stokes drift forcing in terms of anisotropy of their Reynolds stresses, but they are more energetic because of the Langmuir turbulence. Thus, parametrizing the major aspects of Langmuir turbulence on entrainment at the base of the OSBL can be incorporated through enhancing available energy without other modifications.
 
@@ -295,7 +297,7 @@
   journal: Journal of Physical Oceanography
   volume: 47
   pages: 2863&#x2013;2886
-  pdf: https://journals.ametsoc.org/doi/pdf/10.1175/JPO-D-17-0085.1
+  pdf: https://journals.ametsoc.org/downloadpdf/view/journals/phoc/47/12/jpo-d-17-0085.1.pdf
   abstract: >
     Large-eddy simulations (LESs) with various constant wind, wave, and surface destabilizing surface buoyancy flux forcing are conducted, with a focus on assessing the impact of Langmuir turbulence on the entrainment buoyancy flux at the base of the ocean surface boundary layer. An estimate of the entrainment buoyancy flux scaling is made to best fit the LES results. The presence of Stokes drift forcing and the resulting Langmuir turbulence enhances the entrainment rate significantly under weak surface destabilizing buoyancy flux conditions, that is, weakly convective turbulence. In contrast, Langmuir turbulence effects are moderate when convective turbulence is dominant and appear to be additive rather than multiplicative to the convection-induced mixing. The parameterized unresolved velocity scale in the K-profile parameterization (KPP) is modified to adhere to the new scaling law of the entrainment buoyancy flux and account for the effects of Langmuir turbulence. This modification is targeted on common situations in a climate model where either Langmuir turbulence or convection is important and may overestimate the entrainment when both are weak. Nevertheless, the modified KPP is tested in a global climate model and generally outperforms those tested in previous studies. Improvements in the simulated mixed layer depth are found, especially in the Southern Ocean in austral summer.
 
