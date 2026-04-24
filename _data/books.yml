@@ -1,0 +1,13 @@
+- Li2026:
+  type: bookchapter
+  author: <strong>Qing Li</strong> and Bicheng Chen
+  year: 2026
+  title: Turbulence in the ocean mixed layer
+  editor: Elie Bou-Zeid and Sutanu Sarkar
+  booktitle: Environmental Turbulence&#58; From Fundamental Physics to Critical Applications
+  publisher: Academic Press
+  pages: 307&#x2013;333
+  note: In press
+  abstract: >
+    Turbulence in the ocean mixed layer is driven by a combination of temporally and spatially varying forcings such as wind, waves, and surface buoyancy flux. It influences the marine environment and climate by modulating the air-sea exchange of heat, energy, and trace gases, as well as the transport and dispersion of materials in the upper ocean. Here we review the theoretical foundations that describe turbulence in the ocean mixed layer from the perspective of a wall boundary layer versus a wavy boundary layer, with a particular emphasis on the effects of ocean surface waves. We introduce common types of turbulence in such environments, including wind-driven shear turbulence, convective turbulence, and Langmuir turbulence. We also briefly discuss the observational and modeling tools commonly used in this field, and provide some examples of their applications in environmental sciences.
+

@@ -8,7 +8,7 @@
   {% if item.type == "article" %}
     <a class="anchor" id="{{ item | first }}"></a>
     <dd>
-      [{{ counter }}] {{ item.author}}.
+      [{{ counter }}] {{ item.author }}.
       {% if item.year %}({{ item.year }}).{% endif %}
       {% if item.url %}
         <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>.
@@ -18,6 +18,30 @@
       {% if item.journal %}<cite>{{ item.journal }}</cite>.{% endif %}
       {% if item.volume %}{{ item.volume }}.{% endif %}
       {% if item.pages %}{{ item.pages }}.{% endif %}
+      {% if item.note %}{{ item.note }}.{% endif %}
+      {% if item.pdf %}
+        <a class="fas fa-file-pdf" href="{{ item.pdf }}" target="_blank"></a>
+      {% endif %}
+      {% if item.abstract %}
+      <details>
+        <summary>Abstract</summary>
+        <p>{{ item.abstract }}</p>
+      </details>
+      {% endif %}
+    </dd>
+  {% elsif item.type == "bookchapter" %}
+    <dd>
+      [{{ counter }}] {{ item.author }}.
+      {% if item.year %}({{ item.year }}).{% endif %}
+      {% if item.url %}
+        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>.
+      {% else %}
+        {{ item.title }}.
+      {% endif %}
+      In {{ item.editor }} (Eds.),
+      <cite>{{ item.booktitle }}</cite>
+      (pp. {{ item.pages }}).
+      {{ item.publisher }}.
       {% if item.note %}{{ item.note }}.{% endif %}
       {% if item.pdf %}
         <a class="fas fa-file-pdf" href="{{ item.pdf }}" target="_blank"></a>
