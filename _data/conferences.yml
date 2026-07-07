@@ -1,3 +1,30 @@
+- Li2026Sanya:
+  type: conference
+  author: <u><strong>Qing Li</strong></u> and <u>Xinghao Jiang</u>
+  title: Impact of parameterized wind-driven boundary layer turbulence on the development and evolution of submesoscale mixed layer eddies in an idealized front
+  meeting: The International Workshop on Oceanic Finescale Processes and Their Impacts on Biogeochemistry, Weather, and Climate
+  address: Sanya, Hainan, China
+  date: July 2026
+  note: Talk
+
+- Jiang2026GRC:
+  type: conference
+  author: <u>Xinghao Jiang</u> and <u><strong>Qing Li</strong></u>
+  title: Wave-modified symmetric instability and its impact on momentum transport
+  meeting: Gordon Research Conference on Ocean Mixing
+  address: South Hadley, MA, USA
+  date: June 2026
+  note: Poster
+
+- Jiang2026GRS:
+  type: conference
+  author: <u>Xinghao Jiang</u> and <u><strong>Qing Li</strong></u>
+  title: Impact of parameterized wind-driven boundary layer turbulence on the evolution of submesoscale mixed layer eddies
+  meeting: Gordon Research Seminar on Ocean Mixing
+  address: South Hadley, MA, USA
+  date: June 2026
+  note: Poster
+
 - Li2026GRC:
   type: conference
   author: <u><strong>Qing Li</strong></u> and Gregory LeClaire Wagner
