@@ -1,6 +1,26 @@
+- li2026jfm:
+  type: article
+  author: <u><strong>Qing Li</strong></u> and Gregory LeClaire Wagner
+  title: Transition to marginal instability in Langmuir turbulence in shallow water and an analogy with rotating plane Couette flow
+  journal: Journal of Fluid Mechanics
+  year: 2026
+  note: Submitted
+  abstract: >
+    Written in its Lagrangian-mean formulation, the Craik-Leibovich (CL) equation with steady Stokes drift is mathematically identical to the governing equation of flow under background rotation. The vertical shear of Stokes drift exerts an effect on Langmuir turbulence in shallow water (SWLT) analogously to the effect of spanwise background rotation on rotating plane Couette flow (RPCF). Here we conduct large eddy simulations to study two flow regimes in SWLT in comparison with RPCF. Analogously to the flow regime transition from organized roll cells to small-scale turbulence in RPCF as the destabilizing spanwise rotation rate increases, the flow structure in SWLT transits from coherent Langmuir cells to small-scale Langmuir turbulence as Stokes drift shear increases. And eventually enhanced mixing saturates the CL instability so that the flow enters a state of marginal instability. These distinct flow regimes have an important consequence on the vertical mixing of horizontal momentum in SWLT, homogenizing Lagrangian-mean momentum in the former regime and Eulerian-mean momentum in the latter. While this regime transition is mainly governed by the inverse Rossby number Ro<sup>&minus;1</sup> defined from the constant spanwise rotation rate in RPCF, it is affected by both the surface magnitude and decay length scale of Stokes drift in SWLT so that a bulk estimate of the Stokes drift shear given by La<sub><i>t</i></sub><sup>&minus;2</sup> (where La<sub><i>t</i></sub> is the turbulent Langmuir number) is not sufficient. We show that Stokes drift shear controls the flow regime transition in SWLT by affecting the turbulence anisotropy and thereby modulating the turbulence-induced anti-Stokes effect.
+
+- chai2026jgro:
+  type: article
+  author: Xia Chai, Yuchen Ma, Jin-Han Xie, <u><strong>Qing Li</strong></u>, and Yan Wang
+  title: Observation-informed numerical study of the formation of diffusive-convection staircases within double-core eddies in the Arctic ocean
+  journal: Journal of Geophysical Research&#58; Oceans
+  year: 2026
+  note: Submitted
+  abstract: >
+    Diffusive-convection (DC) staircases within a double-core anticyclonic eddy are observed from mooring data in the Canada Basin, Arctic Ocean. The observed staircases are characterized by a layer thickness varying from a few to more than ten meters, and are detected primarily between the upper cold and lower warm eddy cores confined to the halocline and Atlantic Water layers, respectively. To explore potential driving mechanisms of the observed DC staircases, we conducted a series of process-oriented numerical simulations of double-core eddies, configured based on the mooring data. DC staircases resembling those observed via mooring emerge spontaneously between the simulated double cores if a certain combination of turbulence parameterization schemes is activated. Additional one-dimensional simulations with an identical parameterization setup reveal that staircases consistently form at locations where the initial ratio of turbulent density fluxes due to salt versus heat decreases with that of vertical density gradients, a precise condition for &#947;-instability. Since &#947;-instability typifies a broader category of flux-gradient law-based mechanisms of staircase formation found in extra-polar oceans and in astrophysical flows, the observations and numerical simulations presented here imply analogous processes governing the staircase formation in the Arctic Ocean.
+
 - zou2026rse:
   type: article
-  author: <u>Shihao Zou</u>, Dani&egrave;le Hauser, Charles Peureux, <u><strong>Qing Li</strong></u>
+  author: <u>Shihao Zou</u>, Dani&egrave;le Hauser, Charles Peureux, and <u><strong>Qing Li</strong></u>
   title: Fusing SAR and SWIM observations to improve the global Stokes drift estimates
   journal: Remote Sensing of Environment
   year: 2026
@@ -130,7 +150,7 @@
   year: 2023
   url: https://doi.org/10.1029/2022JC018959
   title: Multi-scale variability of turbulent mixing during a Monsoon Intraseasonal Oscillation in the Bay of Bengal&#58; an LES study
-  journal: Journal of Geophysical Research - Oceans
+  journal: Journal of Geophysical Research&#58; Oceans
   volume: 128
   pages: e2022JC018959
   pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022JC018959
