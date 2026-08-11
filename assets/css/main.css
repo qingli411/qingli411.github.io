@@ -1999,6 +1999,10 @@ input, select, textarea {
 					color: #4d91fe;
 				}
 
+				ul.actions li:hover a.ai-scopus-square {
+          color: #f2621e;
+				}
+
 
 /* Contact */
 
@@ -2070,27 +2074,31 @@ input, select, textarea {
 				}
 
 				ul.contact li:hover a.fa-envelope {
-					background-color: #b1ddab
+					background-color: #b1ddab;
 				}
 
 				ul.contact li:hover a.fa-github {
-					background-color: #24292d
+					background-color: #24292d;
 				}
 
 				ul.contact li:hover a.ai-orcid {
-					background-color: #98c742
+					background-color: #98c742;
 				}
 
 				ul.contact li:hover a.ai-researchgate {
-					background-color: #39ccbb
+					background-color: #39ccbb;
 				}
 
 				ul.contact li:hover a.ai-publons {
-					background-color: #336699
+					background-color: #336699;
 				}
 
 				ul.contact li:hover a.ai-google-scholar {
-					background-color: #4d91fe
+					background-color: #4d91fe;
+				}
+
+				ul.contact li:hover a.ai-scopus {
+					background-color: #f2621e;
 				}
 
 			ul.contact li:active {
