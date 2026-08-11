@@ -30,6 +30,10 @@ actions:
     title: Web of Science ResearcherID
     icon: ai ai-researcherid-square
     url: https://www.webofscience.com/wos/author/record/174982
+  - scopus:
+    title: Scopus
+    icon: ai ai-scopus-square
+    url: https://www.scopus.com/authid/detail.uri?authorId=56108555500
   - cv:
     title: CV
     icon: ai ai-cv-square
