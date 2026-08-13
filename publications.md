@@ -7,7 +7,7 @@ sections:
   - section1:
     title: Refereed papers
     data: publications
-    note: Underline indicates group members
+    note: Underline indicates a student in the group, star indicates the corresponding author
   - section2:
     title: Book chapters
     data: books
