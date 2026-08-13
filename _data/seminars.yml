@@ -1,3 +1,31 @@
+- SUST2026:
+  type: seminar
+  author: <strong>Qing Li</strong>
+  title: Stabilizing wave-induced stratification and its effects on turbulent mixing in ocean surface boundary layer
+  meeting: Symposium on Oceanic Mesoscale and Submesoscale Dynamics
+  address: Shenzhen, China
+  date: July 2026
+  organization: The Southern University of Science and Technology
+
+
+- SCSIO2026a:
+  type: seminar
+  author: <strong>Qing Li</strong>
+  title: Impact of parameterized ocean boundary layer turbulent mixing on numerical simulations of submesoscale eddy
+  meeting: Symposium on Submesoscale Processes in South China Sea
+  address: Guangzhou, China
+  date: July 2026
+  organization: South China Sea Institute of Oceanography
+
+- SCSIO2026:
+  type: seminar
+  author: <strong>Qing Li</strong>
+  title: Numerical simulations and parameterizations of ocean boundary layer turbulent mixing
+  meeting: Haijing Qingchao Forum
+  address: Guangzhou, China
+  date: July 2026
+  organization: South China Sea Institute of Oceanography
+
 - FDU2024:
   type: seminar
   author: <strong>Qing Li</strong>
@@ -6,6 +34,15 @@
   address: Shanghai, China
   date: July 2024
   organization: Fudan University
+
+- HKUST2024:
+  type: seminar
+  author: <strong>Qing Li</strong>
+  title: Ocean surface-wave driven turbulent mixing
+  meeting: Physical Oceanography Day
+  address: Clear Water Bay, Hong Kong, China
+  date: June 2024
+  organization: The Hong Kong University of Science and Technology
 
 - XMU2023:
   type: seminar
@@ -22,7 +59,7 @@
   title: Modeling the ocean surface turbulent mixing
   meeting: OCES Seminar
   address: Clear Water Bay, Hong Kong, China
-  date: Septemper 2021
+  date: September 2021
   organization: The Hong Kong University of Science and Technology
 
 - LANL2021:
