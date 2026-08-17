@@ -7,7 +7,7 @@ sections:
   - section1:
     title: Conference presentations
     data: conferences
-    note: Underline indicates group members
+    note: Underline indicates a student in the group
   - section2:
     title: Seminar talks
     data: seminars
