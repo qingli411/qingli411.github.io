@@ -5,6 +5,7 @@ image: /images/yankunliu.jpg
 image_url: people.html#people-yankunliu
 language: en
 order: 6
+invisible: true
 actions:
   - email:
     title: Email

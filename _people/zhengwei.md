@@ -5,6 +5,7 @@ image: /images/zhengwei.jpg
 image_url: people.html#people-zhengwei
 language: en
 order: 2
+invisible: true
 actions:
   - email:
     title: Email

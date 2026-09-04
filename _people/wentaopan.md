@@ -5,6 +5,7 @@ image: /images/wentaopan.jpeg
 image_url: people.html#people-wentaopan
 language: en
 order: 3
+invisible: true
 actions:
   - email:
     title: Email

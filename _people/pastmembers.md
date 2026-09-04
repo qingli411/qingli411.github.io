@@ -5,5 +5,7 @@ language: en
 order: 99
 ---
 
-- Yaoru Pan (Postdoc, with B. Fox-Kemper, 2022-2023)
-- Cheng Jin (MPhil, 2023-2024)
+- Wentao Pan (PhD, 2022--2026)
+- Zheng Wei (PhD, 2022--2026)
+- Yankun Liu (MPhil, 2023--2025)
+- Yaoru Pan (Postdoc, with B. Fox-Kemper, 2022--2023)
