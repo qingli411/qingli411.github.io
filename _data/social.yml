@@ -2,18 +2,22 @@
   title: GitHub
   icon: brands fa-github
   url: https://github.com/qingli411
-- orcid:
-  title: ORCID
-  icon: ai ai-orcid
-  url: https://orcid.org/0000-0002-6464-0977
 - googlescholar:
   title: Google Scholar
   icon: ai ai-google-scholar
   url: https://scholar.google.com/citations?user=nGz1OOwAAAAJ&hl=en
+- orcid:
+  title: ORCID
+  icon: ai ai-orcid
+  url: https://orcid.org/0000-0002-6464-0977
 - researchgate:
   title: ResearchGate
   icon: ai ai-researchgate
   url: https://www.researchgate.net/profile/Qing_Li75
+- scopus:
+  title: Scopus
+  icon: ai ai-scopus
+  url: https://www.scopus.com/authid/detail.uri?authorId=56108555500
 - webofscience:
   title: Web of Science
   icon: ai ai-researcherid
