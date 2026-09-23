@@ -24,7 +24,10 @@
   title: Fusing SAR and SWIM observations to improve the global Stokes drift estimates
   journal: Remote Sensing of Environment
   year: 2026
-  note: Accepted
+  volume: 347
+  pages: 115687
+  url: https://doi.org/10.1016/j.rse.2026.115687
+  pdf: https://www.sciencedirect.com/science/article/pii/S0034425726004578/pdfft?md5=47f42fce58615bf71320646ae23064b9&pid=1-s2.0-S0034425726004578-main.pdf
   abstract: >
     Stokes drift of ocean surface waves is an important quantity in wave-current coupling theories that affects tracer transport in the upper ocean. However, direct measurement of Stokes drift is elusive. More commonly, it is computed from measured wave spectrum. While in situ measurements of wave spectrum are available on wave buoys, they are limited mostly in coastal regions. Remote sensing of wave spectrum by the Synthetic Aperture Radar (SAR) or the Surface Wave Investigation and Monitoring (SWIM) instrument enables wave spectrum observations globally. Yet both systems present distinct constraints: SAR provides directional information but suffers from velocity bunching effects that restrict measurable wavenumbers and cause spectral distortions, while SWIM offers broader spectral coverage with minimal amplitude underestimation but produces directionally ambiguous spectra. To address these complementary limitations, we  propose a novel fusion framework to combine SAR and SWIM using conventional signal processing techniques. We validate the fused Stokes drift against in situ wave buoy measurements at Ocean Station Papa. Compared to the standalone SAR and SWIM results, our fusion approach improves Stokes drift estimates and demonstrates robust performance for the mean Stokes drift vector across various sea states. In addition, we categorize the error sources as either observational or methodological to guide future improvements. Finally, we apply this fusion approach to the global ocean, which yields seasonal Stokes drift estimates that are more consistent with the established understanding of global wave patterns than the estimate based on SWIM alone. These findings show the potential of the fusion approach towards an improved estimate of global Stokes drift.
 
